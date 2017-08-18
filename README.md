@@ -12,8 +12,8 @@
 </p>
 
 ## Quickstart:
-Interface for Amazon Mechanical Turk for Dialogue Annotation.
-The current version is built for annotating self-disclosure but can be modified for any purpose.
+Interface for Amazon Mechanical Turk for Dialogue Annotation.<br />
+The current version is built for annotating self-disclosure but can be modified for any purpose.<br />
 Read the documentation for more information on how to use mTurk. 
 
 - Clone the repo: `git clone https://github.com/mmasley/RAPT-AMT-August2017-UI.git`
