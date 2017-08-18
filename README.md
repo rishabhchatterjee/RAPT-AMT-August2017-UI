@@ -11,17 +11,16 @@
     A framework for crowd-sourced dialogue annotation.
 </p>
 
-
-# RAPT-AMT-August2017-UI
+## Quickstart:
 Interface for Amazon Mechanical Turk for Dialogue Annotation.
-The current version is built for annotating self-disclosure but can be modified for any purpose
+The current version is built for annotating self-disclosure but can be modified for any purpose.
+Read the documentation for more information on how to use mTurk. 
 
+- Clone the repo: `git clone https://github.com/mmasley/RAPT-AMT-August2017-UI.git`
+- Install node module: `npm install express`
+- Run server: `node server.js`
+- Go to following address in-browser: `http://localhost:8000`
 
-<h2> Setting up the mTurk Annotation Interface </h2>
-<strong>Prepare and run the node.js server</strong> <br />
-- npm install express <br />
-- node server.js <br />
-- In browser, go to http://localhost:8000 <br />
 <br />
 <br />
 
