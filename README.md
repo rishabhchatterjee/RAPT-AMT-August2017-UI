@@ -1,3 +1,12 @@
+<p align="center">
+
+  <h3 align="center">Amazon mTurk Dialogue Annotation</h3>
+
+  <p align="center">
+    A framework for crowd-sourced dialogue annotation.
+</p>
+
+
 # RAPT-AMT-August2017-UI
 Interface for Amazon Mechanical Turk for Dialogue Annotation.
 The current version is built for annotating self-disclosure but can be modified for any purpose
