@@ -1,5 +1,10 @@
 <p align="center">
 
+  <a href="http://articulab.hcii.cs.cmu.edu/">
+    <img src="https://yt3.ggpht.com/-LYNJRc7uPBQ/AAAAAAAAAAI/AAAAAAAAAAA/eODB-dlfFcA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" width="150">
+  </a>
+
+
   <h3 align="center">Amazon mTurk Dialogue Annotation</h3>
 
   <p align="center">
