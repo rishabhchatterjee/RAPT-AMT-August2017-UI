@@ -1,0 +1,907 @@
+Begin Time - hh:mm:ss.ms	End Time - hh:mm:ss.ms	P1	Time	P2	SD_P1_Michelina	SD_P2_Michelina	SD_Notes_Michelina
+00:00:03.500	00:00:04.200	yeah					
+00:00:07.500	00:00:07.600	okay					
+00:00:26.200	00:00:26.300	yeah					
+00:00:35.200	00:00:35.300	okay					
+00:00:40.900	00:00:41.000	cool					
+00:00:52.300	00:00:53.000			yup I think so			
+00:00:56.800	00:00:58.000	all right					
+00:00:57.440	00:07:37.920		S1 				
+00:00:58.600	00:00:58.800			hey			
+00:00:58.800	00:00:59.300	I'm Isaiah			SD		
+00:01:00.000	00:01:01.000			hi I am (inaudible) I guess		SD	hi i am gage i guess is my name
+00:01:01.000	00:01:03.600	nice to meet you					
+00:01:04.200	00:01:05.500			nice to meet you too			
+00:01:05.800	00:01:07.600			what school do you go to		QE	
+00:01:07.700	00:01:09.200	pause filler I go to Allderdice			SD		
+00:01:09.200	00:01:10.000	Taylor Allderdice					
+00:01:10.000	00:01:10.600			oh really			
+00:01:10.700	00:01:11.000	yeah					
+00:01:11.000	00:01:12.000			I'm going there next year		SD	
+00:01:12.600	00:01:13.200	oh nice					
+00:01:13.200	00:01:13.800	that's awesome					
+00:01:13.800	00:01:15.300	are you excited for it			SD		
+00:01:16.300	00:01:19.400			yeah it sounds like it's going to be good			
+00:01:19.400	00:01:23.000			I hear it has like good program for computers right			
+00:01:23.200	00:01:25.400	yeah they have good program for computers					
+00:01:25.800	00:01:28.200	they also have a good engineering program too					
+00:01:28.400	00:01:30.200			engineering and computers it's nice			
+00:01:30.600	00:01:30.800	yeah					
+00:01:31.400	00:01:32.900			things that I'm interested in			
+00:01:32.900	00:01:33.200	nice					
+00:01:33.500	00:01:35.300	that's awesome					
+00:01:35.300	00:01:41.200			so pause filler yeah I guess we're in some sort of test test right now			
+00:01:41.400	00:01:43.800	yeah looks like it					
+00:01:43.800	00:01:46.100			pause filler yeah it's nice how they have a shared whiteboard			
+00:01:46.100	00:01:46.800			that's cool			
+00:01:47.600	00:01:49.600			that's something that I've never seen them before		SD	
+00:01:49.600	00:01:50.700	me neither					
+00:01:52.000	00:01:58.900	are you pause filler going to be involved in any extra-curricular at Allderdice like sports or pause filler clubs			QE		
+00:01:59.100	00:02:00.500			probably not			
+00:02:00.500	00:02:02.900			pause filler a little more introverted with my programs		SD	
+00:02:03.500	00:02:06.500			particularly the ones (inaudible) evolution			
+00:02:06.800	00:02:07.600	nice					
+00:02:08.100	00:02:11.400	well next year I'm pretty sure you'll be learning biology					
+00:02:11.500	00:02:13.400	and on the second semester					
+00:02:13.400	00:02:15.200			oh I'm learning biology this year too		SD	
+00:02:15.200	00:02:20.200	yeah well one of the schools I guess you need to learn it twice it's pretty interesting but					
+00:02:20.400	00:02:20.700			yeah			
+00:02:21.200	00:02:23.200	yeah yeah					
+00:02:23.400	00:02:25.200			cell biology cell (inaudible)			
+00:02:25.800	00:02:33.200			pause filler yeah I hear it's going to be almost exactly the same as it was pause filler in middle school			
+00:02:33.200	00:02:34.700			which middle school did you go to		QE	
+00:02:35.000	00:02:37.200	I pause filler did a program called Cyber School			SD		
+00:02:37.500	00:02:41.300	and pause filler it was just a tutoring school remotely from home					
+00:02:41.300	00:02:44.100	and pause filler using like computers					
+00:02:44.100	00:02:45.900	and going to like online classes					
+00:02:45.900	00:02:48.200	and learning so that yeah					
+00:02:48.800	00:02:49.700			okay cool			
+00:02:49.700	00:02:52.500			would you say you know a lot about the algebra we're learning here		SD	
+00:02:52.500	00:02:56.300	pause filler I mean I don't really get them out so			SD		i know a good amount so
+00:02:56.900	00:03:07.300			yeah yeah yeah I suppose this probably works a little better with kids who are less knowledgeable about it			
+00:03:07.700	00:03:08.000	yes					
+00:03:08.000	00:03:12.900	but when it comes to advanced stuff I'm a little rusty on that but yeah			SD		
+00:03:12.900	00:03:16.600			yeah I haven't really done algebra in a while		SD	
+00:03:16.900	00:03:19.900			we're learning geometry this time of year pause filler		SD	
+00:03:21.800	00:03:22.700	nice					
+00:03:24.700	00:03:27.100			yeah last year was our algebra thing		SD	
+00:03:27.100	00:03:30.000			have you taken keystones yet		QE	
+00:03:30.100	00:03:36.500	pause filler last week pause filler one same Thursday I did the biology keystones					
+00:03:36.600	00:03:38.400	and that's was it so					
+00:03:38.800	00:03:45.500			okay yeah our school as part of our math program we do the keystones			
+00:03:45.500	00:03:48.800			pause filler just before high school			
+00:03:48.800	00:03:51.400			so we don't have to deal with it then			
+00:03:51.400	00:03:52.900			just have to go through now			
+00:03:54.200	00:03:57.300	that's good to get off your chest you know					
+00:03:57.500	00:04:03.100			factoring polynomials is really the only thing that I've lost after that time		SD	
+00:04:03.200	00:04:06.300			and overall it doesn't make a lot of sense to me			
+00:04:06.300	00:04:07.400			I mean it make sense to me		SD	
+00:04:07.400	00:04:11.400			but it doesn't seem like you would use it that much			
+00:04:12.300	00:04:17.399			as opposed to geometry and algebra where a lot more common			
+00:04:17.399	00:04:22.300			but factoring polynomials that's all like the stuff that doesn't really tangible			
+00:04:23.100	00:04:25.800	mm-hmm yeah yeah					
+00:04:25.800	00:04:27.100			is there like a verb for tangibleness			
+00:04:27.400	00:04:27.600			things don't tangenate			
+00:04:27.600	00:04:28.900	(laughter) I have no clue			SD		
+00:04:28.900	00:04:29.100			yeah			
+00:04:29.600	00:04:29.900	nice					
+00:04:29.900	00:04:45.800			yeah well we're out of conversation topics then			
+00:04:46.100	00:04:48.200	(laughter) won't you look at that right					
+00:04:48.700	00:04:50.800			yup it didn't take that long at all			
+00:04:50.900	00:04:51.200	no					
+00:04:51.700	00:04:54.700			what do you see on your screen			
+00:04:55.100	00:04:58.600			I see pause filler half of it is pause filler you and me			
+00:04:58.600	00:05:01.800			and then the other half would be the desktop			
+00:05:02.200	00:05:03.700	yup that's what I'm seeing					
+00:05:04.200	00:05:05.000	it's blue pause filler					
+00:05:05.000	00:05:08.600			see anything interesting on the desktop			
+00:05:09.100	00:05:10.300	pause filler not really					
+00:05:10.300	00:05:11.100	well there's Evernote					
+00:05:11.400	00:05:13.500	it's a program					
+00:05:13.500	00:05:14.900			I see a batch file on the desktop			
+00:05:14.900	00:05:15.900			I wonder what it does			
+00:05:16.800	00:05:19.500	pause filler let's see what else					
+00:05:20.500	00:05:21.200	that's it					
+00:05:21.700	00:05:22.700	I don't know					
+00:05:22.700	00:05:23.700			does this work			
+00:05:24.000	00:05:27.600			well I can't really interact with this until I get the pens			
+00:05:27.600	00:05:30.500			so not a lot I can do until then			
+00:05:30.500	00:05:31.700	seems very cool though					
+00:05:31.700	00:05:32.800	they're very yeah					
+00:05:32.800	00:05:40.300			yeah have you seen the cool robotic face recognition program that just was there		QE	
+00:05:40.300	00:05:41.100	pause filler no					
+00:05:41.400	00:05:42.800	I didn't get to see that					
+00:05:43.100	00:05:43.300	no					
+00:05:43.500	00:05:46.600			it was I forgot when this was it was probably a while ago			
+00:05:46.600	00:05:50.900			but there was like pause filler we were just my mom was showing me where she worked			
+00:05:51.400	00:05:57.300			pause filler and we classify like this face recognition pause filler robot thing			
+00:05:57.300	00:06:05.400			just recognized whether or not we are happy or sad or like making happy or sad face or			
+00:06:05.400	00:06:07.500			like a surprised face I guess was the third option			
+00:06:07.700	00:06:09.600	that's very extraordinary wow					
+00:06:10.300	00:06:10.700			yeah			
+00:06:12.000	00:06:15.000	yeah that's cool all right					
+00:06:15.000	00:06:17.200			I wonder what we'll be able to do soon			
+00:06:17.200	00:06:19.300			and we'll be able to go to Mars			
+00:06:19.300	00:06:20.100			(inaudible)			
+00:06:20.100	00:06:28.100	yeah I feel like I'm in a kitchen right now because there's a microwave right on the table					
+00:06:28.100	00:06:31.200	and behind the computer is a fridge					
+00:06:31.800	00:06:35.000	and it's just a kitchen I guess					
+00:06:35.300	00:06:37.500	a sink with I don't know					
+00:06:37.500	00:06:41.200	I feel like I'm in the kitchen right now					
+00:06:41.200	00:06:43.600			pause filler I am certainly in a presentation now			
+00:06:43.800	00:06:46.700			there is a projector on the ceiling			
+00:06:46.700	00:06:48.400			and I am surrounded by whiteboards			
+00:06:48.400	00:06:52.000			I mean we won't be able to see if there's a whiteboard that way			
+00:06:52.900	00:06:54.200			that way is the glass wall			
+00:06:54.200	00:06:55.400			but it's supposed to be whiteboard			
+00:06:55.400	00:06:56.400			and then behind me is whiteboard			
+00:06:56.400	00:06:57.100			and all that is whiteboard			
+00:06:58.000	00:07:00.300			and all this is whiteboard			
+00:07:00.300	00:07:03.600			and there's a projector over there			
+00:07:03.600	00:07:08.500			and pause filler oh yeah there is a microwave and a coffeemaker and a refrigerator			
+00:07:10.400	00:07:10.800	nice					
+00:07:12.600	00:07:13.700			yup			
+00:07:14.000	00:07:16.500	did you have your day out					
+00:07:18.200	00:07:22.800			I have all but forgotten what it was like to be outside today because I didn't pay attention		SD	
+00:07:22.800	00:07:25.100			mostly I just walk inside			
+00:07:25.300	00:07:27.000			and pause filler now I'm here			
+00:07:28.300	00:07:29.500			I don't pay attention too much			
+00:07:30.100	00:07:31.500			it's kind of in the way			
+00:07:33.500	00:07:33.900	okay					
+00:07:34.500	00:07:37.400			and it looks like our thing is about to starty			
+00:08:14.800	00:08:18.000	what is plain green text again					
+00:08:25.900	00:08:26.700	all right great					
+00:08:32.400	00:08:33.799	all right thanks					
+00:08:34.650	00:19:20.620		T1 				
+00:08:35.000	00:08:35.600	all right hi					
+00:08:35.600	00:08:39.000	are you ready to get this math started			QE		
+00:08:39.700	00:08:43.200	all right all right so pause filler					
+00:08:43.200	00:08:46.800			I'd probably be better if this was a mouse		SD	
+00:08:46.800	00:08:53.200			let's see back back back back back back back back back back back back back back back back			
+00:08:53.200	00:08:54.600			okay I'm ready		SD	
+00:08:54.600	00:08:59.100	all right so in this equation it looks like x our variable					
+00:09:00.600	00:09:01.300	oops that's					
+00:09:01.300	00:09:02.900			yup that's the variable yup			
+00:09:02.900	00:09:06.400	yup it's being subtracted by six and so just					
+00:09:06.400	00:09:07.600			equals thirteen			
+00:09:07.900	00:09:10.600	so yeah it equals thirteen so					
+00:09:10.600	00:09:17.500			solve it because that also means if you add the six to both sides because that's how I do this			
+00:09:18.000	00:09:18.800			I got it		SD	
+00:09:18.800	00:09:20.900			this is worse than writing on paper			
+00:09:20.900	00:09:21.800			and I'm bad at this		SD	
+00:09:22.100	00:09:25.600			which means x equals thirteen plus			
+00:09:26.100	00:09:27.900			wait that's the point			
+00:09:28.800	00:09:29.400			six			
+00:09:29.700	00:09:33.600			which means x equals nineteen			
+00:09:34.000	00:09:34.500	awesome					
+00:09:34.600	00:09:36.500	yup it seems like it got it					
+00:09:36.500	00:09:39.900	all right and so I guess we clicked the arrow					
+00:09:39.900	00:09:42.000			next page next			
+00:09:42.600	00:09:42.900	perfect					
+00:09:43.800	00:09:47.100			oh fifteen equals negative eight plus p			
+00:09:47.400	00:09:50.000	so appears to be the same thing					
+00:09:50.100	00:09:55.700	we want to add eight to get the variable one and that's					
+00:09:55.700	00:10:04.100			yup I know we just have pause filler fifteen less eight equals p			
+00:10:04.100	00:10:12.000			is that fifteen plus eight doing about (inaudible) stop working sixteen			
+00:10:12.100	00:10:13.300			wait no that can't be write			
+00:10:13.300	00:10:15.200			ah green work			
+00:10:15.800	00:10:16.900			it's twenty-three			
+00:10:16.900	00:10:18.600			there we go			
+00:10:18.600	00:10:26.300			so fifteen plus eight equals twenty-three which means twenty-three equals			
+00:10:26.300	00:10:27.100	equals p					
+00:10:28.000	00:10:28.200			p			
+00:10:28.200	00:10:30.600	eight seems like					
+00:10:30.600	00:10:32.400			twenty-three let's just say that			
+00:10:32.600	00:10:33.100			there we go			
+00:10:33.100	00:10:33.900	twenty-three equals					
+00:10:33.900	00:10:34.500			page			
+00:10:35.200	00:10:37.600	next page there we go					
+00:10:37.800	00:10:39.900			seventeen equals k plus eleven			
+00:10:40.200	00:10:43.600			well this time we'll have to subtract from this side of stuff			
+00:10:43.600	00:10:45.300	yup because it is being					
+00:10:45.500	00:10:48.500			yup because this time it's pause filler here yeah			
+00:10:48.800	00:10:55.000			mine is eleven so that means that pause filler six equals k			
+00:10:57.100	00:11:00.800			for the next page I see them			
+00:11:00.800	00:11:03.000			so forty-four x minus			
+00:11:03.300	00:11:05.200	so forty-four (inaudible) multiply					
+00:11:05.200	00:11:06.600			oh that's an equal sign			
+00:11:06.600	00:11:08.400			I was like it just looked like minus			
+00:11:08.800	00:11:13.100			oh so yup forty-four times x equals negative two twenty which means that			
+00:11:13.100	00:11:15.500	so the opposite of it so then you would pause filler					
+00:11:16.500	00:11:18.100			wait is that negative two twenty			
+00:11:18.100	00:11:19.500			or what's going on right now			
+00:11:19.500	00:11:23.000	pause filler I just see forty-four x equals twenty					
+00:11:23.000	00:11:24.200	yeah I don't see negative					
+00:11:24.200	00:11:26.400			the top line is kind of like weird			
+00:11:26.400	00:11:27.100	all right					
+00:11:27.100	00:11:37.200			so just yeah pause filler so I see we just x equals two twenty divided by forty-four			
+00:11:37.200	00:11:38.000			god damn it			
+00:11:38.500	00:11:41.500			which pause filler divided by two zero			
+00:11:41.500	00:11:47.300			let's just say divided by yeah divided by two			
+00:11:47.300	00:11:53.800			okay pause filler which means that one no one one zero			
+00:11:53.800	00:11:55.200			damn it			
+00:11:55.200	00:11:58.000	all right well we can do it					
+00:11:58.000	00:11:59.300			divided by twenty-two			
+00:11:59.300	00:12:00.400	if that way works for you					
+00:12:00.400	00:12:01.400	we can do it that way but					
+00:12:01.600	00:12:03.400			yeah which way do you usually do it yeah			
+00:12:04.200	00:12:06.900	to tell you the truth I'll probably just use the calculator					
+00:12:06.900	00:12:09.200	but since I don't have that					
+00:12:09.200	00:12:13.300	pause filler we could set up where pause filler (inaudible) twenty					
+00:12:14.600	00:12:18.100	then to go like this					
+00:12:18.500	00:12:20.200			I mean we could factor it yeah			
+00:12:21.300	00:12:23.000	yeah this is the longest way					
+00:12:23.000	00:12:25.000	but if we could do that way or wherever way					
+00:12:25.000	00:12:25.600			that's (inaudible) yeah pause filler			
+00:12:25.700	00:12:28.300	but if you want to factor it go ahead					
+00:12:29.100	00:12:31.000			let's see			
+00:12:31.000	00:12:33.500			I feel like this would be a little easier on paper		SD	
+00:12:33.700	00:12:38.500			okay one one zero to be like fifty			
+00:12:38.500	00:12:41.000			and then that would be five			
+00:12:41.000	00:12:42.000			would that be fifty-five			
+00:12:42.100	00:12:43.000			oh I think so			
+00:12:43.200	00:12:45.800			yeah fifty-five over eleven			
+00:12:45.800	00:12:49.800	and then we can check					
+00:12:49.800	00:12:54.500			oh wait doesn't that just mean that it's five over five wait five			
+00:12:54.500	00:12:56.000	I'm actually not sure			SD		
+00:12:56.300	00:12:57.300			I'm not sure either		SD	
+00:12:57.300	00:13:00.200			let's just say x equals five			
+00:13:00.500	00:13:02.000			bam simplify everything			
+00:13:02.700	00:13:04.600			let's just assume that's right			
+00:13:05.500	00:13:10.900			and if all else fails x equals two twenty over forty-four			
+00:13:13.800	00:13:14.300	all right					
+00:13:14.300	00:13:15.500			bam close enough			
+00:13:15.500	00:13:18.000	all right so I assume					
+00:13:18.700	00:13:22.100			negative nine plus thirteen p equals forty-one			
+00:13:22.600	00:13:28.700	so first step is to add the constant I think it's called					
+00:13:29.500	00:13:33.500			yeah I guess because the quotient is this thing that you multiply by five			
+00:13:33.700	00:13:35.100	yeah yeah the constant					
+00:13:35.400	00:13:36.200			so yeah			
+00:13:36.500	00:13:37.300	so both that yeah					
+00:13:37.300	00:13:38.800	so add nine					
+00:13:40.500	00:13:46.200			so then fifty equals thirteen p			
+00:13:46.800	00:13:57.900			which means that p equals fifteen over thirty oh no fifty over thirteen			
+00:13:57.900	00:13:58.300			correct			
+00:13:59.600	00:14:03.400			which means that pause filler and you can't simplify that because p is prime			
+00:14:03.400	00:14:04.600			bam next			
+00:14:05.100	00:14:07.000			or because thirteen is prime			
+00:14:07.100	00:14:07.600	perfect					
+00:14:08.000	00:14:08.300			yup			
+00:14:08.300	00:14:12.900	all right another same problem					
+00:14:14.400	00:14:15.100	pause filler so first step					
+00:14:16.000	00:14:16.900	subtract ten					
+00:14:17.000	00:14:17.900			yeah subtract ten			
+00:14:17.900	00:14:18.800			so six x			
+00:14:18.800	00:14:20.900	just like the last one except					
+00:14:20.900	00:14:23.300			equals twenty-four			
+00:14:24.700	00:14:26.500	yup and then divide					
+00:14:26.500	00:14:30.100			which means divide it by four so six			
+00:14:31.100	00:14:33.800			yeah pause filler so twenty-four			
+00:14:33.800	00:14:35.000			I know that's easy			
+00:14:35.100	00:14:35.700			it's like four			
+00:14:35.700	00:14:36.300			is that four			
+00:14:36.300	00:14:36.800			I think that's four			
+00:14:36.800	00:14:37.400	yup it's four					
+00:14:38.000	00:14:40.600			x equals four			
+00:14:41.100	00:14:43.000			so good at writing on this			
+00:14:44.500	00:14:46.300			okay next			
+00:14:46.800	00:14:47.900			next click			
+00:14:47.900	00:14:48.300			I'm clicking			
+00:14:48.300	00:14:49.200			I'm trying to click oh			
+00:14:49.200	00:14:52.600	oh yeah I get it oh wait					
+00:14:52.600	00:14:53.100	I think (inaudible)					
+00:14:53.100	00:14:53.800			yeah I think (inaudible)			
+00:14:54.100	00:14:54.300	pause filler wait					
+00:14:54.300	00:14:55.200			there we go			
+00:14:55.200	00:14:56.300	seven number seven					
+00:14:56.800	00:14:57.400			seven			
+00:14:57.400	00:14:58.800			there we go pause filler			
+00:14:59.400	00:15:02.400	forty equals negative twenty-two plus fifteen k					
+00:15:02.400	00:15:05.900			plus well first step would be to add the thing so pause filler yup			
+00:15:06.100	00:15:09.600	yeah twenty-two to both sides					
+00:15:09.600	00:15:15.600			sixty-two equals fifteen k yeah			
+00:15:15.800	00:15:17.000	sixty yup					
+00:15:17.000	00:15:21.200	and then you're going to want to divide fifteen k to both sides					
+00:15:21.200	00:15:28.600			so then sixty-two divided by fifteen equals k			
+00:15:28.600	00:15:29.400			yay			
+00:15:30.300	00:15:32.100			pause filler can we simplify that			
+00:15:32.100	00:15:33.000			I don't know			
+00:15:33.000	00:15:36.400			okay I don't think so because it would have to be a five right			
+00:15:36.900	00:15:37.200	yeah					
+00:15:38.500	00:15:42.000			pause filler oh we won't be able to divide it by three			
+00:15:42.000	00:15:42.700			but I don't care anymore			
+00:15:42.800	00:15:47.000			so okay so well first is that an equals			
+00:15:47.000	00:15:48.100	that's not a minus					
+00:15:48.100	00:15:49.000			okay that's an equals			
+00:15:49.100	00:15:49.900			there we go			
+00:15:49.900	00:15:50.600			that's an equals			
+00:15:51.800	00:15:55.400			pause filler thirty-three minus twelve plus seven			
+00:15:57.300	00:16:02.400			so then first we'd have to pause filler minus the twelve			
+00:16:03.200	00:16:03.900	yup					
+00:16:03.900	00:16:08.300			so pause filler thirty-three minus twelve equals			
+00:16:09.400	00:16:11.600			pause filler twenty-one			
+00:16:11.600	00:16:15.300			so twenty-one equals seven x yup			
+00:16:15.400	00:16:17.000	and then what again to do off of that					
+00:16:17.400	00:16:18.700			seven x			
+00:16:18.700	00:16:21.300			and after that I'll just that's seventy-eight			
+00:16:21.500	00:16:23.800			I'm touching random buttons			
+00:16:23.900	00:16:28.600			pause filler which means that pause filler x equals three because yeah			
+00:16:28.600	00:16:31.500	because yeah seven divided by twenty-one equals three					
+00:16:33.100	00:16:34.700	and we cannot simplify that anymore					
+00:16:35.100	00:16:37.300			yup because three is just three three			
+00:16:37.600	00:16:40.500	so this one there's pause filler we're going to do it step by step					
+00:16:40.900	00:16:43.200	and we can do it like					
+00:16:43.800	00:16:46.500			let's just subtract p first so that begins			
+00:16:46.500	00:16:47.300	subtract p first					
+00:16:47.500	00:16:48.400	that's a good					
+00:16:48.600	00:16:51.900			fifteen equals two p yup			
+00:16:51.900	00:16:55.100	all right and then plus twelve					
+00:16:55.700	00:16:57.400	and then let's add					
+00:16:57.600	00:16:58.400			subtract twelve right			
+00:16:58.400	00:16:58.800			that would make			
+00:16:58.800	00:16:59.600	subtract twelve					
+00:16:59.600	00:17:01.200	yup that would be the next step all right					
+00:17:01.200	00:17:03.400			yup pause filler so then subtract twelve			
+00:17:03.400	00:17:08.099			it would just be three equals two p			
+00:17:08.099	00:17:15.400			and that means that p equals three over two			
+00:17:15.400	00:17:17.900			and we can't simplify that because both of them are prime			
+00:17:18.500	00:17:19.000	perfect					
+00:17:19.200	00:17:19.700	that's great					
+00:17:19.900	00:17:20.400			wonderful			
+00:17:22.300	00:17:23.400	oop I skipped one					
+00:17:23.400	00:17:24.700	oops number ten					
+00:17:25.300	00:17:26.400	yup last problem					
+00:17:26.400	00:17:27.000	number ten					
+00:17:27.300	00:17:31.700	so again we can do it we can pause filler start we can do lots of things					
+00:17:31.700	00:17:34.000	but let's just start off simpl with the k					
+00:17:34.500	00:17:35.800	and get that out of the way first					
+00:17:36.400	00:17:38.000			okay so that would mean we subtract the k			
+00:17:38.000	00:17:48.000			so that means that negative ten equals seven k minus sixty-eight okay			
+00:17:48.100	00:17:48.800	yup					
+00:17:48.800	00:17:50.700			okay bam			
+00:17:51.400	00:17:52.500			that's it pause filler			
+00:17:53.400	00:17:58.600			and that means that we can add sixty-eight			
+00:17:58.600	00:17:59.800			so that means that pause filler			
+00:17:59.800	00:18:00.300			oh crap			
+00:18:00.300	00:18:02.900			what's negative ten plus sixty-eight			
+00:18:02.900	00:18:06.300			it's fifty-eight okay fifty-eight			
+00:18:06.300	00:18:06.700			god damn it			
+00:18:06.700	00:18:08.700			I keep I'm holding this like a pencil			
+00:18:08.700	00:18:14.000			so I keep pressing buttons that are weird because these things have button on the weird side			
+00:18:14.600	00:18:18.900			pause filler fifty-eight equals seven k			
+00:18:18.900	00:18:21.400			and fifty-eight is divisible by seven right			
+00:18:21.400	00:18:23.100			now it's fifty-six right			
+00:18:23.100	00:18:24.400	wait what did you just do pause filler with eight					
+00:18:24.400	00:18:27.000			pause filler I added sixty-eight to both sides			
+00:18:27.000	00:18:28.400	okay yup and yeah sixty-eight					
+00:18:28.400	00:18:30.000	so then you get fifty-eight					
+00:18:30.000	00:18:32.200	and then so then try to divide by seven and					
+00:18:32.300	00:18:36.500			don't you even divide that by like I feel that's like no that's six			
+00:18:36.500	00:18:37.900			I think I'm thinking of six points			
+00:18:37.900	00:18:38.600			no that's eight			
+00:18:38.600	00:18:38.800			oh crap			
+00:18:39.100	00:18:40.600			pause filler well I know that seven is prime anyway			
+00:18:40.600	00:18:41.400			so it doesn't matter all right			
+00:18:41.400	00:18:42.800	so wait I mean let's just like count up by seven					
+00:18:42.800	00:18:44.000	so three times seven twenty-one					
+00:18:44.000	00:18:45.000	four times seven thirty-eight					
+00:18:45.000	00:18:45.500	divide by seven					
+00:18:45.500	00:18:45.900			thirty-five			
+00:18:45.900	00:18:46.600	six times seven					
+00:18:46.600	00:18:47.100			forty-two and			
+00:18:47.100	00:18:47.700	seven times seven					
+00:18:47.700	00:18:48.100			forty-nine			
+00:18:48.100	00:18:48.800			so then fifty-six			
+00:18:48.800	00:18:49.700			so yeah that's the basic form			
+00:18:49.700	00:18:50.800			and this is the one more that they tell us to go			
+00:18:51.300	00:18:52.400			it just accidentally broke			
+00:18:52.400	00:18:53.700			sorry I'm really sorry			
+00:18:53.700	00:18:54.800			pause filler I like to pay for anyone			
+00:18:54.800	00:18:56.600			basically what happened was I was doodling on this board			
+00:18:56.600	00:18:57.800			and I pressed down too hard			
+00:18:57.800	00:18:58.800			and this thing separated here			
+00:18:58.800	00:19:00.100			and I was trying to put it back together			
+00:19:00.100	00:19:00.900			and it like broke up			
+00:19:00.900	00:19:01.800			I like to buy a new one			
+00:19:01.800	00:19:02.000			I'm sorry			
+00:19:02.000	00:19:02.900			I feel like I've done nothing			
+00:19:02.900	00:19:03.100			but (inaudible)			
+00:19:07.300	00:19:07.800			thank you			
+00:19:07.900	00:19:08.000			yeah			
+00:19:08.000	00:19:08.700			this is what I bring			
+00:19:13.100	00:19:13.400	yeah oh okay					
+00:19:17.700	00:19:18.800	cool ah the whole screen froze					
+00:19:18.800	00:20:33.600	I had to reboot everything					
+00:20:33.600	00:20:42.200	and then everything was not working					
+00:21:37.200	00:21:38.700			thank you			
+00:21:38.700	00:21:45.400			you're all very nice			
+00:22:04.000	00:22:04.600	okay					
+00:22:04.700	00:22:05.400			okay			
+00:22:14.000	00:22:15.400	sounds good					
+00:22:15.400	00:22:22.200			it's the weirdest thing			
+00:22:23.270	00:28:55.540		S2 				
+00:22:26.200	00:22:31.500			I'm just a technological curse		SD	
+00:22:32.100	00:22:36.900			wherever I exist I just bring bad computer things		SD	
+00:22:38.800	00:22:47.100	sounds miserable					
+00:22:48.800	00:23:06.800	what's your favorite flavor skill			QE		
+00:23:08.300	00:23:12.900			I don't know			
+00:23:12.900	00:23:14.100	(inaudible)					
+00:23:14.100	00:23:14.800	there's grape					
+00:23:15.500	00:23:17.300			I probably guess green apple			
+00:23:17.300	00:23:25.400	I think I like the red			SD		
+00:23:26.600	00:23:27.000	cherry					
+00:23:30.500	00:23:58.700	have you pause filler seen pause filler Captain America: Civil War			QE		
+00:24:00.300	00:24:00.700			I don't know			
+00:24:00.700	00:24:04.700	I mean I see it					
+00:24:05.800	00:24:08.400			(inaudible) oh okay continue			
+00:24:09.800	00:24:14.900	oh I'm going to see it after this			SD		
+00:24:14.900	00:24:16.500			oh cool			
+00:24:18.600	00:24:25.900	yeah $5 with free popcorn at the Waterworks					
+00:24:26.800	00:24:30.000	so pretty good deal					
+00:24:30.100	00:24:32.400			I guess so			
+00:24:34.400	00:24:40.700			yup yup			
+00:24:43.300	00:24:49.200	so what middle school do you go to right now			QE		
+00:24:49.000	00:24:50.000			Colfax		SD	
+00:24:50.600	00:24:51.200	oh nice					
+00:24:54.900	00:25:01.300	so do you pause filler do you remember any of the upperclassmen guy that I had last year			QE		
+00:25:02.400	00:25:04.700			upperclassmen pause filler yeah a few of them		SD	
+00:25:04.700	00:25:10.800			who are you thinking in particular			
+00:25:13.300	00:25:14.800	I don't know					
+00:25:14.800	00:25:19.500	I know most of the kids from Colfax pause filler and on Dice now so					
+00:25:19.900	00:25:22.300			what about Cal		QE	
+00:25:22.300	00:25:24.000	oh yeah I know Cal (laughter)			SD		
+00:25:25.400	00:25:30.100	he did a presentation today in class pause filler on his quadcopter					
+00:25:30.100	00:25:31.300	it's really cool					
+00:25:32.000	00:25:34.400	he crashed it though					
+00:25:34.400	00:25:34.500			oh			
+00:25:34.800	00:25:37.900	not really yeah yeah					
+00:25:39.000	00:25:46.200			yup and pause filler I imagine you know Tim Danger or Danger Danger			
+00:25:46.200	00:25:47.500	pause filler I don't I don't					
+00:25:47.500	00:25:48.700			oh you don't			
+00:25:50.800	00:25:53.300			yeah actually (inaudible) well if Allderdice			
+00:25:53.500	00:25:58.400			but pause filler basically his wills annoying bigger brother			
+00:25:58.400	00:26:07.800			Will (inaudible) is annoying bigger brother that on Allderdice I think			
+00:26:07.800	00:26:08.400	I know Will			SD		
+00:26:08.900	00:26:11.900	I don't know Tim though			SD		
+00:26:11.900	00:26:13.300			really you know Will			
+00:26:13.900	00:26:17.500	yup he does band					
+00:26:17.600	00:26:18.600	so I met him there					
+00:26:19.300	00:26:19.600			oh nice			
+00:26:20.200	00:26:23.700	but I do not know Tim					
+00:26:25.300	00:26:25.800			yup			
+00:26:29.100	00:26:29.600	do you know pause filler Kozuma			QE		
+00:26:29.600	00:26:30.500			Kozuma as in			
+00:26:31.000	00:26:33.500			is that a ninth grader			
+00:26:35.200	00:26:35.700	yeah					
+00:26:35.700	00:26:39.800			I don't know a lot of the ninth graders		SD	
+00:26:40.800	00:26:45.600			his name is familiar but			
+00:26:47.800	00:27:09.300	so I'm pretty sure you're going to be able to tutor now so					
+00:27:10.500	00:27:10.600			yeah			
+00:27:12.100	00:27:13.900	you get all the power					
+00:27:13.900	00:27:23.100			well so you'll be glad to get out of here		SD	well honesty i'll be glad to get out of here
+00:27:23.100	00:27:27.500			I kind of feel bad for breaking the stylus thing		SD	
+00:27:33.100	00:27:33.500	oh well					
+00:27:38.000	00:27:48.300			yeah and I almost feel partially responsible for making all of this weird stuff happen like the server exploding		SD	
+00:27:48.300	00:27:48.500	yeah					
+00:27:48.500	00:27:48.900			there there there there			
+00:27:48.900	00:27:52.700			why isn't it			
+00:27:52.800	00:28:03.400			I'm just not even going to touch it			
+00:28:04.800	00:28:04.900			aw			
+00:28:06.200	00:28:16.100			they must be like trembling around like mad to try to get this fixed			
+00:28:16.500	00:28:16.800	yeah					
+00:28:17.200	00:28:17.500			hi			
+00:28:47.900	00:28:55.700			again I'm very sorry			
+00:28:55.900	00:28:57.600			I'm very sorry			
+00:29:12.700	00:29:13.000	okay					
+00:29:41.500	00:29:43.300			okay I'll do this okay okay			
+00:29:42.890	00:41:56.360		T2 				
+00:30:04.100	00:30:05.600	all right thank you					
+00:30:07.700	00:30:09.100	I'll skip these ten problems					
+00:30:09.100	00:30:09.400	done					
+00:30:09.400	00:30:11.500	all right what do we have					
+00:30:12.000	00:30:15.500			so negative three plus the x equals the twenty-two			
+00:30:15.500	00:30:18.100			well I suppose you probably know what to do			
+00:30:18.100	00:30:21.700			that was a lot for me to do this number			
+00:30:21.700	00:30:23.100			it's really important			
+00:30:23.200	00:30:28.000			it's a really important number right there			
+00:30:28.000	00:30:29.000	what are you doing					
+00:30:29.500	00:30:30.400			oh crap			
+00:30:30.800	00:30:31.700	you are curse					
+00:30:33.700	00:30:36.200			why am I allowed to undo your Scribbles			
+00:30:36.200	00:30:38.500			okay okay x equals twenty-five			
+00:30:38.600	00:30:39.900			we're just going to leave it that (laughter)			
+00:30:40.800	00:30:41.500	yup that's					
+00:30:42.500	00:30:44.400			all right negative y plus eight			
+00:30:44.800	00:30:48.900			what the what am I what's going ah			
+00:30:48.900	00:30:51.600	so I assume I want to pause filler subtract eighteen first					
+00:30:52.200	00:30:53.900			yup or subtract the eighteen			
+00:30:55.100	00:30:59.000	and then what do we get there pause filler					
+00:30:59.300	00:30:59.800			well you'd get pause filler			
+00:31:00.600	00:31:00.700	five					
+00:31:00.800	00:31:03.300			twenty-three minus eighteen is that five			
+00:31:03.300	00:31:05.200			yeah I think that is five			
+00:31:05.200	00:31:07.300			the answer is five			
+00:31:07.300	00:31:14.700	and then just multiply by negative one because you don't want a negative variable so					
+00:31:14.900	00:31:18.500			we'll leave it y equals negative five			
+00:31:18.500	00:31:19.900	perfect					
+00:31:20.500	00:31:22.100			that's it			
+00:31:22.100	00:31:23.900	oh I skipped one my bad					
+00:31:24.400	00:31:27.300			all right negative k minus fourteen			
+00:31:28.500	00:31:31.200			ah this time you have two variables			
+00:31:31.200	00:31:33.600			so you'll have to like get rid of one of them			
+00:31:33.700	00:31:35.300			I recommend adding it makes it easier			
+00:31:35.800	00:31:37.100	yeah I'll add by k					
+00:31:38.000	00:31:38.100			okay			
+00:31:38.200	00:31:46.000	and then I get negative fourteen equals thirty-six					
+00:31:46.500	00:31:49.100			plus two k I think all right yeah			
+00:31:51.800	00:31:54.500	and then add fourteen					
+00:31:55.600	00:31:57.000			pause filler you could add fourteen			
+00:31:57.000	00:31:59.100			but I'd recommend subtracting them			
+00:31:59.100	00:32:01.000	oh yeah yeah yeah mine just only do that yeah					
+00:32:01.400	00:32:01.700			yeah			
+00:32:05.500	00:32:07.100	and then I'm going to get					
+00:32:08.300	00:32:12.200	pause filler what am I going to get here					
+00:32:13.300	00:32:16.100			pause filler negative fifty no			
+00:32:16.100	00:32:19.200	yeah negative fifty because yeah					
+00:32:19.200	00:32:19.400			yup			
+00:32:19.800	00:32:21.500	negative fifty					
+00:32:22.900	00:32:24.500			equals two k right			
+00:32:24.700	00:32:26.600	yup and divide					
+00:32:27.600	00:32:37.600			by two and you like thing good five solve next			
+00:32:39.000	00:32:40.500	pause filler again two variables					
+00:32:40.500	00:32:45.000	I'll do the same thing as the last time add p					
+00:32:45.800	00:32:49.300			so then you get two b			
+00:32:49.800	00:32:52.200			or two b equals thirteen yeah			
+00:32:52.300	00:32:54.400	then I'll subtract that					
+00:32:54.400	00:32:55.200	and I get here					
+00:32:56.400	00:32:58.700			so then you'd get four I believe			
+00:32:58.800	00:32:59.500	oh yeah four					
+00:32:59.600	00:33:00.300	oops undo					
+00:33:05.600	00:33:05.800	yeah					
+00:33:06.700	00:33:07.500			yup			
+00:33:07.900	00:33:10.900	four equals two b					
+00:33:11.300	00:33:13.500	b equals two					
+00:33:14.200	00:33:14.400			good			
+00:33:14.400	00:33:15.500	is that all good					
+00:33:15.500	00:33:16.800			yup pretty sure so			
+00:33:17.500	00:33:18.000			oh yeah			
+00:33:20.000	00:33:23.600			I can do this thing			
+00:33:23.600	00:33:23.900	all right pause filler					
+00:33:23.900	00:33:27.100			negative nine g equals eighty-one huh			
+00:33:27.100	00:33:32.100	so first I want to make the variable positive right					
+00:33:32.800	00:33:33.900			yeah I think that's reasonable			
+00:33:36.300	00:33:47.400			nine g equals eighty-one or negative eighty-one			
+00:33:47.400	00:33:52.100	I'm just going to make that negative					
+00:33:52.100	00:33:54.500	yup that's negative that's all					
+00:33:54.500	00:33:54.800			yup (inaudible)			
+00:33:55.000	00:34:00.000	all right and then g would equal negative nine					
+00:34:01.000	00:34:06.500			yup because you just divide it by the eighty-one			
+00:34:06.500	00:34:07.400	exactly yup					
+00:34:07.500	00:34:07.700	oops					
+00:34:07.700	00:34:12.100			okay well skip			
+00:34:12.100	00:34:12.400			okay			
+00:34:12.400	00:34:15.600			so eighty-two equals negative eight y plus ten			
+00:34:16.400	00:34:16.900	two					
+00:34:18.400	00:34:20.800	is this correct					
+00:34:20.800	00:34:22.300	I'm just making sure					
+00:34:22.300	00:34:23.900			yup I think so yup pretty sure			
+00:34:23.900	00:34:26.400	and then multiply it by negative one					
+00:34:26.699	00:34:29.300	and I'm going to get myself up on this side					
+00:34:29.300	00:34:40.199	so multiply equals negative just let me do divide it by eight					
+00:34:41.500	00:34:44.400	and that's nine yeah					
+00:34:45.800	00:34:48.300	y equals nine					
+00:34:49.600	00:34:52.699			okay next oh try			
+00:34:52.699	00:34:54.199	we're really good at skipping things					
+00:34:54.900	00:34:58.500			yeah because we both go for the thing okay			
+00:34:58.500	00:34:59.900	so					
+00:35:00.700	00:35:02.300			because this is only one variable			
+00:35:02.300	00:35:08.100			so we should just get rid of the constant on the right side or on the side with the variable or			
+00:35:09.700	00:35:12.900			so pause filler a hundred seven minus sixty-five			
+00:35:12.900	00:35:14.100			I'll have to do math			
+00:35:14.100	00:35:16.300			oh wait no you'll have to do math uh-huh			
+00:35:16.300	00:35:18.200	oh I have to do math					
+00:35:19.400	00:35:23.300	one o seven sixty-five					
+00:35:26.100	00:35:27.300	we got two					
+00:35:27.800	00:35:30.800	and we got four					
+00:35:30.800	00:35:33.100	oh yeah yeah oh I did that wrong					
+00:35:33.500	00:35:34.400	I suck at					
+00:35:34.700	00:35:36.400			no you did that right			
+00:35:36.700	00:35:37.700			I think you did			
+00:35:37.700	00:35:38.400			I'm certain you did			
+00:35:38.400	00:35:39.500			yes you did			
+00:35:39.600	00:35:40.800			I felt very badly			
+00:35:41.300	00:35:44.600	yeah so yup yup yup					
+00:35:45.400	00:35:46.000	pause filler forty-two					
+00:35:46.800	00:35:47.500	so forty-two					
+00:35:47.500	00:35:52.200	anyway we'll just do negative forty-two because we're going to multiply it by negative one					
+00:35:52.200	00:35:55.900			yup five equals x or fourteen x			
+00:35:56.200	00:35:57.500	equals fourteen x					
+00:35:58.000	00:36:00.600	and it's three I'm guessing					
+00:36:00.700	00:36:01.100	yeah x					
+00:36:01.400	00:36:03.100	I'm just doing it in my head					
+00:36:03.100	00:36:05.700	pause filler I guess x equals three					
+00:36:05.700	00:36:11.100			x equals three I'm not so sure because forty-two divided by fourteen			
+00:36:12.000	00:36:15.500	would it equal I don't feel it's not going to be two					
+00:36:15.500	00:36:20.400			let's see I know you can turn this to seven			
+00:36:20.700	00:36:21.000	well no					
+00:36:21.000	00:36:24.700			yeah yeah this is pause filler twenty-one over seven			
+00:36:24.800	00:36:27.500			oh which means it's one over wait one over three			
+00:36:29.000	00:36:29.300	so					
+00:36:29.500	00:36:30.600			no yeah I think you're right			
+00:36:30.600	00:36:31.900			it is three oh wait yeah			
+00:36:32.200	00:36:35.000	all right we could always guess and check					
+00:36:35.000	00:36:36.900	but I'm pretty sure yeah					
+00:36:37.600	00:36:38.700	so let's move on					
+00:36:38.700	00:36:40.200			yeah that's three over one yup			
+00:36:41.500	00:36:43.200	oh lots of negatives					
+00:36:43.700	00:36:46.100	so let's do this first					
+00:36:46.100	00:36:47.500			start by adding yup			
+00:36:48.500	00:36:56.500	pause filler yeah seventy-five equals negative nine k					
+00:36:57.600	00:37:06.800	and let's negative seventy nine k					
+00:37:09.500	00:37:10.500	which is					
+00:37:12.200	00:37:13.600	feel like					
+00:37:16.900	00:37:19.100	so five right					
+00:37:20.000	00:37:21.400	so k equals negative five					
+00:37:23.400	00:37:25.700			all right wait			
+00:37:25.700	00:37:27.800	is that correct wait no no not five					
+00:37:27.800	00:37:29.400			is that twenty-five			
+00:37:30.000	00:37:30.600	twenty-five					
+00:37:31.600	00:37:33.600			can you divide twenty-five by three no			
+00:37:34.900	00:37:36.000	well we're doing					
+00:37:36.000	00:37:38.800			simplify it up			
+00:37:38.800	00:37:39.400	we're doing					
+00:37:40.500	00:37:43.000	negative seventy-five divided by nine					
+00:37:43.100	00:37:44.100			well it's seventy-five			
+00:37:44.100	00:37:45.000			I thought it was twenty-five			
+00:37:45.800	00:37:46.500	yeah sorry					
+00:37:47.200	00:37:49.300	seventy-five so					
+00:37:49.300	00:37:54.500			seventy-five I think it's only seventy-five nines because I don't think you can divide it by three or anything for nine			
+00:37:56.100	00:38:01.800			let's see if you divide it by nine it would be pause filler oh wait it's things line up to nine			
+00:38:01.800	00:38:02.600			and they go			
+00:38:02.600	00:38:03.300			so no			
+00:38:04.600	00:38:06.000			and if you added it up			
+00:38:06.000	00:38:11.600			and if it were divisible by three that would be divisible by three			
+00:38:11.600	00:38:14.300			oh wait no it is divisible by three twenty-five			
+00:38:15.100	00:38:16.500	so oh yeah twenty-five					
+00:38:17.100	00:38:18.800	and then just do twenty so					
+00:38:18.900	00:38:20.500			twenty-five over three			
+00:38:20.500	00:38:21.500	twenty-five over three					
+00:38:21.600	00:38:26.700	and I don't think you can simplify that anymore					
+00:38:26.700	00:38:30.000			yeah I don't think it can get simplified any more than that			
+00:38:30.000	00:38:30.700			twenty-five over three			
+00:38:30.700	00:38:32.600	and (inaudible) really quickly just say that we					
+00:38:33.200	00:38:35.900			yeah (inaudible) did that yup			
+00:38:36.200	00:38:38.800	yeah something like that there					
+00:38:39.600	00:38:41.100			say something that just looks like math			
+00:38:41.100	00:38:42.500			so it looks like we did something			
+00:38:42.500	00:38:45.400	all right pause filler so you look first					
+00:38:45.400	00:38:46.900	let's add fifteen first					
+00:38:47.900	00:38:55.300			yup again negative two equal ninety minus sixteen right			
+00:38:56.800	00:38:57.800	yup					
+00:38:58.200	00:39:01.600			and then you would add the sixteen			
+00:39:06.100	00:39:07.200	exactly					
+00:39:11.300	00:39:16.000	pause filler sixteen so forty-eight					
+00:39:16.700	00:39:19.900	no forty-six negative forty-six					
+00:39:20.100	00:39:21.900			no no no because they're both negative right			
+00:39:22.800	00:39:24.900	oh yeah no no no no this is negative					
+00:39:24.900	00:39:26.500	and so I'm adding it right					
+00:39:27.500	00:39:28.300			okay you're adding it			
+00:39:28.400	00:39:29.500			okay I forgot about that			
+00:39:30.900	00:39:32.700			yeah then you'd be right			
+00:39:32.900	00:39:34.400			so yeah it would be forty-six right			
+00:39:34.400	00:39:35.900			I think so let me think (sfx)			
+00:39:37.000	00:39:39.400	wait no I don't think it's forty-six					
+00:39:39.600	00:39:46.900			pause filler actually you would be thirty-six right because it would be thirty-six because you'd go			
+00:39:46.900	00:39:49.200			yeah I think it would be thirty-six yeah			
+00:39:50.400	00:39:54.000	yeah and so p would equal four					
+00:39:55.900	00:39:59.100			that's yup let me just check if that's right			
+00:39:59.100	00:40:01.300			the problems it's nine			
+00:40:01.300	00:40:02.300	number nine yeah					
+00:40:02.400	00:40:06.300	you can always yeah check it					
+00:40:04.000	00:40:05.000			pause filler			
+00:40:06.300	00:40:12.300			okay this thing no this isn't even the right question			
+00:40:12.300	00:40:13.700			okay it's not even the right question			
+00:40:13.700	00:40:14.800			okay whatever sure			
+00:40:15.800	00:40:17.300			let's just say that			
+00:40:20.200	00:40:21.400	oh boy all right					
+00:40:21.500	00:40:23.200			this is just going to be interesting			
+00:40:24.400	00:40:25.500	first thing's first					
+00:40:25.700	00:40:28.300			get rid of the W weird things on both sides			
+00:40:28.300	00:40:29.900			so fourteen Ws yes			
+00:40:30.700	00:40:37.700			so that would mean forty w plus nineteen equals negative one forty-one			
+00:40:38.100	00:40:39.500			oh my god			
+00:40:41.300	00:40:42.100	okay wait pause filler					
+00:40:42.300	00:40:45.400			it's forty because pause filler you add the one			
+00:40:45.500	00:40:49.600			and you had the nones pause filler			
+00:40:49.700	00:40:54.800	okay and then minus subtract I mean pause filler nineteen					
+00:40:55.100	00:40:55.700	gosh					
+00:40:57.600	00:40:59.100	and then it's negative					
+00:40:59.100	00:41:02.800	so it's negative one sixty					
+00:41:03.500	00:41:06.900			I really hope this data is worth a lot		SD	
+00:41:06.900	00:41:09.000			I hope this data is work stuff			
+00:41:09.300	00:41:10.000			we work stuff data			
+00:41:10.000	00:41:16.500	am I doing this correctly					
+00:41:17.000	00:41:17.600			I think so			
+00:41:18.200	00:41:18.600			okay			
+00:41:18.600	00:41:25.000			yup one sixty and			
+00:41:25.000	00:41:27.200			so you divide it by forty			
+00:41:27.300	00:41:32.900			and one sixty divided four it's like wait four times			
+00:41:32.900	00:41:35.500	I'm just going to count in my yeah					
+00:41:35.800	00:41:36.300	it's four					
+00:41:36.300	00:41:36.800	it's four yeah					
+00:41:36.900	00:41:37.400			yes it's four			
+00:41:37.400	00:41:38.700			yeah it's four I believe it's four			
+00:41:38.700	00:41:41.000			it's negative or yeah it's negative			
+00:41:41.000	00:41:42.200	it is negative two yeah					
+00:41:42.600	00:41:42.800			yup			
+00:41:43.100	00:41:43.700	negative four					
+00:41:44.700	00:41:46.500			okay oh stop			
+00:41:46.500	00:41:47.700	love it					
+00:41:49.700	00:41:54.000			pause filler you want to be the one to get them or			
+00:41:54.000	00:41:54.600	I'll do it					
+00:41:54.600	00:41:56.300			yeah it hasn't crashed this time so			
+00:41:56.400	00:42:00.600			it's always good			
+00:42:02.600	00:42:18.200			pretty typical that we don't have twenty-two			
+00:42:18.200	00:42:24.800			you've gone to the page that is paged			
+00:42:25.700	00:42:25.900			good			
+00:42:29.400	00:42:31.200			bonus round nice			
+00:42:44.200	00:42:44.600			good			
+00:42:50.100	00:42:53.500			well so this time we don't get the guide worksheet			
+00:42:50.681	00:49:54.500		T2 				
+00:42:54.300	00:42:54.800			like whoop			
+00:42:54.800	00:42:58.000			all right so we have Ys on both sides			
+00:42:58.000	00:42:59.400			so we have to fix that right			
+00:43:00.400	00:43:00.600	yeah					
+00:43:01.500	00:43:08.700			so pause filler yeah I think we know what we're doing right			
+00:43:08.700	00:43:09.500	yeah					
+00:43:09.500	00:43:10.200			negative sixty-three pause filler			
+00:43:10.200	00:43:11.000			so two y yup			
+00:43:11.000	00:43:15.200			and then subtract the thing on that side			
+00:43:15.200	00:43:19.700			you get hundred and six I think			
+00:43:19.820	00:43:20.470	Yep					
+00:43:20.200	00:43:21.600			yeah negative hundred six			
+00:43:21.700	00:43:26.500			negative hundred six equals two y between that is y equals			
+00:43:28.700	00:43:31.000			pause filler negative six divided by pause filler			
+00:43:31.600	00:43:34.800	wait it would be like pause filler fifty-three negative fifty-three					
+00:43:35.200	00:43:37.100			okay that would be fifty-three			
+00:43:37.100	00:43:40.700			it's quite simplistic and my dear Watson			
+00:43:41.200	00:43:48.000			and I'm pause filler Sherlock or whatever Sherlock Holmes			
+00:43:48.700	00:43:54.900			okay pause filler this thing yes negative one eighty-two minus p equals forty-eight plus p			
+00:43:54.900	00:43:57.400			so we have like the weird Ps on both sides			
+00:43:58.800	00:44:01.200			forty-eight plus p two p right yeah			
+00:44:01.700	00:44:03.700			let's do this			
+00:44:03.700	00:44:08.400			pause filler and is that negative or no it's			
+00:44:08.400	00:44:08.600	no					
+00:44:09.100	00:44:10.100			yeah so it's positives			
+00:44:10.100	00:44:11.900			so you just subtract it again right			
+00:44:12.400	00:44:12.600	yeah					
+00:44:13.100	00:44:15.500			so then on that side it would be			
+00:44:15.500	00:44:16.000			negative			
+00:44:16.000	00:44:18.300			it would be negative quantity			
+00:44:19.000	00:44:21.100	wait wait wait I think I got it					
+00:44:21.100	00:44:22.200	but you can go ahead					
+00:44:22.200	00:44:26.000			it would be like negative quantity one and two plus forty-eight			
+00:44:26.500	00:44:26.800			so thirty-two			
+00:44:26.800	00:44:29.800	so negative two hundred and thirty right					
+00:44:29.800	00:44:30.500			negative thirty			
+00:44:30.500	00:44:31.000			yup there you go			
+00:44:31.000	00:44:31.900			thanks			
+00:44:31.900	00:44:33.600			that's really great			
+00:44:33.900	00:44:35.300			negative thirty pause filler			
+00:44:36.400	00:44:38.100	equals two p					
+00:44:38.100	00:44:39.900			yup two p			
+00:44:39.900	00:44:43.500			so then I guess you just divide the things by stuff so			
+00:44:43.500	00:44:45.700	p would equal pause filler negative					
+00:44:45.700	00:44:51.000			one fifteen negative one fifteen right yeah because yeah yeah			
+00:44:51.000	00:44:53.000	wait yeah wait negative one fifteen					
+00:44:53.000	00:44:55.400			yup because thirty-eight divided by two is fifteen			
+00:44:55.400	00:44:59.600			and two hundred divided by two is a hundred			
+00:44:59.600	00:45:01.100	wait negative					
+00:45:01.100	00:45:02.000			yeah let me try			
+00:45:02.000	00:45:03.000	oh negative two fifteen					
+00:45:03.000	00:45:06.000	I thought you just meant negative two fifty yeah negative two fifty					
+00:45:06.300	00:45:07.500	yup that's great yup					
+00:45:07.500	00:45:09.600			one fifteen to times two			
+00:45:09.600	00:45:14.900			I'm just getting zero carry to one three yeah two yeah			
+00:45:14.900	00:45:16.100			good we did it			
+00:45:16.800	00:45:17.500			high five			
+00:45:17.500	00:45:20.500			except we can't high five because we're in like different rooms			
+00:45:21.600	00:45:24.100	all right plus two first					
+00:45:24.100	00:45:28.500			let's get the weird variables on the same side			
+00:45:30.000	00:45:39.600			this is like algebra one o one one o one o one o one o one o one one one one one one one one one one			
+00:45:39.600	00:45:45.700	three six I'm just going to write out like a bum					
+00:45:46.100	00:45:48.300			yup			
+00:45:48.300	00:45:49.200	oh my gosh					
+00:45:50.000	00:45:54.200			so one twenty-nine then fifty-three seven three			
+00:45:54.200	00:45:57.700			so it would be two			
+00:45:57.700	00:45:59.700			wait yeah yeah wait wait			
+00:45:59.700	00:46:00.600			is that nine			
+00:46:00.900	00:46:01.600	it's a six					
+00:46:01.600	00:46:03.300	yeah this is a nine					
+00:46:04.100	00:46:08.700			so then yeah it wouldn't be two right because pause filler a two			
+00:46:08.700	00:46:12.000			wait oh yeah I think you're multiplying			
+00:46:12.000	00:46:12.800			you're multiplying			
+00:46:12.800	00:46:14.700	oh I'm subtracting this					
+00:46:15.100	00:46:15.900			oh you're subtracting			
+00:46:16.400	00:46:17.400	subtracting					
+00:46:18.400	00:46:19.700			yeah you're right you are subtracting			
+00:46:20.300	00:46:22.600			so yeah you're right then it would be six and then			
+00:46:22.600	00:46:24.300	and then eighty-six right					
+00:46:24.700	00:46:25.500			yup I think so			
+00:46:25.700	00:46:28.000			in fact I'm sure now sure			
+00:46:29.100	00:46:29.700			eighty-six			
+00:46:29.700	00:46:32.100	so eighty-six equals two g					
+00:46:32.300	00:46:33.600	I think					
+00:46:33.600	00:46:38.200	it's pretty nice that it's all twos I think					
+00:46:38.200	00:46:38.500			yeah			
+00:46:38.500	00:46:40.900	my head and I don't have to					
+00:46:40.900	00:46:42.700	anyway eighty-six					
+00:46:42.700	00:46:44.600	so to put that on half					
+00:46:44.600	00:46:46.300	and then we get forty-three so					
+00:46:46.300	00:46:50.600			provided we have to do this on numbers that are not stupid			
+00:46:50.600	00:46:53.900	all right and					
+00:46:54.200	00:46:55.900	pause filler this seems fun					
+00:46:55.900	00:46:57.400			M&amp;M (inaudible) so yeah			
+00:46:57.400	00:47:05.800	and then you can also just like do that over there so we get pause filler					
+00:47:05.800	00:47:09.800			so we know that it'll be two M			
+00:47:10.000	00:47:11.500			so we can pause filler just stop			
+00:47:11.500	00:47:16.400			and is that so yeah seventy-one minus forty-three			
+00:47:16.400	00:47:17.300			whatever that is			
+00:47:18.300	00:47:21.000			it would be like twenty-eight			
+00:47:21.000	00:47:26.000			just about the best of it I guess			
+00:47:26.700	00:47:30.000	twenty-eight					
+00:47:30.000	00:47:34.000	yup twenty-eight equals to pause filler					
+00:47:34.000	00:47:38.900			which means that yeah			
+00:47:39.900	00:47:40.200	pause filler wait					
+00:47:40.300	00:47:46.400			fourteen right oh which means oh it's seven time four huh that (inaudible)			
+00:47:46.600	00:47:47.500	wait fourteen					
+00:47:47.500	00:47:49.300			what yeah fourteen			
+00:47:49.300	00:47:50.900	yup yup yeah fourteen					
+00:47:55.900	00:47:57.500			it's like you addressed on the board			
+00:47:57.900	00:47:59.000			you like steal it			
+00:47:59.700	00:48:02.700	anyway pause filler let's add					
+00:48:03.600	00:48:06.100			oh oh look we have another thing			
+00:48:06.600	00:48:08.600			say yeah plus eleven x certainly			
+00:48:08.600	00:48:16.300			so so that means that negative sixty-five equals seven			
+00:48:16.300	00:48:16.600	eighteen					
+00:48:16.800	00:48:26.300			yeah eighteen plus eighteen or seven plus eleven or seven eleven nine eleven			
+00:48:26.300	00:48:30.900			pause filler yeah eighteen x minus twenty-five all right			
+00:48:31.400	00:48:34.400	and then that would just be pause filler					
+00:48:34.400	00:48:34.800	crap					
+00:48:34.800	00:48:36.800	forty					
+00:48:36.800	00:48:38.200			forty yeah			
+00:48:38.400	00:48:39.800	negative forty negative					
+00:48:39.800	00:48:41.000			yup negative forty mind you			
+00:48:41.000	00:48:46.100			so negative are very important because I mean that's literally twice the difference			
+00:48:47.200	00:48:47.600			huh two			
+00:48:47.600	00:48:51.500	and it's eighteen					
+00:48:51.500	00:48:54.500	so like eighteen					
+00:48:55.100	00:48:59.300	eighteen does not go into forty so					
+00:48:59.900	00:49:01.100			well you can divide them both by two			
+00:49:01.100	00:49:02.400			so you get twenty over			
+00:49:02.400	00:49:05.400	yeah we'll just have to simplify that out					
+00:49:05.400	00:49:06.500			twenty over nine			
+00:49:06.500	00:49:08.600			and I think that's just it twenty over nine			
+00:49:09.700	00:49:11.700	well we can't divide it by three					
+00:49:11.700	00:49:13.200	we can't divide it by four					
+00:49:13.200	00:49:14.100	we can't divide it					
+00:49:14.100	00:49:15.300			well you should divide it by four			
+00:49:15.300	00:49:16.800			wait does eighteen divide by four			
+00:49:18.100	00:49:20.200	well no four does not go into nine					
+00:49:21.100	00:49:21.800			okay yeah			
+00:49:22.200	00:49:24.500	yeah so it's just twenty twenty or nine					
+00:49:24.500	00:49:28.500			just twenty yup negative nine			
+00:49:28.500	00:49:31.200	all right oh it's getting better					
+00:49:32.000	00:49:34.300	that's what he said					
+00:49:34.300	00:49:36.200	anyway pause filler fifty-six					
+00:49:36.800	00:49:39.000			so fifty-six plus forty-four			
+00:49:39.200	00:49:40.300			hey that's a nice number			
+00:49:40.500	00:49:48.800			one hundred			
+00:49:48.800	00:49:50.600			it's a preferable number in fact			
+00:49:51.300	00:49:57.100	and then well why don't you look at that two hundred right					
+00:49:57.400	00:49:57.900			oh it's time			
+00:49:58.800	00:49:59.900			oh it's time			
+00:50:07.400	00:50:07.600	okay					
+00:50:09.700	00:50:12.000	(inaudible) thank you					
+00:50:12.000	00:50:16.300			I'll eat the entire thing			
+

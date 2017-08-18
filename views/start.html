@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang = "eng">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WoZ Page</title>
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
+  <!-- Material Design Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="css/ionicons.min.css">
+  <!-- CSS custom stylesheet -->
+  <link rel="stylesheet" href="css/default.css">
+</head>
+
+<body class="body" style ="background: #f4f4f4">
+<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
+
+  <div class="container">
+    <div class = "row">
+      <br>
+      <div class = "col s12 z-depth-2 card-panel">
+        <div id="modal1" class="modal">
+            <div class="modal-content">
+              <h4>You have completed the task!</h4>
+              <p>Enter the following code on the mTurk website to confirm your completetion</p>
+              <blockquote id = "quote">
+                ABC123
+              </blockquote>
+            </div>
+          </div>
+        <div class = "col s12">
+          <br>
+          <h5 class = "center"><font color= '#ea546b'  style = "font-weight: 300;">Phrases</font></h5>
+          <hr color= '#f29fa4' >
+          <br>
+          <br>
+          <div class="players">
+            <li id = "1">Player 1</li>
+            <li id = "2">Player 2</li>
+            <li id = "3">Player 3</li>
+            <li id = "4">Player 4</li>
+            <li id = "5">Player 5</li>
+            <li id = "6">Player 6</li>
+          </div>
+          <br><br><br><br><br><br><br><br><br><br><br><br>
+        </div>
+
+        <div class = "col s12">
+          <br>
+          <br>
+          <br>
+            <div class = "center">
+              <a style = "background: #3ece4b;" class="waves-effect waves-light btn-large" onclick = "SD(true)">SD</a>
+              <a style = "background: #f53135;" class="waves-effect waves-light btn-large" onclick = "SD(false)">Non-SD</a>
+            </div>
+            <div class = "col s12">
+              <br>
+              <div class="progress" style = "background: #bfc0c1;">
+                <div id = "bar" class="determinate" style= "width: 0%; background: #5faa00;"></div>
+              </div>
+              <p><font font size="2">Note: Self-disclosure is when people reveal deep, personal, or enduring information about themselves to other people that wouldn’t typically be publicly known.<br />
+              </font>
+              <font font size="1.7">
+              <br>
+              Things that are NOT self-disclosure:<br/>
+
+              - Just because they say “I think” doesn’t mean it’s self-disclosure. Sometimes people “hedge”, or show they’re uncertain, by starting a sentence with “I think”.<br />
+
+              - If they don’t finish their sentence and there isn’t enough to decide on, choose “none”.<br />
+
+              - Sharing opinions about other people: “Ms. Jones has the worst dresses” is NOT self-disclosure.
+              </font></p>
+            </div>
+            <br>
+            <br>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="js/jquery.transit.min.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/4.1.2/firebase.js"></script>
+  
+  <script src="js/default.js"></script>
+
+</body>
+</html>
