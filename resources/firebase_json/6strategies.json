@@ -1,0 +1,416 @@
+{
+  "SD": {
+    "completedNow": {
+      "SD_1": {
+        "A13KIF9S5YC8F0": "A13KIF9S5YC8F0",
+        "count": 6,
+        "ed": "ed"
+      },
+      "SD_2": {
+      },
+      "SD_3": {
+      },
+      "SD_4": {
+      },
+      "SD_5": {
+      },
+      "SD_6": {
+      },
+      "SD_7": {
+      }
+    },
+    "correctAns": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "currentHitNum": 1,
+    "ids": {
+      "12": {
+        "answers": [
+          "1",
+          "0",
+          "1",
+          "0",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "blackListed": false,
+        "completed": {
+          "placeHolder": "N/A"
+        },
+        "id": "12",
+        "numAttemptedHits": 1,
+        "numAttemptsQuiz": 1,
+        "passed": true,
+        "score": 8
+      }
+    },
+    "loggedIn": {
+      "-KrpZF4Qk0bsFaRBfXtx": "jeff"
+    },
+    "output": {
+      "-KrIBcsCTGCu2VzyazDk": {
+        "arrLog": [
+          {
+            "sentence": "P1: I know right",
+            "strategy": "SD"
+          }
+        ],
+        "code": "p2395m339b",
+        "id": "A1CA46R2A6TV9W"
+      }
+    },
+    "tempLog": [
+      [
+        "0"
+      ]
+    ]
+  },
+  "QESD": {
+    "completedNow": {
+      "D5S1_1": {
+        "A13KIF9S5YC8F0": "A13KIF9S5YC8F0",
+        "count": 6,
+        "ed": "ed"
+      }
+    },
+    "correctAns": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "currentHitNum": 1,
+    "ids": {
+      "12": {
+        "answers": [
+          "1",
+          "0",
+          "1",
+          "0",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "blackListed": false,
+        "completed": {
+          "placeHolder": "N/A"
+        },
+        "id": "12",
+        "numAttemptedHits": 1,
+        "numAttemptsQuiz": 1,
+        "passed": true,
+        "score": 8
+      }
+    },
+    "loggedIn": {
+      "-KrpZF4Qk0bsFaRBfXtx": "jeff"
+    },
+    "output": {
+      "-KrIBcsCTGCu2VzyazDk": {
+        "arrLog": [
+          {
+            "sentence": "P1: I know right",
+            "strategy": "SD"
+          }
+        ],
+        "code": "p2395m339b",
+        "id": "A1CA46R2A6TV9W"
+      }
+    },
+    "tempLog": [
+      [
+        "0"
+      ]
+    ]
+  },
+  "HE": {
+    "completedNow": {
+      "D5S1_1": {
+        "A13KIF9S5YC8F0": "A13KIF9S5YC8F0",
+        "count": 6,
+        "ed": "ed"
+      }
+    },
+    "correctAns": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "currentHitNum": 1,
+    "ids": {
+      "12": {
+        "answers": [
+          "1",
+          "0",
+          "1",
+          "0",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "blackListed": false,
+        "completed": {
+          "placeHolder": "N/A"
+        },
+        "id": "12",
+        "numAttemptedHits": 1,
+        "numAttemptsQuiz": 1,
+        "passed": true,
+        "score": 8
+      }
+    },
+    "loggedIn": {
+      "-KrpZF4Qk0bsFaRBfXtx": "jeff"
+    },
+    "output": {
+      "-KrIBcsCTGCu2VzyazDk": {
+        "arrLog": [
+          {
+            "sentence": "P1: I know right",
+            "strategy": "SD"
+          }
+        ],
+        "code": "p2395m339b",
+        "id": "A1CA46R2A6TV9W"
+      }
+    },
+    "tempLog": [
+      [
+        "0"
+      ]
+    ]
+  },
+  "RSE": {
+    "completedNow": {
+      "D5S1_1": {
+        "A13KIF9S5YC8F0": "A13KIF9S5YC8F0",
+        "count": 6,
+        "ed": "ed"
+      }
+    },
+    "correctAns": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "currentHitNum": 1,
+    "ids": {
+      "12": {
+        "answers": [
+          "1",
+          "0",
+          "1",
+          "0",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "blackListed": false,
+        "completed": {
+          "placeHolder": "N/A"
+        },
+        "id": "12",
+        "numAttemptedHits": 1,
+        "numAttemptsQuiz": 1,
+        "passed": true,
+        "score": 8
+      }
+    },
+    "loggedIn": {
+      "-KrpZF4Qk0bsFaRBfXtx": "jeff"
+    },
+    "output": {
+      "-KrIBcsCTGCu2VzyazDk": {
+        "arrLog": [
+          {
+            "sentence": "P1: I know right",
+            "strategy": "SD"
+          }
+        ],
+        "code": "p2395m339b",
+        "id": "A1CA46R2A6TV9W"
+      }
+    },
+    "tempLog": [
+      [
+        "0"
+      ]
+    ]
+  },
+  "PR": {
+    "completedNow": {
+      "D5S1_1": {
+        "A13KIF9S5YC8F0": "A13KIF9S5YC8F0",
+        "count": 6,
+        "ed": "ed"
+      }
+    },
+    "correctAns": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "currentHitNum": 1,
+    "ids": {
+      "12": {
+        "answers": [
+          "1",
+          "0",
+          "1",
+          "0",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "blackListed": false,
+        "completed": {
+          "placeHolder": "N/A"
+        },
+        "id": "12",
+        "numAttemptedHits": 1,
+        "numAttemptsQuiz": 1,
+        "passed": true,
+        "score": 8
+      }
+    },
+    "loggedIn": {
+      "-KrpZF4Qk0bsFaRBfXtx": "jeff"
+    },
+    "output": {
+      "-KrIBcsCTGCu2VzyazDk": {
+        "arrLog": [
+          {
+            "sentence": "P1: I know right",
+            "strategy": "SD"
+          }
+        ],
+        "code": "p2395m339b",
+        "id": "A1CA46R2A6TV9W"
+      }
+    },
+    "tempLog": [
+      [
+        "0"
+      ]
+    ]
+  },
+  "VSN": {
+    "completedNow": {
+      "D5S1_1": {
+        "A13KIF9S5YC8F0": "A13KIF9S5YC8F0",
+        "count": 6,
+        "ed": "ed"
+      }
+    },
+    "correctAns": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "currentHitNum": 1,
+    "ids": {
+      "12": {
+        "answers": [
+          "1",
+          "0",
+          "1",
+          "0",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "blackListed": false,
+        "completed": {
+          "placeHolder": "N/A"
+        },
+        "id": "12",
+        "numAttemptedHits": 1,
+        "numAttemptsQuiz": 1,
+        "passed": true,
+        "score": 8
+      }
+    },
+    "loggedIn": {
+      "-KrpZF4Qk0bsFaRBfXtx": "jeff"
+    },
+    "output": {
+      "-KrIBcsCTGCu2VzyazDk": {
+        "arrLog": [
+          {
+            "sentence": "P1: I know right",
+            "strategy": "SD"
+          }
+        ],
+        "code": "p2395m339b",
+        "id": "A1CA46R2A6TV9W"
+      }
+    },
+    "tempLog": [
+      [
+        "0"
+      ]
+    ]
+  }
+}

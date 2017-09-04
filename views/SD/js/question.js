@@ -1,16 +1,7 @@
-var config = {
-    apiKey: "AIzaSyCUXswPNhS8Pele7XFA47n1eYPbLU-WNbI",
-    authDomain: "mturk-firebase.firebaseapp.com",
-    databaseURL: "https://mturk-firebase.firebaseio.com",
-    projectId: "mturk-firebase",
-    storageBucket: "mturk-firebase.appspot.com",
-    messagingSenderId: "527291012254"
-  };
 firebase.initializeApp(config);
 
 var currId;
-
-var loggedIn = firebase.database().ref('loggedIn');
+var loggedIn = firebase.database().ref(strategyName + '/loggedIn');
 var isLoggedIn = false;
 var section;
 
@@ -27,10 +18,10 @@ $(document).ready(function() {
                 isLoggedIn = true;
             }
         });
-        
+
         if (isLoggedIn == false) {
             console.log("Not logged in");
-            window.open("http://localhost:8000", "_self");
+            window.open("http://localhost:8000/" + strategyName, "_self");
         }
     });
 });
@@ -58,7 +49,7 @@ function submit() {
         return;
     }
 
-    firebase.database().ref('correctAns').once('value').then(function(snapshot) {
+    firebase.database().ref(strategyName + '/correctAns').once('value').then(function(snapshot) {
 
         var points = 0;
         var arrayAns = snapshot.val();
@@ -87,9 +78,9 @@ function submit() {
             firebase.database().ref('ids/' + currId).set(obj);
             pressedSubmit = true;
             if (points == 10) {
-                window.open("http://localhost:8000/start?" + currId + "~" + section, "_self");
+                window.open("http://" + hostName + ":8000/" + strategyName + "/start.html?" + currId + "~" + section, "_self");
             } else {
-                window.open("http://localhost:8000/quiz_corrections?" + currId + "~" + section, "_self");
+                window.open("http://" + hostName + ":8000/" + strategyName + "/quiz_corrections.html?" + currId + "~" + section, "_self");
             }
         } else {
             firebase.database().ref('ids/' + currId).once('value').then(function(snapshot) {
@@ -105,17 +96,17 @@ function submit() {
                     if (x.numAttemptedHits == 2) {
                         //Blacklisted
                         x.blackListed = true;
-                        firebase.database().ref('ids/' + currId).set(x);
-                    } 
+                        firebase.database().ref(strategyName + '/ids/' + currId).set(x);
+                    }
                     else {
                         x.numAttemptedHits = 2;
-                        firebase.database().ref('ids/' + currId).set(x);
+                        firebase.database().ref(strategyName + '/ids/' + currId).set(x);
                     }
                     loggedIn.once("value").then(function(snapshot) {
                         snapshot.forEach(function(child) {
                             if (child.val() == currId) {
                                 child.ref.remove();
-                                window.open("http://localhost:8000", "_self");
+                                window.open("http://" + hostName + ":8000/" + strategyName, "_self");
                             }
                         });
                     });
@@ -132,4 +123,3 @@ function submit() {
         }
     });
 }
-    

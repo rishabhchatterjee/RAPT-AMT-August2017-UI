@@ -1,16 +1,8 @@
-var config = {
-    apiKey: "AIzaSyCUXswPNhS8Pele7XFA47n1eYPbLU-WNbI",
-    authDomain: "mturk-firebase.firebaseapp.com",
-    databaseURL: "https://mturk-firebase.firebaseio.com",
-    projectId: "mturk-firebase",
-    storageBucket: "mturk-firebase.appspot.com",
-    messagingSenderId: "527291012254"
-  };
 firebase.initializeApp(config);
 
 var currId;
 var wholeDatabase = firebase.database().ref();
-var loggedIn = firebase.database().ref('loggedIn');
+var loggedIn = firebase.database().ref(strategyName + '/loggedIn');
 var isLoggedIn = false;
 var section;
 
@@ -41,7 +33,7 @@ $(document).ready(function() {
         
         if (isLoggedIn == false) {
             console.log("Not logged in");
-            window.open("http://localhost:8000", "_self");
+            window.open("http://" + hostName + ":8000", "_self");
         }
     });
 
@@ -86,7 +78,7 @@ window.onbeforeunload = function(){
 };
 
 function submit() {
-    window.open("http://localhost:8000/start?" + currId + "~" + section, "_self");
+    window.open("http://" + hostName + ":8000/start.html?" + currId + "~" + section, "_self");
 }
 
 

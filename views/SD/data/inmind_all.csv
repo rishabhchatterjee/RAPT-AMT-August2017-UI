@@ -1,0 +1,900 @@
+1 ,USER:  I enjoy drama
+1 ,AGENT: I like the way you think! Who are your favorite directors?
+1 ,USER:  David Russell is one of my favorites
+1 ,AGENT: Okay! Who are your favorite actors?
+1 ,USER:  definitely Jennifer Lawrence
+1 ,AGENT: Wow
+1 ,USER:  no I don't really like that movie
+1 ,AGENT: I think this movie fits your tastes.  How about Joy (2015)?
+1 ,USER:  do you need with James McAvoy
+1 ,AGENT: Wow
+1 ,USER:  that sounds awesome but any others in the X-Men franchise
+1 ,AGENT: It's been fun helping you find something you'll like! Come back soon for more recommendations. 
+2 ,USER:  hi I'm Sarah I can recommend movies to you could you help me out by telling me what are your favorite genres
+2 ,AGENT: Hi
+2 ,USER:  hi I'm Sarah I can help you find a good movie to watch what do you mind telling me your favorite genres
+2 ,AGENT: I'm sorry
+2 ,USER:  I like drama
+2 ,AGENT: A movie lover after my own heart! What about your favorite directors?
+2 ,USER:  I like David Russell
+2 ,AGENT: Okay! Who are your favorite actors?
+2 ,USER:  new jennifer lawrence
+2 ,AGENT: Wow
+2 ,USER:  I already saw that movie
+2 ,AGENT: Perhaps you might be interested in this movie. It's called Joy (2015).
+2 ,USER:  could you recommend another one
+2 ,AGENT: Wow
+2 ,USER:  actually I could have a movie Robert De Niro
+2 ,AGENT: Perhaps you might be interested in this movie. It's called The Hunger Games: Catching Fire (2013).
+2 ,USER:  no I want a movie with Robert De Niro
+2 ,AGENT: Wow
+2 ,USER:  can I have another recommendation
+2 ,AGENT: Perhaps you might be interested in this movie. It's called House at the End of the Street (2012).
+2 ,USER:  can I remove Robert De Niro
+2 ,AGENT: I'm sorry
+2 ,USER:  may have a movie with Robert De Niro
+2 ,AGENT: Wow
+3 ,USER:  I don't know I guess Tom Cruise
+3 ,AGENT: Wow
+3 ,USER:  I already saw that one
+3 ,AGENT: Perhaps you might be interested in this movie.  It's called Jack Reacher (2012).
+3 ,USER:  can I have something with crime
+3 ,AGENT: Wow
+3 ,USER:  how many movies Emily Blunt
+3 ,AGENT: Perhaps you might be interested in this movie.  It's called Edge of Tomorrow (2014).
+3 ,USER:  can I get another recommendation
+3 ,AGENT: Wow
+4 ,USER:  how about drama
+4 ,AGENT: Hi
+4 ,USER:  I like David Russell
+4 ,AGENT: Okay! Who are your favorite actors?
+4 ,USER:  that's a good one do you have any others
+4 ,AGENT: Perhaps you might be interested in this movie. It's called American Hustle (2013).
+4 ,USER:  that's great thanks
+4 ,AGENT: If you find that you need further assistance
+5 ,USER:  I like romance romantic comedy and fantasy movies
+5 ,AGENT: I like the way you think! Who are your favorite directors?
+5 ,USER:  I don't have any
+5 ,AGENT: Okay! Who are your favorite actors?
+5 ,USER:  the one I can think about is probably Johnny Depp or
+5 ,AGENT: So
+5 ,USER:  can you repeat that
+5 ,AGENT: Wow
+5 ,USER:  okay thank you
+5 ,AGENT: Hi
+5 ,USER:  horror movies or romantic comedies
+5 ,AGENT: I like the way you think! Who are your favorite directors?
+5 ,USER:  yes I seen that movie before
+5 ,AGENT: Perhaps you might be interested in this movie.  It's called The Hunger Games: Catching Fire (2013).
+5 ,USER:  okay cool what is about
+5 ,AGENT: I had so much fun with you! Come back and say hi again soon if you'd like!
+5 ,USER:  okay thank you
+5 ,AGENT: Hi
+6 ,USER:  I like action movies
+6 ,AGENT: I like the way you think! Who are your favorite directors?
+6 ,USER:  what about another one
+6 ,AGENT: Perhaps you might be interested in this movie. It's called Oblivion (2013).
+6 ,USER:  okay thanks goodbye
+6 ,AGENT: Hi
+7 ,USER:  no I don't want to watch that
+7 ,AGENT: Wow
+7 ,USER:  I've already seen that movie could you give me another one
+7 ,AGENT: I think this movie fits your tastes. How about Jack Reacher: Never Go Back (2016)?
+7 ,USER:  actually I like the movie with Bruce Willis
+7 ,AGENT: Wow
+7 ,USER:  well I still don't like that movie can you give another one
+7 ,AGENT: Perhaps you might be interested in this movie. It's called Oblivion (2013).
+7 ,USER:  yes I want Miss Misery movie
+7 ,AGENT: I'm sorry
+7 ,USER:  I want a movie in mystery jungle
+7 ,AGENT: I think this movie fits your tastes. How about Looper (2012)?
+7 ,USER:  I want a movie acted by
+7 ,AGENT: I'm sorry
+7 ,USER:  I want a movie acted by Tom Cruise
+7 ,AGENT: Perhaps you might be interested in this movie. It's called Inferno (2016).
+7 ,USER:  I want a comedy
+7 ,AGENT: Wow
+7 ,USER:  I want the movie directed by Joseph Kosinski
+7 ,AGENT: I'm sorry
+7 ,USER:  I want a movie acted by Cobie Smulders
+7 ,AGENT: Wow
+7 ,USER:  already seen that movie
+7 ,AGENT: Perhaps you might be interested in this movie. It's called Captain America: The Winter Soldier (2014).
+7 ,USER:  okay thanks for your recommendation
+7 ,AGENT: If you find that you need further assistance
+8 ,USER:  I think I like Debbie Russell
+8 ,AGENT: I'm sorry
+8 ,USER:  am I saying I would truce David Russell
+8 ,AGENT: So
+8 ,USER:  I think I like Jennifer Lawrence best
+8 ,AGENT: Perhaps you might be interested in this movie.  It's called Silver Linings Playbook (2012).
+8 ,USER:  well actually I don't like romance
+8 ,AGENT: Wow
+8 ,USER:  well actually I prefer sci-fi more
+8 ,AGENT: Perhaps you might be interested in this movie.  It's called American Hustle (2013).
+8 ,USER:  I mean I like sci-fi
+8 ,AGENT: Wow
+8 ,USER:  I don't think it is a hot sci-fi I mean science fiction
+8 ,AGENT: I'm sorry
+8 ,USER:  I want a Adventure 2
+8 ,AGENT: Wow
+8 ,USER:  I've seen that do you have a better choice
+8 ,AGENT: Perhaps you might be interested in this movie.  It's called X-Men: Days of Future Past (2014).
+8 ,USER:  I like to see a movie with Josh Hutcherson
+8 ,AGENT: I think this movie fits your tastes.  How about The Hunger Games: Mockingjay - Part 2 (2015)?
+8 ,USER:  I want a movie with Robert De Niro
+8 ,AGENT: Wow
+8 ,USER:  well I want a movie with James McAvoy McAvoy
+8 ,AGENT: I think this movie fits your tastes.  How about The Disappearance of Eleanor Rigby: Her (2013)?
+8 ,USER:  I want a movie directed by sisam beer
+8 ,AGENT: I'm sorry
+8 ,USER:  I want a movie directed by the same buyer
+8 ,AGENT: I'm sorry
+8 ,USER:  I want a movie directed by Francis Lawrence
+8 ,AGENT: I think this movie fits your tastes.  How about The Hunger Games: Catching Fire (2013)?
+8 ,USER:  I want a movie directed by Bryan Singer
+8 ,AGENT: I think this movie fits your tastes.  How about Jack the Giant Slayer (2013)?
+8 ,USER:  I want a biography
+8 ,AGENT: Wow
+8 ,USER:  okay thanks for your recommendation
+8 ,AGENT: It's been fun helping you find something you'll like! Come back soon for more recommendations. 
+9 ,USER:  I don't want a romance movie
+9 ,AGENT: Perhaps you might be interested in this movie. It's called Joy (2015).
+9 ,USER:  how long is the movie
+9 ,AGENT: I'm sorry
+9 ,USER:  I mean how long is the movie
+9 ,AGENT: I'm sorry
+9 ,USER:  how long does it takes for me to watch the movie Joy
+9 ,AGENT: Perhaps you might be interested in this movie. It's called American Hustle (2013).
+9 ,USER:  What actors are in the movie
+9 ,AGENT: Perhaps you might be interested in this movie. It's called The Hunger Games: Mockingjay - Part 2 (2015).
+9 ,USER:  actually I'd like a movie with Bruce Willis
+9 ,AGENT: Wow
+9 ,USER:  but I've already seen that one could you please give me another one
+9 ,AGENT: Perhaps you might be interested in this movie. It's called RED 2 (2013).
+9 ,USER:  what the what is the type of the movie
+9 ,AGENT: Perhaps you might be interested in this movie. It's called Rock the Kasbah (2015).
+9 ,USER:  can you give me more movies with Robert De Niro
+9 ,AGENT: Wow
+9 ,USER:  are there any movies that is earlier than 2015
+9 ,AGENT: I think this movie fits your tastes. How about Grudge Match (2013)?
+9 ,USER:  no I mean the movies with Robert De Niro which is earlier than 2015
+9 ,AGENT: Wow
+9 ,USER:  can you tell me more details about that movie
+9 ,AGENT: Perhaps you might be interested in this movie. It's called X-Men: Apocalypse (2016).
+9 ,USER:  oh I send that you can only recommend movies but not introduce movies right
+9 ,AGENT: Wow
+9 ,USER:  who is the director of it
+9 ,AGENT: I'm sorry
+9 ,USER:  no I don't want to watch that
+9 ,AGENT: Wow
+9 ,USER:  I only want to watch the movie which is earlier than 2013
+9 ,AGENT: Perhaps you might be interested in this movie. It's called Looper (2012).
+9 ,USER:  actually I don't like that one
+9 ,AGENT: Wow
+9 ,USER:  I have told you that I don't want a movie which is later than 2013
+9 ,AGENT: I think this movie fits your tastes. How about The Cold Light of Day (2012)?
+9 ,USER:  okay thank you so goodbye
+9 ,AGENT: I had so much fun with you! Come back and say hi again soon if you'd like!
+10 ,USER:  I want a movie which is earlier than that
+10 ,AGENT: Perhaps you might be interested in this movie.  It's called Jack Reacher (2012).
+10 ,USER:  I don't like the movie with crime
+10 ,AGENT: Wow
+10 ,USER:  oh that's a nice one thank you
+10 ,AGENT: I had so much fun with you! Come back and say hi again soon if you'd like!
+11 ,USER:  my favorite director is Christopher McQuarrie
+11 ,AGENT: Okay! Who are your favorite actors?
+11 ,USER:  Anthem Cruise so who are your favorite actors
+11 ,AGENT: I'm sorry
+11 ,USER:  are you seen this one already
+11 ,AGENT: Perhaps you might be interested in this movie.  It's called Jack Reacher (2012).
+11 ,USER:  okay why not can you tell me about other movies with Rosamund Pike
+11 ,AGENT: Wow
+11 ,USER:  an odor movie series Rosamund Pike
+11 ,AGENT: I'm sorry
+11 ,USER:  was there a movies with Rosamund Pike
+11 ,AGENT: I think this movie fits your tastes.  How about Gone Girl (2014)?
+11 ,USER:  or you left this one
+11 ,AGENT: Wow
+12 ,USER:  can you find a range
+12 ,AGENT: Okay! Who are your favorite actors?
+12 ,USER:  seems nice to you have another recommendation
+12 ,AGENT: Perhaps you might be interested in this movie. It's called American Hustle (2013).
+12 ,USER:  okay do you know about other movies with Josh Hutcherson
+12 ,AGENT: Wow
+13 ,USER:  my favorite genre is drama
+13 ,AGENT: Excellent! Who are your favorite directors?
+13 ,USER:  it's David Russell
+13 ,AGENT: Who are your favorite directors?
+13 ,USER:  I don't want to watch that could you give me another one
+13 ,AGENT: Perhaps you might be interested in this movie.  It's called American Hustle (2013).
+13 ,USER:  I want another movie in 2014 do you have one
+13 ,AGENT: Wow
+13 ,USER:  I don't want that I want a movie in 2014
+13 ,AGENT: Perhaps you might be interested in this movie.  It's called X-Men: Apocalypse (2016).
+13 ,USER:  to Elite I'd like a movie with Susan Boyer
+13 ,AGENT: I'm sorry
+13 ,USER:  I want a movie with Bradley Cooper
+13 ,AGENT: I think this movie fits your tastes.  How about Serena (2014)?
+14 ,USER:  wow that's great but I already watched at do you have another sedation with director Joe kleiman
+14 ,AGENT: I think this movie fits your tastes. How about Jack Reacher (2012)?
+14 ,USER:  no I don't want that
+14 ,AGENT: Wow
+14 ,USER:  should just leave her
+14 ,AGENT: I think this movie fits your tastes. How about Jack Reacher: Never Go Back (2016)?
+15 ,USER:  i like to watch sci-fi movies
+15 ,AGENT: I agree! Do you have any favorite directors?
+15 ,USER:  I like to watch movies by JJ Abrams
+15 ,AGENT: I'm sorry
+15 ,USER:  could you recommend me a movie by JJ Abrams
+15 ,AGENT: I agree! Do you have any favorite directors?
+15 ,USER:  well I would love to go to this one how about Star Wars
+15 ,AGENT: Not what I would say
+15 ,USER:  could you recommend me a movie by Bruce Willis
+15 ,AGENT: Perhaps you might be interested in this movie. It's called A Good Day to Die Hard (2013).
+15 ,USER:  how are you seen that one can you recommend me another one
+15 ,AGENT: Wow
+16 ,USER:  my favorite Jones drama
+16 ,AGENT: Excellent! Who are your favorite directors?
+16 ,USER:  I've already seen that could you give me another one
+16 ,AGENT: Perhaps you might be interested in this movie.  It's called American Hustle (2013).
+16 ,USER:  no I don't want to watch that can you give me another recommendation
+16 ,AGENT: Wow
+16 ,USER:  tradition suggest me movies by robert de niro
+16 ,AGENT: I'm sorry
+16 ,USER:  who do recommend me movies by Robert De Niro
+16 ,AGENT: Wow
+16 ,USER:  could you recommend me a movie by James McCoy
+16 ,AGENT: Perhaps you might be interested in this movie.  It's called The Family (2013).
+16 ,USER:  who do recommend me a movie by Jennifer Lawrence
+16 ,AGENT: Wow
+16 ,USER:  could you recommend me a movie by Jennifer Lawrence
+16 ,AGENT: Perhaps you might be interested in this movie.  It's called The Big Wedding (2013).
+16 ,USER:  could you recommend me movies by Jennifer Lawrence
+16 ,AGENT: I think this movie fits your tastes.  How about Serena (2014)?
+16 ,USER:  could you recommend me a movie by bradley cooper
+16 ,AGENT: Wow
+16 ,USER:  could you recommend me another one
+16 ,AGENT: I think this movie fits your tastes.  How about The Hunger Games: Mockingjay - Part 2 (2015)?
+16 ,USER:  no I don't want to watch that
+16 ,AGENT: Wow
+16 ,USER:  actually I like to see a movie by Robert De Niro
+16 ,AGENT: Perhaps you might be interested in this movie.  It's called Hands of Stone (2016).
+16 ,USER:  actually I want to watch a movie with Robert De Niro
+16 ,AGENT: I think this movie fits your tastes.  How about The Hunger Games: Catching Fire (2013)?
+16 ,USER:  who do recommend me a movie by james mccoy
+16 ,AGENT: Wow
+16 ,USER:  actually I like to see a movie by Jennifer Lawrence
+16 ,AGENT: I think this movie fits your tastes.  How about House at the End of the Street (2012)?
+16 ,USER:  can you tell me movie by Jennifer Lawrence
+16 ,AGENT: Wow
+16 ,USER:  thank you I love you too
+16 ,AGENT: It's been fun helping you find something you'll like! Come back soon for more recommendations. 
+17 ,USER:  among others I like drama
+17 ,AGENT: I agree! Do you have any favorite directors?
+17 ,USER:  a few I definitely like David Russell
+17 ,AGENT: Okay! Who are your favorite actors?
+17 ,USER:  a bunch but an actress I like is definitely Jennifer Lawrence
+17 ,AGENT: Wow
+17 ,USER:  I've I've seen it I really liked it but I've already seen several endings Playbook
+17 ,AGENT: Perhaps you might be interested in this movie. It's called American Hustle (2013).
+17 ,USER:  that has been on my list for a while but I've seen a few scenes from it so I have a sort of idea but I don't feel like that right now not in the mood for that particular right this moment
+17 ,AGENT: Wow
+17 ,USER:  can you tell me more about Joy
+17 ,AGENT: I think this movie fits your tastes. How about Serena (2014)?
+17 ,USER:  do you happen to have a movie that's a drama but also has some action may be
+17 ,AGENT: Wow
+17 ,USER:  that that is something actually that fits the bill perfectly except that I have not yet seen the movie that comes before it so I can't see that one quite yet can you suggest no the one that's similar
+17 ,AGENT: Perhaps you might be interested in this movie. It's called The Hunger Games: Mockingjay - Part 1 (2014).
+17 ,USER:  so same same issue that I'm pretty sure the Mockingjay actually comes after catching fire
+17 ,AGENT: Wow
+17 ,USER:  right I know can I have another suggestion
+17 ,AGENT: I think this movie fits your tastes. How about The Hunger Games (2012)?
+18 ,USER:  I'm really into action movies
+18 ,AGENT: Excellent! Who are your favorite directors?
+18 ,USER:  there's a bunch I like but definitely Christopher McQuarrie is is one of them out of there
+18 ,AGENT: Who are your favorite directors?
+18 ,USER:  as I said Christopher McQuarrie
+18 ,AGENT: I'm sorry
+18 ,USER:  that was asking a very kind way yes the director that I wanted to tell you about is Christopher McQuarrie
+18 ,AGENT: A movie lover after my own heart! What about your favorite directors?
+18 ,USER:  don't know if I should admit this publicly but I happen to like Tom Cruise
+18 ,AGENT: Perhaps you might be interested in this movie.  It's called Mission: Impossible - Rogue Nation (2015).
+18 ,USER:  honorable under normal circumstances I would be interested in that movie I don't feel like it today how about another
+18 ,AGENT: Perhaps you might be interested in this movie.  It's called Jack Reacher (2012).
+18 ,USER:  do you have any recommendations for something that's action but also has like some comedy at also has just like comedy action
+18 ,AGENT: Wow
+18 ,USER:  yeah that sounds great thanks very much
+18 ,AGENT: I had so much fun with you! Come back and say hi again soon if you'd like!
+19 ,USER:  hi Sarah I like action movies
+19 ,AGENT: I like the way you think! Who are your favorite directors?
+19 ,USER:  I really like Christopher McCarey
+19 ,AGENT: I'm sorry
+19 ,USER:  do you know Christopher McQuarrie
+19 ,AGENT: I agree! Do you have any favorite directors?
+19 ,USER:  I like the director Christopher McQuarrie
+19 ,AGENT: I'm sorry
+19 ,USER:  my favorite director is Christopher McCrory
+19 ,AGENT: I'm sorry
+19 ,USER:  I like the director Christopher McQuarrie
+19 ,AGENT: I'm sorry
+19 ,USER:  the director Christopher McQuarrie
+19 ,AGENT: I'm sorry
+19 ,USER:  the director Christopher McQuarrie is my favorite
+19 ,AGENT: I'm sorry
+19 ,USER:  I really like the actor Tom Cruise
+19 ,AGENT: Perhaps you might be interested in this movie.  It's called Mission: Impossible - Rogue Nation (2015).
+19 ,USER:  that sounds cool but could you give me another recommendation with Tom Cruise
+19 ,AGENT: I think this movie fits your tastes.  How about Jack Reacher (2012)?
+19 ,USER:  Rosamund Pike's in that can I have some more movies with Rosamund Pike
+19 ,AGENT: Wow
+19 ,USER:  I think I'm already watched that one can you give me another movie with Rosemond Pike
+19 ,AGENT: I think this movie fits your tastes.  How about Gone Girl (2014)?
+19 ,USER:  I like that movie but I've already seen it do you know anymore with Rosamund Pike
+19 ,AGENT: Wow
+19 ,USER:  I think I'd rather hear some movies with Tom Cruise again can you recommend another movie with Tom Cruise
+19 ,AGENT: Perhaps you might be interested in this movie.  It's called Oblivion (2013).
+19 ,USER:  I watch that didn't like that movie can I have her have a different one with Tom Cruise
+19 ,AGENT: Wow
+19 ,USER:  what about a different movie with Tom Cruise
+19 ,AGENT: Perhaps you might be interested in this movie.  It's called Jack Reacher: Never Go Back (2016).
+19 ,USER:  do you know anything about movies with Emily Blunt
+19 ,AGENT: Wow
+19 ,USER:  I'm excited to see that movie can I have another one so I can watch more movies this week
+19 ,AGENT: I think this movie fits your tastes.  How about The Girl on the Train (2016)?
+19 ,USER:  these are some good can I hear some movies with Rebecca Ferguson
+19 ,AGENT: Wow
+19 ,USER:  I really didn't like that movie there any others
+19 ,AGENT: I think this movie fits your tastes.  How about Sicario (2015)?
+19 ,USER:  can I hear some Sci-Fi movies
+19 ,AGENT: Perhaps you might be interested in this movie.  It's called The Huntsman: Winter's War (2016).
+19 ,USER:  I change my mind do you know any good comedy movies
+19 ,AGENT: Wow
+19 ,USER:  do any other comedy movies I already saw that one
+19 ,AGENT: Perhaps you might be interested in this movie.  It's called Looper (2012).
+19 ,USER:  do you know any adventure movies with the director Doug lemon Lyman
+19 ,AGENT: Wow
+19 ,USER:  what are some other movies that Doug liman directed
+19 ,AGENT: Perhaps you might be interested in this movie.  It's called Les Mis?rables (2012).
+19 ,USER:  I liked your recommendation of Mission Impossible Rogue Nation what other movies did Christopher McQuarrie Direct
+19 ,AGENT: Wow
+19 ,USER:  I already saw them as what are some other movies
+19 ,AGENT: Perhaps you might be interested in this movie.  It's called Les Mis?rables (2012).
+19 ,USER:  Sarah can you give me a different movie directed by Doug liman lemon
+19 ,AGENT: Wow
+19 ,USER:  do you know any other movies directed by Doug liman
+19 ,AGENT: I think this movie fits your tastes.  How about Les Mis?rables (2012)?
+19 ,USER:  who directed les mis
+19 ,AGENT: I'm sorry
+19 ,USER:  who's the director of limos
+19 ,AGENT: I'm sorry
+19 ,USER:  play the game fun helping you find something you like come back soon for more recommendations
+19 ,AGENT: Hi
+20 ,USER:  I like the drummer genre drama
+20 ,AGENT: Do you have any favorite directors?
+20 ,USER:  David Russell's are really good director
+20 ,AGENT: Okay! Who are your favorite actors?
+20 ,USER:  I like Jennifer Lawrence
+20 ,AGENT: Wow
+20 ,USER:  I haven't seen that but I haven't heard really good things about it do you know any other movies with Jennifer Lawrence
+20 ,AGENT: I think this movie fits your tastes. How about Joy (2015)?
+20 ,USER:  I like the director David Russell are there any other movies by him
+20 ,AGENT: Wow
+20 ,USER:  do you know any action movies with Jennifer Lawrence
+20 ,AGENT: I think this movie fits your tastes. How about Passengers (2016)?
+20 ,USER:  passengers was good I saw that last week do you know any movies with Robert De Niro
+20 ,AGENT: Wow
+20 ,USER:  I really like some of his older movies do you have any other recommendations on Robert De Niro movies
+20 ,AGENT: Perhaps you might be interested in this movie. It's called The Family (2013).
+20 ,USER:  what about some movies with James McAvoy
+20 ,AGENT: Wow
+20 ,USER:  do you have any different X-Men movies
+20 ,AGENT: Perhaps you might be interested in this movie. It's called X-Men: Days of Future Past (2014).
+20 ,USER:  oh I love that movie do you know any movies The other movies was James McAvoy since I like him
+20 ,AGENT: Wow
+20 ,USER:  is there another movie with Eleanor Rigby that similar to that title
+20 ,AGENT: Perhaps you might be interested in this movie. It's called The Disappearance of Eleanor Rigby: Them (2014).
+20 ,USER:  oh yeah that's one of them I remember now thank you are there any movies directed by Susanne Bier
+20 ,AGENT: Wow
+20 ,USER:  what's another movie directed by Susanne Bier
+20 ,AGENT: Perhaps you might be interested in this movie. It's called Split (2016X).
+20 ,USER:  I haven't heard of that one but I'll keep it in mind
+20 ,AGENT: Wow
+20 ,USER:  thank you Sarah
+20 ,AGENT: I had so much fun with you! Come back and say hi again soon if you'd like!
+21 ,USER:  actually I like drama most
+21 ,AGENT: Excellent! Who are your favorite directors?
+21 ,USER:  is David Russell
+21 ,AGENT: Who are your favorite directors?
+21 ,USER:  actually I don't like that
+21 ,AGENT: Wow
+21 ,USER:  oh not this one either
+21 ,AGENT: I think this movie fits your tastes.  How about American Hustle (2013)?
+21 ,USER:  maybe you could you please look for another movie
+21 ,AGENT: Wow
+21 ,USER:  no don't like it
+21 ,AGENT: I think this movie fits your tastes.  How about The Hunger Games: Mockingjay - Part 2 (2015)?
+21 ,USER:  actually I hate this movie
+21 ,AGENT: Wow
+21 ,USER:  I beg your pardon
+21 ,AGENT: Perhaps you might be interested in this movie.  It's called X-Men: Apocalypse (2016).
+21 ,USER:  oh yeah I think I would love this movie
+21 ,AGENT: I'm sorry
+21 ,USER:  I like X-Men
+21 ,AGENT: Wow
+21 ,USER:  yeah what's the dad and I like that a lot
+21 ,AGENT: I had so much fun with you! Come back and say hi again soon if you'd like!
+21 ,USER:  could you please introduce a new type of movie for me
+21 ,AGENT: Hi
+21 ,USER:  I like science fiction
+21 ,AGENT: I'm sorry
+21 ,USER:  my favorite General is science fiction
+21 ,AGENT: I'm sorry
+21 ,USER:  Hugh Jackman from Australia
+21 ,AGENT: Who are your favorite directors?
+21 ,USER:  my favorite director is James Cameron
+21 ,AGENT: I'm sorry
+21 ,USER:  sounds good for me
+21 ,AGENT: If you find that you need further assistance
+21 ,USER:  any other movies
+21 ,AGENT: Hi
+21 ,USER:  lie detector movies
+21 ,AGENT: I agree! How about your favorite directors?
+21 ,USER:  I don't have any favorite directors actually
+21 ,AGENT: Okay! Who are your favorite actors?
+21 ,USER:  it's a British actor named Benedict Cumberbatch
+21 ,AGENT: Wow
+21 ,USER:  no I don't like it
+21 ,AGENT: I think this movie fits your tastes.  How about The Fifth Estate (2013)?
+21 ,USER:  maybe another one
+21 ,AGENT: Wow
+21 ,USER:  yeah yeah yeah yeah I like that movie a lot thank you
+21 ,AGENT: I'm sorry
+21 ,USER:  I like Doctor Strange thanks a lot
+21 ,AGENT: I'm sorry
+21 ,USER:  I love the movie of doctor strange and thanks a lot
+21 ,AGENT: I'm sorry
+22 ,USER:  hey hi I'm Sarah I can recommend movies to you could you help me out by telling me what are your favorite generous
+22 ,AGENT: Hi
+22 ,USER:  yes is Christopher McQuarrie
+22 ,AGENT: I agree! How about your favorite directors?
+22 ,USER:  yeah I like it and I have already seen the five movies of Mission Impossible
+22 ,AGENT: Perhaps you might be interested in this movie. It's called Jack Reacher (2012).
+22 ,USER:  maybe is there another recommendation
+22 ,AGENT: Wow
+22 ,USER:  maybe another one which is not Jack Reacher
+22 ,AGENT: I think this movie fits your tastes. How about Oblivion (2013)?
+22 ,USER:  I think I would like that
+22 ,AGENT: I'm sorry
+22 ,USER:  I think I would like abbreviation
+22 ,AGENT: I'm sorry
+22 ,USER:  I like Oblivion
+22 ,AGENT: I'm sorry
+22 ,USER:  no I don't like that
+22 ,AGENT: I think this movie fits your tastes. How about Edge of Tomorrow (2014)?
+22 ,USER:  yeah I like Edge of Tomorrow
+22 ,AGENT: I'm sorry
+22 ,USER:  I like Age of Tomorrow
+22 ,AGENT: Perhaps you might be interested in this movie. It's called The Girl on the Train (2016).
+22 ,USER:  yes thank you and goodbye
+22 ,AGENT: I hope you like the movie. If you need anything
+23 ,USER:  my favorite genres are comedy and action
+23 ,AGENT: I like the way you think! Who are your favorite directors?
+23 ,USER:  Christopher Nolan and Christopher McQuarrie
+23 ,AGENT: Okay! Who are your favorite actors?
+23 ,USER:  Christian Bale and Amy Adams
+23 ,AGENT: I think this movie fits your tastes. How about Interstellar (2014)?
+23 ,USER:  oh that's a good movie but I'm already watched it do you want to recommend another one for me
+23 ,AGENT: Wow
+23 ,USER:  yeah that's a good movie do I seen that too so do you have another recommendation
+23 ,AGENT: I think this movie fits your tastes. How about American Hustle (2013)?
+23 ,USER:  oh that's a good recommendation I haven't watch that before
+23 ,AGENT: If I can be of further assistance
+23 ,USER:  can you recommend me a movie that has Tom Cruise in it
+23 ,AGENT: Hi
+23 ,USER:  I like comedy
+23 ,AGENT: A movie lover after my own heart! What about your favorite directors?
+23 ,USER:  I like Woody Allen
+23 ,AGENT: Okay! Who are your favorite actors?
+23 ,USER:  Adam Sandler Maybe
+23 ,AGENT: You're tough to please. What about your favorite actor?
+23 ,USER:  I haven't watched that one can you suggest me another movie 2
+23 ,AGENT: I think this movie fits your tastes. How about Blue Jasmine (2013)?
+23 ,USER:  oh I watch that one and I didn't like it
+23 ,AGENT: I think this movie fits your tastes. How about Sandy Wexler (2017)?
+23 ,USER:  oh that's a new movie I'll check it out thank you
+23 ,AGENT: I'm sorry
+23 ,USER:  I think that's a good movie it's a good suggestion thanks a lot Sarah
+23 ,AGENT: I had so much fun with you! Come back and say hi again soon if you'd like!
+24 ,USER:  hi sarah my favorite genre is drama
+24 ,AGENT: Excellent! Who are your favorite directors?
+24 ,USER:  David Russell maybe and Bryan Singer
+24 ,AGENT: I'm sorry
+24 ,USER:  oh my favorite directors are Bryan Singer and David Russell
+24 ,AGENT: So
+24 ,USER:  oh I like James McAvoy
+24 ,AGENT: I think this movie fits your tastes.  How about Silver Linings Playbook (2012)?
+24 ,USER:  oh that's a good movie I'm already seen it can you suggest me another movie having James McAvoy
+24 ,AGENT: Wow
+24 ,USER:  oh okay sounds interesting
+24 ,AGENT: I had so much fun with you! Come back and say hi again soon if you'd like!
+24 ,USER:  oh okay well thanks Sarah
+24 ,AGENT: Hi
+25 ,USER:  my favorite genre is drama
+25 ,AGENT: Excellent! Who are your favorite directors?
+25 ,USER:  I like David Russell
+25 ,AGENT: Okay! Who are your favorite actors?
+25 ,USER:  my favorite is Jennifer Lawrence
+25 ,AGENT: Wow
+25 ,USER:  do you recommend another I don't think I'd like that
+25 ,AGENT: Perhaps you might be interested in this movie. It's called Joy (2015).
+25 ,USER:  I've actually already seen that movie
+25 ,AGENT: Wow
+25 ,USER:  could you recommend here is one I'd love to go to it's called American Hustle 2013
+25 ,AGENT: Perhaps you might be interested in this movie. It's called The Hunger Games: Catching Fire (2013).
+25 ,USER:  perhaps you might be interested in this movie it's called The Hunger Games Catching Fire 2013
+25 ,AGENT: Wow
+25 ,USER:  perhaps you might be interested in this movie it's called The Hunger Games Mockingjay Part 2 2015
+25 ,AGENT: Wow
+25 ,USER:  I think I'd like that
+25 ,AGENT: I'm sorry
+25 ,USER:  thank you I'm sorry the noise level here is not helping if you don't mind my you repeat that
+25 ,AGENT: Wow
+25 ,USER:  yeah thank you
+25 ,AGENT: If I can be of further assistance
+26 ,USER:  I like action
+26 ,AGENT: I like the way you think! Who are your favorite directors?
+26 ,USER:  my favorite director is Christopher McQuarrie
+26 ,AGENT: Okay! Who are your favorite actors?
+26 ,USER:  I've actually already seen that can you recommend another
+26 ,AGENT: Perhaps you might be interested in this movie.  It's called Jack Reacher (2012).
+26 ,USER:  yeah could you recommend one with Julianne ho
+26 ,AGENT: Wow
+26 ,USER:  can you recommend one with Julianne Hough
+26 ,AGENT: I think this movie fits your tastes.  How about Safe Haven (2013)?
+26 ,USER:  I've already seen that can you recommend one with Emily Blunt
+26 ,AGENT: Wow
+26 ,USER:  that sounds great can you actually recommend one more with Rebecca Ferguson
+26 ,AGENT: Perhaps you might be interested in this movie.  It's called The Girl on the Train (2016).
+26 ,USER:  I've already seen that movie can you recommend one more
+26 ,AGENT: Wow
+26 ,USER:  can you recommend one with Tom Cruise
+26 ,AGENT: I think this movie fits your tastes.  How about Rock of Ages (2012)?
+26 ,USER:  okay thank you
+26 ,AGENT: I had so much fun with you! Come back and say hi again soon if you'd like!
+27 ,USER:  how about action
+27 ,AGENT: Hi
+27 ,USER:  how about action
+27 ,AGENT: Hi
+27 ,USER:  Crystal Christoper Makari
+27 ,AGENT: I agree! Do you have any favorite directors?
+27 ,USER:  I have already seen this movie could you please give me another one
+27 ,AGENT: Wow
+27 ,USER:  actually I like a movie about Bruce Willis
+27 ,AGENT: I think this movie fits your tastes.  How about Jack Reacher: Never Go Back (2016)?
+27 ,USER:  no I don't want to watch that
+27 ,AGENT: Wow
+27 ,USER:  okay I watch thank you
+27 ,AGENT: I'm sorry
+27 ,USER:  how would I will watch that movies and Q
+27 ,AGENT: Wow
+27 ,USER:  okay thank you
+27 ,AGENT: It's been fun helping you find something you'll like! Come back soon for more recommendations. 
+28 ,USER:  how about drama
+28 ,AGENT: Hi
+28 ,USER:  Jennifer Lawrence please
+28 ,AGENT: I think this movie fits your tastes. How about The Hunger Games (2012)?
+28 ,USER:  I've already watched this movie
+28 ,AGENT: Wow
+28 ,USER:  I have already see this movie could you please give me another one
+28 ,AGENT: Perhaps you might be interested in this movie. It's called The Hunger Games: Mockingjay - Part 1 (2014).
+28 ,USER:  actually I like a movie with Robert De Niro
+28 ,AGENT: Wow
+28 ,USER:  oh this movie is good thank you
+28 ,AGENT: I had so much fun with you! Come back and say hi again soon if you'd like!
+29 ,USER:  my favourite genre is comedy
+29 ,AGENT: Excellent! Who are your favorite directors?
+29 ,USER:  I like Bryan Singer
+29 ,AGENT: Okay! Who are your favorite actors?
+29 ,USER:  my favorite actor is Leonardo DiCaprio
+29 ,AGENT: I'm sorry
+29 ,USER:  my favorite actor is Leonardo DiCaprio
+29 ,AGENT: I'm sorry
+29 ,USER:  my favorite actor is Jennifer Lawrence
+29 ,AGENT: Wow
+29 ,USER:  can you give me another movie
+29 ,AGENT: Perhaps you might be interested in this movie.  It's called X-Men: Days of Future Past (2014).
+29 ,USER:  can you give me one more
+29 ,AGENT: Wow
+29 ,USER:  can you give me a movie that Bradley Cooper is in
+29 ,AGENT: Wow
+29 ,USER:  can you give me a movie that's directed by Christopher Nolan
+29 ,AGENT: I think this movie fits your tastes.  How about Interstellar (2014)?
+29 ,USER:  can you give me another one
+29 ,AGENT: I think this movie fits your tastes.  How about The Dark Knight Rises (2012)?
+30 ,USER:  what genre is that
+30 ,AGENT: It's been fun helping you find something you'll like! Come back soon for more recommendations. 
+30 ,USER:  can you recommend me a movie
+30 ,AGENT: Hi
+30 ,USER:  who are the actors in that movie
+30 ,AGENT: Perhaps you might be interested in this movie. It's called Jack Reacher (2012).
+31 ,USER:  I like crime movies neo-noir thrillers
+31 ,AGENT: Excellent! Who are your favorite directors?
+31 ,USER:  I don't know
+31 ,AGENT: Okay! Who are your favorite actors?
+31 ,USER:  I like comedy movies
+31 ,AGENT: I think this movie fits your tastes. How about Jack Reacher: Never Go Back (2016)?
+31 ,USER:  not that one
+31 ,AGENT: I think this movie fits your tastes. How about Oblivion (2013)?
+31 ,USER:  I've seen that
+31 ,AGENT: Wow
+31 ,USER:  I've seen that too
+31 ,AGENT: Perhaps you might be interested in this movie. It's called The November Man (2014).
+32 ,USER:  hi I'm Sarah I can recommend movies to you could you help me out by telling me what are your favorite genres
+32 ,AGENT: Hi
+32 ,USER:  hi I'm Sarah I can recommend movies to you could you help me out by telling me what are your favorite genre
+32 ,AGENT: Hi
+32 ,USER:  I like comedy movies
+32 ,AGENT: Excellent! Who are your favorite directors?
+32 ,USER:  I don't know
+32 ,AGENT: Okay! Who are your favorite actors?
+32 ,USER:  no I've seen that
+32 ,AGENT: I think this movie fits your tastes.  How about Spring Breakers (2012)?
+32 ,USER:  yeah I love that
+32 ,AGENT: I'm sorry
+32 ,USER:  yes I like that movie
+32 ,AGENT: I'm sorry
+32 ,USER:  get me another movie
+32 ,AGENT: I think this movie fits your tastes.  How about True Story (2015)?
+33 ,USER:  I like drama movies
+33 ,AGENT: Excellent! Who are your favorite directors?
+33 ,USER:  find my favorites on return is David Russell
+33 ,AGENT: Okay! Who are your favorite actors?
+33 ,USER:  well I like Jennifer Lawrence best
+33 ,AGENT: Wow
+33 ,USER:  can you recommend me another movie
+33 ,AGENT: Perhaps you might be interested in this movie. It's called American Hustle (2013).
+33 ,USER:  and another one
+33 ,AGENT: Wow
+33 ,USER:  I do recommend the new with some movies by Robert De Niro
+33 ,AGENT: Perhaps you might be interested in this movie. It's called The Intern (2015).
+33 ,USER:  yeah and I'm in love that movie and another movie with Joe hodkinson
+33 ,AGENT: I'm sorry
+33 ,USER:  yeah I want to know a little more movies with James McAvoy
+33 ,AGENT: I think this movie fits your tastes. How about X-Men: Apocalypse (2016)?
+33 ,USER:  yeah and another movie from him
+33 ,AGENT: I'm sorry
+33 ,USER:  yeah I want to see another movie with Robert De Niro
+33 ,AGENT: Perhaps you might be interested in this movie. It's called X-Men: Days of Future Past (2014).
+33 ,USER:  yes thank you so much
+33 ,AGENT: I had so much fun with you! Come back and say hi again soon if you'd like!
+34 ,USER:  I like action movies
+34 ,AGENT: Excellent! Who are your favorite directors?
+34 ,USER:  my favorite actor is Christopher McCrory
+34 ,AGENT: I'm sorry
+34 ,USER:  yeah I would like Kristoff from Mercury
+34 ,AGENT: I'm sorry
+34 ,USER:  I like Christopher McCurry
+34 ,AGENT: I'm sorry
+34 ,USER:  I like Tom Cruise
+34 ,AGENT: Perhaps you might be interested in this movie.  It's called Mission: Impossible - Rogue Nation (2015).
+34 ,USER:  neon lines at the movie song to recommend another one
+34 ,AGENT: I'm sorry
+34 ,USER:  I like this movie can you recommend me another one
+34 ,AGENT: I think this movie fits your tastes.  How about Jack Reacher (2012)?
+34 ,USER:  and another one
+34 ,AGENT: Wow
+34 ,USER:  yeah and what about Anna movie with Emily Blunt
+34 ,AGENT: I think this movie fits your tastes.  How about Edge of Tomorrow (2014)?
+34 ,USER:  Ultra recommend maze with awesome movie with Rosamund Pike
+34 ,AGENT: Perhaps you might be interested in this movie.  It's called A United Kingdom (2016).
+34 ,USER:  yeah I like this movie and probably with Rebecca for Ferguson
+34 ,AGENT: I'm sorry
+34 ,USER:  yeah it was all recognize was another one who is Rosamund Pike
+34 ,AGENT: I think this movie fits your tastes.  How about Wrath of the Titans (2012)?
+34 ,USER:  yeah that's maybe a good movie and sent you how much
+34 ,AGENT: Wow
+34 ,USER:  Home Sound cue
+34 ,AGENT: I had so much fun with you! Come back and say hi again soon if you'd like!
+35 ,USER:  hi Sarah I love I like romantic movie
+35 ,AGENT: I like the way you think! Who are your favorite directors?
+35 ,USER:  can you give me some recommendations
+35 ,AGENT: Who are your favorite directors?
+35 ,USER:  how about James Cameron
+35 ,AGENT: Who are your favorite directors?
+35 ,USER:  how about Steven Spielberg
+35 ,AGENT: Okay! Who are your favorite actors?
+35 ,USER:  can you give me another recommendation
+35 ,AGENT: Perhaps you might be interested in this movie.  It's called The BFG (2016).
+35 ,USER:  no I don't like it
+35 ,AGENT: Wow
+35 ,USER:  I've already seen this video
+35 ,AGENT: I think this movie fits your tastes.  How about Django Unchained (2012)?
+35 ,USER:  no I've seen the two the movie
+35 ,AGENT: Wow
+35 ,USER:  play I like it I can give it to try
+35 ,AGENT: I'm sorry
+35 ,USER:  play yeah I love it I will give give it a try
+35 ,AGENT: I'm sorry
+35 ,USER:  okay great thank you
+35 ,AGENT: I had so much fun with you! Come back and say hi again soon if you'd like!
+35 ,USER:  thank you have a good one
+35 ,AGENT: Hi
+36 ,USER:  give me another recommendation
+36 ,AGENT: I think this movie fits your tastes. How about American Hustle (2013)?
+36 ,USER:  I've seen that movie Sarah
+36 ,AGENT: Wow
+36 ,USER:  can you give me another name
+36 ,AGENT: I think this movie fits your tastes. How about Serena (2014)?
+36 ,USER:  I've seen it
+36 ,AGENT: I think this movie fits your tastes. How about The Hunger Games: Mockingjay - Part 1 (2014)?
+37 ,USER:  I like drama
+37 ,AGENT: I like the way you think! Who are your favorite directors?
+37 ,USER:  ATS David Russell
+37 ,AGENT: Okay! Who are your favorite actors?
+37 ,USER:  so one of my favorite actor as Jennifer Lawrence I think she acts really well
+37 ,AGENT: Wow
+37 ,USER:  I think I've already seen that one can you give me another recommendation
+37 ,AGENT: Perhaps you might be interested in this movie.  It's called American Hustle (2013).
+37 ,USER:  do you have one where Robert De Niro plays in as well
+37 ,AGENT: Wow
+38 ,USER:  I would like to see an action movie
+38 ,AGENT: Excellent! Who are your favorite directors?
+38 ,USER:  maybe Christopher Maguire
+38 ,AGENT: Who are your favorite directors?
+38 ,USER:  stop is Tom Cruise for sure
+38 ,AGENT: I think this movie fits your tastes. How about Agents of S.H.I.E.L.D. (2013)?
+38 ,USER:  can you recommend another one
+38 ,AGENT: I think this movie fits your tastes. How about 24: Live Another Day (2014)?
+38 ,USER:  so do you also have one with Rebecca Ferguson
+38 ,AGENT: Wow
+38 ,USER:  is there was a little older than that
+38 ,AGENT: Perhaps you might be interested in this movie. It's called Life (2017).
+38 ,USER:  okay how about one that is more off of Thriller
+38 ,AGENT: Wow
+38 ,USER:  yeah thanks. To get suggestion
+38 ,AGENT: Have a good time. It was nice to assist you! I'll just be here. Alone.
+39 ,USER:  I like action movies
+39 ,AGENT: Excellent! Who are your favorite directors?
+39 ,USER:  what are the directors I like is Christopher McQuarrie
+39 ,AGENT: Who are your favorite directors?
+39 ,USER:  how about Christopher McQuarrie
+39 ,AGENT: So
+39 ,USER:  one of my favorites is Tom Cruise
+39 ,AGENT: I think this movie fits your tastes. How about Mission: Impossible - Rogue Nation (2015)?
+39 ,USER:  how about something else
+39 ,AGENT: Wow
+39 ,USER:  can I see one with Jeremy Renner in it
+39 ,AGENT: I think this movie fits your tastes. How about Jack Reacher: Never Go Back (2016)?
+39 ,USER:  how about a different movie
+39 ,AGENT: Wow
+39 ,USER:  can I see a crime movie
+39 ,AGENT: Perhaps you might be interested in this movie. It's called The Avengers (2012).
+39 ,USER:  how about a movie with a different director
+39 ,AGENT: Wow
+39 ,USER:  how about a movie with Emily Blunt in it
+39 ,AGENT: Perhaps you might be interested in this movie. It's called The Girl on the Train (2016).
+39 ,USER:  are there any mystery movies you recommend
+39 ,AGENT: Perhaps you might be interested in this movie. It's called Sicario (2015).
+40 ,USER:  how about drama
+40 ,AGENT: Hi
+40 ,USER:  I like drama
+40 ,AGENT: I agree! Do you have any favorite directors?
+40 ,USER:  I like David Russell
+40 ,AGENT: Okay! Who are your favorite actors?
+40 ,USER:  let's start with Jennifer Lawrence
+40 ,AGENT: Wow
+40 ,USER:  Garcia biography instead
+40 ,AGENT: I think this movie fits your tastes.  How about American Hustle (2013)?
+40 ,USER:  can I see one with Simon Pegg in it
+40 ,AGENT: Wow
+40 ,USER:  how about another movie with Robert DeNiro in it
+40 ,AGENT: Perhaps you might be interested in this movie.  It's called The Intern (2015).
+40 ,USER:  how about a different one
+40 ,AGENT: Wow
+40 ,USER:  what about a different movie from the same year
+40 ,AGENT: Perhaps you might be interested in this movie.  It's called The Big Wedding (2013).
+40 ,USER:  how about another movie from the same year
+40 ,AGENT: Wow
+40 ,USER:  do you have any movies with Michael Fassbender in them
+40 ,AGENT: Perhaps you might be interested in this movie.  It's called X-Men: Apocalypse (2016).
+40 ,USER:  what about an older movie
+40 ,AGENT: Wow
+40 ,USER:  how about an even older movie
+40 ,AGENT: I think this movie fits your tastes.  How about Prometheus (2012)?
+40 ,USER:  how about a romance
+40 ,AGENT: Wow
+40 ,USER:  how about a movie that came out in 2016
+40 ,AGENT: Perhaps you might be interested in this movie.  It's called The Light Between Oceans (2016).
+40 ,USER:  what about another movie that's similar to that one
+40 ,AGENT: Wow
+40 ,USER:  what about one with Bradley Cooper in it
+40 ,AGENT: I think this movie fits your tastes.  How about Serena (2014)?
+41 ,USER:  High Sierra I like drama
+41 ,AGENT: I like the way you think! Who are your favorite directors?
+41 ,USER:  right but could you suggest me a movie Which is less violent
+41 ,AGENT: Perhaps you might be interested in this movie. It's called The Hateful Eight (2015).
+41 ,USER:  but again it is quite violent
+41 ,AGENT: Wow
+41 ,USER:  right could you suggest me another movie maybe
+41 ,AGENT: Perhaps you might be interested in this movie. It's called The Wolf of Wall Street (2013).
+41 ,USER:  perfect yes that movie is less violent and drama and DiCaprio box thank you
+41 ,AGENT: Wow
+41 ,USER:  thank you goodbye
+41 ,AGENT: It's been fun helping you find something you'll like! Come back soon for more recommendations. 
+42 ,USER:  perfect thank you
+42 ,AGENT: It's been fun helping you find something you'll like! Come back soon for more recommendations. 
+43 ,USER:  Quentin Tarantino and Christopher Nolan
+43 ,AGENT: Okay! Who are your favorite actors?
+43 ,USER:  Robert Downey jr.
+43 ,AGENT: Wow
+43 ,USER:  Christy asked me some more
+43 ,AGENT: Perhaps you might be interested in this movie.  It's called The Dark Knight Rises (2012).
+43 ,USER:  that's a good one if I could use a few more
+43 ,AGENT: Wow
+44 ,USER:  something with Natalie Portman
+44 ,AGENT: Perhaps you might be interested in this movie. It's called The Dark Knight Rises (2012).
+44 ,USER:  Chris can I have Jennifer Lawrence and then use them
+44 ,AGENT: Wow
+44 ,USER:  list me a drama movie
+44 ,AGENT: I think this movie fits your tastes. How about Jane Got a Gun (2015)?
+44 ,USER:  that's a good one how about a comedy featuring Bradley Cooper
+44 ,AGENT: Wow
+44 ,USER:  I'm going to have some a movie with Anna Kendrick
+44 ,AGENT: Perhaps you might be interested in this movie. It's called Silver Linings Playbook (2012).
+45 ,USER:  I like the drama and comedy
+45 ,AGENT: I like the way you think! Who are your favorite directors?
+45 ,USER:  my favorite director is Tim Burton
+45 ,AGENT: Okay! Who are your favorite actors?
+45 ,USER:  I like that David Tennant and had enough one him Carter
+45 ,AGENT: So
+45 ,USER:  David Tennant and Helena Bonham Carter
+45 ,AGENT: Okay! Who are your favorite actors?
+45 ,USER:  Helena Bonham Carter
+45 ,AGENT: Okay! Who are your favorite actors?
+45 ,USER:  let's say Jennifer Anderson
+45 ,AGENT: Okay! Who are your favorite actors?
+45 ,USER:  I like Dave
+45 ,AGENT: Okay! Who are your favorite actors?
+45 ,USER:  I like David Tennant
+45 ,AGENT: I'm sorry
+45 ,USER:  I like Johnny Depp
+45 ,AGENT: Perhaps you might be interested in this movie.  It's called Dark Shadows (2012).
+45 ,USER:  I have already seen that movie could you recommend another movie
+45 ,AGENT: Perhaps you might be interested in this movie.  It's called Miss Peregrine's Home for Peculiar Children (2016).
+45 ,USER:  I've also seen that movie I'm sorry could you recommend another movie
+45 ,AGENT: I'm sorry
+45 ,USER:  sure I would like to have another recommendation
+45 ,AGENT: Perhaps you might be interested in this movie.  It's called Big Eyes (2014).
+45 ,USER:  maybe another recommendation
+45 ,AGENT: Wow
+45 ,USER:  very good thank you
+45 ,AGENT: I had so much fun with you! Come back and say hi again soon if you'd like!
+46 ,USER:  I like drama and comedy
+46 ,AGENT: Excellent! Who are your favorite directors?
+46 ,USER:  I like Tim Burton
+46 ,AGENT: Okay! Who are your favorite actors?
+46 ,USER:  I like Johnny Depp
+46 ,AGENT: Wow
+46 ,USER:  I've already seen that movie could you recommend a different movie
+46 ,AGENT: Perhaps you might be interested in this movie. It's called Miss Peregrine's Home for Peculiar Children (2016).
+46 ,USER:  might be interested in this movie it's called Miss Peregrine's Home for Peculiar Children 2016
+46 ,AGENT: Wow
+46 ,USER:  yes but I've already seen it
+46 ,AGENT: I think this movie fits your tastes. How about Frankenweenie (2012)?
+46 ,USER:  think this movie fits your tastes how about Frankenweenie 2012
+46 ,AGENT: If I can be of further assistance
+46 ,USER:  if I can be of further assistance I'll be here
+46 ,AGENT: Hi
+46 ,USER:  can you give me I can recommend movies to you could you help me out by telling me what are your favorite genres
+46 ,AGENT: Hi
+46 ,USER:  okay i like a ditzy sci-fi and mystery
+46 ,AGENT: Do you have any favorite directors?
+46 ,USER:  artist seen that movie could you give me another recommendation
+46 ,AGENT: Wow
+46 ,USER:  that sounds so dark could you tell me about the different movie
+46 ,AGENT: Perhaps you might be interested in this movie. It's called Big Eyes (2014).
+46 ,USER:  maybe but long day so maybe I will want two different movie could you recommend another movie
+46 ,AGENT: Wow
+46 ,USER:  already said that so thank you
+46 ,AGENT: I had so much fun with you! Come back and say hi again soon if you'd like!

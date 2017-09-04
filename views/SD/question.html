@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang = "eng">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dialogue Annotation</title>
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
+  <!-- Material Design Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="css/ionicons.min.css">
+  <!-- CSS custom stylesheet -->
+  <link rel="stylesheet" href="css/default.css">
+</head>
+
+<body class="body" style ="background: #f4f4f4">
+  <div class="container">
+    <br>
+    <div class = "row">
+      <br>
+      <div class = "col s12 z-depth-2 card-panel">
+        <div class = "s12"> 
+          <br>
+          <h1 class = "center"><font style = "font-weight: 100;">Quiz</font></h1>
+        </div>
+        <div class = "col s12">
+          <br>
+          <h4 class = "center"><font color= '#ea546b'  style = "font-weight: 300;">Instructions</font></h4>
+          <hr color= '#f29fa4' width = "40%">
+         <!--  <h4>[[DIALOGUE 1]]</h4> -->
+          <div class = "col s10 push-s1">
+            <h5>Introduction</h5>
+            <p>In this HIT, you will label a set of sentences with a particular type of conversational move. We will first describe the conversation move and give you a set of examples. Before you begin labeling the actual sentences, you will take a quiz to ensure you understand how to recognize the particular conversation move described.  After passing this quiz, you will be redirected to the task. </p> 
+            <br>
+            <h5>Definition</h5>
+            <p>In this task, you will be labeling for self-disclosure. Self-disclosure is when people reveal deep, personal, or enduring information about themselves to other people that wouldn’t typically be publicly known. So, for example “I’m terrible at math” IS a self-disclosure because it tells you about the person’s enduring preferences, but “I think we have to do some math now” is NOT a self-disclosure because it isn’t deep, personal, or enduring. </p> 
+            <br>
+            <h5>Things that are NOT self-disclosure:</h5>
+            <p>- Just because they say “I think” doesn’t mean it’s self-disclosure. Sometimes people “hedge”, or show they’re uncertain, by starting a sentence with “I think”.<br />
+            - If they don’t finish their sentence and there isn’t enough to decide on, choose “none”.<br />
+            - Sharing opinions about other people: “Ms. Jones has the worst dresses” is NOT self-disclosure.</p> 
+            <br>
+            <h5>Examples (Self-Disclosure vs. Non-Self-Disclosure)</h5>
+            <p><font color = '#3ece4b'>I am always cold.</font><br />
+            <font color = '#f53135'>It is cold right now.</font></p> 
+            <p><font color = '#3ece4b'>I want to study biology when I go to college.</font><br />
+            <font color = '#f53135'>Ms. Smith is the worst teacher.</font></p> 
+            <p><font color = '#3ece4b'>I’m always so awkward.</font><br />
+            <font color = '#f53135'>This is awkward.</font></p> 
+            <p><font color = '#3ece4b'>I play hockey.</font><br />
+            <font color = '#f53135'>Your team played really well today!</font></p> 
+            <p><font color = '#3ece4b'>I like these kind of problems.</font><br />
+            <font color = '#f53135'>You did great on the last test!</font></p> 
+            <br>
+            <p><font size="2">Note: Stating one’s preferences is a type of self-disclosure we are interested in, and this should be coded with neutral valence. Preferences can be usually identified by words such as “like”, “dislike”, “don’t like”, “hate”, etc. </font></p>
+            <br>  
+          </div>
+        </div>
+
+        <div class = "col s12">
+          <br>
+          <h5 class = "center"><font color= '#ea546b'  style = "font-weight: 300;">The Quiz</font></h5>
+          <hr color= '#f29fa4'  width = "40%">
+          <div class = "col s10 push-s1">
+            <p>Choose whether the following sentences are self-disclosure or non-self-disclosure.</p> 
+            <br>
+            <h5><font style = "font-weight: 500;">I suck at math.</font></h5>
+            <form action="#">
+              <p>
+                <input name="group1" type="radio" id="test1" />
+                <label for="test1">Self-disclosure</label>
+              </p>
+              <p>
+                <input name="group1" type="radio" id="test2" />
+                <label for="test2">Non-self-disclosure</label>
+              </p>
+            </form>
+            <br>
+            <h5><font style = "font-weight: 500;">I look good in blue.</font></h5>
+            <form action="#">
+              <p>
+                <input name="group2" type="radio" id="test3" />
+                <label for="test3">Self-disclosure</label>
+              </p>
+              <p>
+                <input name="group2" type="radio" id="test4" />
+                <label for="test4">Non-self-disclosure</label>
+              </p>
+            </form>
+            <br>
+            <h5><font style = "font-weight: 500;">I’m not sure where they went.</font></h5>
+            <form action="#">
+              <p>
+                <input name="group2" type="radio" id="test5" />
+                <label for="test5">Self-disclosure</label>
+              </p>
+              <p>
+                <input name="group2" type="radio" id="test6" />
+                <label for="test6">Non-self-disclosure</label>
+              </p>
+            </form>
+            <br>
+            <h5><font style = "font-weight: 500;">My friend Tom is ugly and he is bad at math.</font></h5>
+            <form action="#">
+              <p>
+                <input name="group2" type="radio" id="test7" />
+                <label for="test7">Self-disclosure</label>
+              </p>
+              <p>
+                <input name="group2" type="radio" id="test8" />
+                <label for="test8">Non-self-disclosure</label>
+              </p>
+            </form>
+            <br>
+            <h5><font style = "font-weight: 500;">I have a big family – there are 7 kids.</font></h5>
+            <form action="#">
+              <p>
+                <input name="group2" type="radio" id="test9" />
+                <label for="test9">Self-disclosure</label>
+              </p>
+              <p>
+                <input name="group2" type="radio" id="test10" />
+                <label for="test10">Non-self-disclosure</label>
+              </p>
+            </form>
+            <br>
+            <h5><font style = "font-weight: 500;">Add five x to both sides of the equation.</font></h5>
+            <form action="#">
+              <p>
+                <input name="group2" type="radio" id="test11" />
+                <label for="test11">Self-disclosure</label>
+              </p>
+              <p>
+                <input name="group2" type="radio" id="test12" />
+                <label for="test12">Non-self-disclosure</label>
+              </p>
+            </form>
+            <br>
+            <h5><font style = "font-weight: 500;">I’m getting better at math.</font></h5>
+            <form action="#">
+              <p>
+                <input name="group2" type="radio" id="test13" />
+                <label for="test13">Self-disclosure</label>
+              </p>
+              <p>
+                <input name="group2" type="radio" id="test14" />
+                <label for="test14">Non-self-disclosure</label>
+              </p>
+            </form>
+            <br>
+            <h5><font style = "font-weight: 500;">What grade are you in?</font></h5>
+            <form action="#">
+              <p>
+                <input name="group2" type="radio" id="test15" />
+                <label for="test15">Self-disclosure</label>
+              </p>
+              <p>
+                <input name="group2" type="radio" id="test16" />
+                <label for="test16">Non-self-disclosure</label>
+              </p>
+            </form>
+            <br>
+            <h5><font style = "font-weight: 500;">I’m just starting seventh grade.</font></h5>
+            <form action="#">
+              <p>
+                <input name="group2" type="radio" id="test17" />
+                <label for="test17">Self-disclosure</label>
+              </p>
+              <p>
+                <input name="group2" type="radio" id="test18" />
+                <label for="test18">Non-self-disclosure</label>
+              </p>
+            </form>
+            <br>
+            <h5><font style = "font-weight: 500;">I think you just type the number there.</font></h5>
+            <form action="#">
+              <p>
+                <input name="group2" type="radio" id="test19" />
+                <label for="test19">Self-disclosure</label>
+              </p>
+              <p>
+                <input name="group2" type="radio" id="test20" />
+                <label for="test20">Non-self-disclosure</label>
+              </p>
+            </form>
+            <br>
+            <br>
+            <a style = "background: #3ece4b;" class="waves-effect waves-light btn-large" onclick = "submit()">Submit</a>
+            <br>
+            <br>
+            <br>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Import jQuery before materialize.js-->
+<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+<!-- Compiled and minified JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
+<!-- Minified D3.js -->
+<script src="https://www.gstatic.com/firebasejs/4.1.2/firebase.js"></script>
+<script src="js/config.js"></script>
+<script src="js/question.js"></script>
+</body>
+</html>
