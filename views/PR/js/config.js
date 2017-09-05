@@ -10,7 +10,7 @@ var config = {
 //Host name
 var hostName = "localhost";
 //Strategy name
-var strategyName = "SD";
+var strategyName = "PR";
 //Full length of dialogue v.s. only 5 sentences
 var shortVersion = true;
 //Dialogue file

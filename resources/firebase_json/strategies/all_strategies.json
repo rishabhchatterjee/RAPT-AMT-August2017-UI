@@ -1,0 +1,680 @@
+{
+  "HE": {
+    "completedNow": {
+      "HE_1": {
+        "count": 0,
+        "test": "test"
+      },
+      "HE_2": {
+        "count": 0,
+        "test": "test"
+      },
+      "HE_3": {
+        "count": 0,
+        "test": "test"
+      },
+      "HE_4": {
+        "count": 0,
+        "test": "test"
+      },
+      "HE_5": {
+        "count": 0,
+        "test": "test"
+      },
+      "HE_6": {
+        "count": 0,
+        "test": "test"
+      },
+      "HE_7": {
+        "count": 0,
+        "test": "test"
+      }
+    },
+    "correctAns": [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "currentHitNum": 0,
+    "ids": {
+      "test": {
+        "answers": [
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "blackListed": false,
+        "completed": {
+          "HE_1": "HE_1",
+          "placeHolder": "N/A"
+        },
+        "id": "test",
+        "numAttemptedHits": 1,
+        "numAttemptsQuiz": 1,
+        "passed": true,
+        "score": 10
+      }
+    },
+    "loggedIn": {
+      "test": "test",
+      "placeHolder": "N/A"
+    },
+    "output": {
+      "test": {
+        "arrLog": [
+          {
+            "sentence": "test",
+            "strategy": "HE"
+          },
+          {
+            "sentence": "test",
+            "strategy": "HE"
+          },
+          {
+            "sentence": "test",
+            "strategy": "HE"
+          },
+          {
+            "sentence": "test",
+            "strategy": "HE"
+          },
+          {
+            "sentence": "test",
+            "strategy": "HE"
+          }
+        ],
+        "code": "e6gTpZ48G4",
+        "id": "aaa",
+        "sectionCompleting": "test"
+      }
+    },
+    "tempLog": [
+      [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ]
+  },
+  "PR": {
+    "completedNow": {
+      "PR_1": {
+        "count": 0,
+        "test": "test"
+      },
+      "PR_2": {
+        "count": 0,
+        "test": "test"
+      },
+      "PR_3": {
+        "count": 0,
+        "test": "test"
+      },
+      "PR_4": {
+        "count": 0,
+        "test": "test"
+      },
+      "PR_5": {
+        "count": 0,
+        "test": "test"
+      },
+      "PR_6": {
+        "count": 0,
+        "test": "test"
+      },
+      "PR_7": {
+        "count": 0,
+        "test": "test"
+      }
+    },
+    "correctAns": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "currentHitNum": 0,
+    "ids": {
+      "test": {
+        "answers": [
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "blackListed": false,
+        "completed": {
+          "PR_1": "PR_1",
+          "placeHolder": "N/A"
+        },
+        "id": "test",
+        "numAttemptedHits": 1,
+        "numAttemptsQuiz": 1,
+        "passed": true,
+        "score": 10
+      }
+    },
+    "loggedIn": {
+      "test": "test",
+      "placeHolder": "N/A"
+    },
+    "output": {
+      "test": {
+        "arrLog": [
+          {
+            "sentence": "test",
+            "strategy": "PR"
+          },
+          {
+            "sentence": "test",
+            "strategy": "PR"
+          },
+          {
+            "sentence": "test",
+            "strategy": "PR"
+          },
+          {
+            "sentence": "test",
+            "strategy": "PR"
+          },
+          {
+            "sentence": "test",
+            "strategy": "PR"
+          }
+        ],
+        "code": "e6gTpZ48G4",
+        "id": "aaa",
+        "sectionCompleting": "test"
+      }
+    },
+    "tempLog": [
+      [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ]
+  },
+  "QESD": {
+    "completedNow": {
+      "QESD_1": {
+        "count": 0,
+        "test": "test"
+      },
+      "QESD_2": {
+        "count": 0,
+        "test": "test"
+      },
+      "QESD_3": {
+        "count": 0,
+        "test": "test"
+      },
+      "QESD_4": {
+        "count": 0,
+        "test": "test"
+      },
+      "QESD_5": {
+        "count": 0,
+        "test": "test"
+      },
+      "QESD_6": {
+        "count": 0,
+        "test": "test"
+      },
+      "QESD_7": {
+        "count": 0,
+        "test": "test"
+      }
+    },
+    "correctAns": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "currentHitNum": 0,
+    "ids": {
+      "test": {
+        "answers": [
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "blackListed": false,
+        "completed": {
+          "QESD_1": "QESD_1",
+          "placeHolder": "N/A"
+        },
+        "id": "test",
+        "numAttemptedHits": 1,
+        "numAttemptsQuiz": 1,
+        "passed": true,
+        "score": 10
+      }
+    },
+    "loggedIn": {
+      "test": "test",
+      "placeHolder": "N/A"
+    },
+    "output": {
+      "test": {
+        "arrLog": [
+          {
+            "sentence": "test",
+            "strategy": "QESD"
+          },
+          {
+            "sentence": "test",
+            "strategy": "QESD"
+          },
+          {
+            "sentence": "test",
+            "strategy": "QESD"
+          },
+          {
+            "sentence": "test",
+            "strategy": "QESD"
+          },
+          {
+            "sentence": "test",
+            "strategy": "QESD"
+          }
+        ],
+        "code": "e6gTpZ48G4",
+        "id": "aaa",
+        "sectionCompleting": "test"
+      }
+    },
+    "tempLog": [
+      [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ]
+  },
+  "RSE": {
+    "completedNow": {
+      "RSE_1": {
+        "count": 0,
+        "test": "test"
+      },
+      "RSE_2": {
+        "count": 0,
+        "test": "test"
+      },
+      "RSE_3": {
+        "count": 0,
+        "test": "test"
+      },
+      "RSE_4": {
+        "count": 0,
+        "test": "test"
+      },
+      "RSE_5": {
+        "count": 0,
+        "test": "test"
+      },
+      "RSE_6": {
+        "count": 0,
+        "test": "test"
+      },
+      "RSE_7": {
+        "count": 0,
+        "test": "test"
+      }
+    },
+    "correctAns": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "currentHitNum": 0,
+    "ids": {
+      "test": {
+        "answers": [
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "blackListed": false,
+        "completed": {
+          "RSE_1": "RSE_1",
+          "placeHolder": "N/A"
+        },
+        "id": "test",
+        "numAttemptedHits": 1,
+        "numAttemptsQuiz": 1,
+        "passed": true,
+        "score": 10
+      }
+    },
+    "loggedIn": {
+      "test": "test",
+      "placeHolder": "N/A"
+    },
+    "output": {
+      "test": {
+        "arrLog": [
+          {
+            "sentence": "test",
+            "strategy": "RSE"
+          },
+          {
+            "sentence": "test",
+            "strategy": "RSE"
+          },
+          {
+            "sentence": "test",
+            "strategy": "RSE"
+          },
+          {
+            "sentence": "test",
+            "strategy": "RSE"
+          },
+          {
+            "sentence": "test",
+            "strategy": "RSE"
+          }
+        ],
+        "code": "e6gTpZ48G4",
+        "id": "aaa",
+        "sectionCompleting": "test"
+      }
+    },
+    "tempLog": [
+      [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ]
+  },
+  "SD": {
+    "completedNow": {
+      "SD_1": {
+        "count": 0,
+        "test": "test"
+      },
+      "SD_2": {
+        "count": 0,
+        "test": "test"
+      },
+      "SD_3": {
+        "count": 0,
+        "test": "test"
+      },
+      "SD_4": {
+        "count": 0,
+        "test": "test"
+      },
+      "SD_5": {
+        "count": 0,
+        "test": "test"
+      },
+      "SD_6": {
+        "count": 0,
+        "test": "test"
+      },
+      "SD_7": {
+        "count": 0,
+        "test": "test"
+      }
+    },
+    "correctAns": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "currentHitNum": 0,
+    "ids": {
+      "test": {
+        "answers": [
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "blackListed": false,
+        "completed": {
+          "SD_1": "SD_1",
+          "placeHolder": "N/A"
+        },
+        "id": "test",
+        "numAttemptedHits": 1,
+        "numAttemptsQuiz": 1,
+        "passed": true,
+        "score": 10
+      }
+    },
+    "loggedIn": {
+      "test": "test",
+      "placeHolder": "N/A"
+    },
+    "output": {
+      "test": {
+        "arrLog": [
+          {
+            "sentence": "test",
+            "strategy": "SD"
+          },
+          {
+            "sentence": "test",
+            "strategy": "SD"
+          },
+          {
+            "sentence": "test",
+            "strategy": "SD"
+          },
+          {
+            "sentence": "test",
+            "strategy": "SD"
+          },
+          {
+            "sentence": "test",
+            "strategy": "SD"
+          }
+        ],
+        "code": "e6gTpZ48G4",
+        "id": "aaa",
+        "sectionCompleting": "test"
+      }
+    },
+    "tempLog": [
+      [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ]
+  },
+  "VSN": {
+    "completedNow": {
+      "VSN_1": {
+        "count": 0,
+        "test": "test"
+      },
+      "VSN_2": {
+        "count": 0,
+        "test": "test"
+      },
+      "VSN_3": {
+        "count": 0,
+        "test": "test"
+      },
+      "VSN_4": {
+        "count": 0,
+        "test": "test"
+      },
+      "VSN_5": {
+        "count": 0,
+        "test": "test"
+      },
+      "VSN_6": {
+        "count": 0,
+        "test": "test"
+      },
+      "VSN_7": {
+        "count": 0,
+        "test": "test"
+      }
+    },
+    "correctAns": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1
+    ],
+    "currentHitNum": 0,
+    "ids": {
+      "test": {
+        "answers": [
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "blackListed": false,
+        "completed": {
+          "VSN_1": "VSN_1",
+          "placeHolder": "N/A"
+        },
+        "id": "test",
+        "numAttemptedHits": 1,
+        "numAttemptsQuiz": 1,
+        "passed": true,
+        "score": 10
+      }
+    },
+    "loggedIn": {
+      "test": "test",
+      "placeHolder": "N/A"
+    },
+    "output": {
+      "test": {
+        "arrLog": [
+          {
+            "sentence": "test",
+            "strategy": "VSN"
+          },
+          {
+            "sentence": "test",
+            "strategy": "VSN"
+          },
+          {
+            "sentence": "test",
+            "strategy": "VSN"
+          },
+          {
+            "sentence": "test",
+            "strategy": "VSN"
+          },
+          {
+            "sentence": "test",
+            "strategy": "VSN"
+          }
+        ],
+        "code": "e6gTpZ48G4",
+        "id": "aaa",
+        "sectionCompleting": "test"
+      }
+    },
+    "tempLog": [
+      [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ]
+  }
+}

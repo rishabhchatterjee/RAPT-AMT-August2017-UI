@@ -1,0 +1,115 @@
+{
+  "VSN": {
+    "completedNow": {
+      "VSN_1": {
+        "count": 0,
+        "test": "test"
+      },
+      "VSN_2": {
+        "count": 0,
+        "test": "test"
+      },
+      "VSN_3": {
+        "count": 0,
+        "test": "test"
+      },
+      "VSN_4": {
+        "count": 0,
+        "test": "test"
+      },
+      "VSN_5": {
+        "count": 0,
+        "test": "test"
+      },
+      "VSN_6": {
+        "count": 0,
+        "test": "test"
+      },
+      "VSN_7": {
+        "count": 0,
+        "test": "test"
+      }
+    },
+    "correctAns": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1
+    ],
+    "currentHitNum": 10,
+    "ids": {
+      "test": {
+        "answers": [
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "blackListed": false,
+        "completed": {
+          "VSN_1": "VSN_1",
+          "placeHolder": "N/A"
+        },
+        "id": "test",
+        "numAttemptedHits": 1,
+        "numAttemptsQuiz": 1,
+        "passed": true,
+        "score": 10
+      }
+    },
+    "loggedIn": {
+      "test": "test",
+      "placeHolder": "N/A"
+    },
+    "output": {
+      "test": {
+        "arrLog": [
+          {
+            "sentence": "test",
+            "strategy": "VSN"
+          },
+          {
+            "sentence": "test",
+            "strategy": "VSN"
+          },
+          {
+            "sentence": "test",
+            "strategy": "VSN"
+          },
+          {
+            "sentence": "test",
+            "strategy": "VSN"
+          },
+          {
+            "sentence": "test",
+            "strategy": "VSN"
+          }
+        ],
+        "code": "e6gTpZ48G4",
+        "id": "aaa",
+        "sectionCompleting": "test"
+      }
+    },
+    "tempLog": [
+      [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ]
+  }
+}

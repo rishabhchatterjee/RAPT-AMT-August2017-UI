@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang = "eng">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WoZ Page</title>
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
+  <!-- Material Design Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="css/ionicons.min.css">
+  <!-- CSS custom stylesheet -->
+  <link rel="stylesheet" href="css/default.css">
+</head>
+
+<body class="body" style ="background: #f4f4f4">
+<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
+
+  <div class="container">
+    <div class = "row">
+      <br>
+      <div class = "col s12 z-depth-2 card-panel">
+        <div id="modal1" class="modal">
+            <div class="modal-content">
+              <h4>You have completed the task!</h4>
+              <p>Enter the following code on the mTurk website to confirm your completetion</p>
+              <blockquote id = "quote">
+                ABC123
+              </blockquote>
+            </div>
+          </div>
+        <div class = "col s12">
+          <br>
+          <h5 class = "center"><font color= '#ea546b'  style = "font-weight: 300;">Phrases</font></h5>
+          <hr color= '#f29fa4' >
+          <br>
+          <br>
+          <div class="players">
+            <li id = "1">Player 1</li>
+            <li id = "2">Player 2</li>
+            <li id = "3">Player 3</li>
+            <li id = "4">Player 4</li>
+            <li id = "5">Player 5</li>
+            <li id = "6">Player 6</li>
+          </div>
+          <br><br><br><br><br><br><br><br><br><br><br><br>
+        </div>
+
+        <div class = "col s12">
+          <br>
+          <br>
+          <br>
+            <div class = "center">
+              <a style = "background: #3ece4b;" class="waves-effect waves-light btn-large" onclick = "shouldStrategy(true)">PR</a>
+              <a style = "background: #f53135;" class="waves-effect waves-light btn-large" onclick = "shouldStrategy(false)">Non-PR</a>
+            </div>
+            <div class = "col s12">
+              <br>
+              <div class="progress" style = "background: #bfc0c1;">
+                <div id = "bar" class="determinate" style= "width: 0%; background: #5faa00;"></div>
+              </div>
+              <p><font font size="2">Note: Praise is the expression of a positive judgement of :<br/>
+                - a product - what other persons make or do (or what they have made or done in the past).<br/>
+                - a behavior - how other persons behave, (or how they have behaved in the past).<br/>
+                - an attribute, who other persons are (or were in the past).<br/>
+                It is important to note that in our annotations of these transcripts we are not interested in praise of a third party (e.g. “my mother is really smart”) but praise of the other person in the conversation (e.g. “you’re really smart!”).<br />
+              </font>
+              <font font size="1.7">
+              <br>
+              Things that are NOT praise:<br/>
+                - “That’s right” – this is just an acknowledgement of correctness - and is a statement of fact, not an evaluation.<br/>
+                - “You scored 60%!” – this is also just an acknowledgement – and is a statement of fact, not an evaluation.<br/>
+                - “You can do it!” – this is encouragement, not praise.<br/>
+                - During the annotation phase, if the sentence is not finished and there isn’t enough to decide on, choose “none”.<br/>
+              </font></p>
+            </div>
+            <br>
+            <br>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="js/jquery.transit.min.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/4.1.2/firebase.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/default.js"></script>
+
+</body>
+</html>

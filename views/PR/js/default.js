@@ -243,7 +243,7 @@ var currElem = 4;
 var arrCurrNum = 2;
 
 var arr = ["", "", "", "1","2","3"];
-var isSD = false;
+var isStrategy = false;
 
 var arrLog = [];
 var firstTime = true;
@@ -296,7 +296,7 @@ function findSocial(data) {
                     tempArr.push("P2: " + data[i][3]);
                 }
 
-                if (data[i][6] == "SD" || data[i][5] == "SD") {
+                if (data[i][6] == strategyName || data[i][5] == strategyName) {
                     arrSD.push("1");
                 } else {
                     arrSD.push("0");
@@ -386,10 +386,10 @@ function call() {
 
 
 //Function called from the interface
-function SD(val) {
+function shouldStrategy(val) {
     //Whenever should is set to true, the list will animate up
     should = true;
-    isSD = val;
+    isStrategy = val;
 }
 
 
@@ -482,10 +482,10 @@ window.players = function($elem) {
             var sentence = arr[arrCurrNum];
             var stringSD;
 
-            if (isSD) {
-                stringSD = "SD";
+            if (isStrategy) {
+                stringSD = strategyName;
             } else {
-                stringSD = "Non-SD"
+                stringSD = "Non-" + strategyName;
             }
 
             if (firstTime) {
