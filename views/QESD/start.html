@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang = "eng">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WoZ Page</title>
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
+  <!-- Material Design Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="css/ionicons.min.css">
+  <!-- CSS custom stylesheet -->
+  <link rel="stylesheet" href="css/default.css">
+</head>
+
+<body class="body" style ="background: #f4f4f4">
+<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
+
+  <div class="container">
+    <div class = "row">
+      <br>
+      <div class = "col s12 z-depth-2 card-panel">
+        <div id="modal1" class="modal">
+            <div class="modal-content">
+              <h4>You have completed the task!</h4>
+              <p>Enter the following code on the mTurk website to confirm your completetion</p>
+              <blockquote id = "quote">
+                ABC123
+              </blockquote>
+            </div>
+          </div>
+        <div class = "col s12">
+          <br>
+          <h5 class = "center"><font color= '#ea546b'  style = "font-weight: 300;">Phrases</font></h5>
+          <hr color= '#f29fa4' >
+          <br>
+          <br>
+          <div class="players">
+            <li id = "1">Player 1</li>
+            <li id = "2">Player 2</li>
+            <li id = "3">Player 3</li>
+            <li id = "4">Player 4</li>
+            <li id = "5">Player 5</li>
+            <li id = "6">Player 6</li>
+          </div>
+          <br><br><br><br><br><br><br><br><br><br><br><br>
+        </div>
+
+        <div class = "col s12">
+          <br>
+          <br>
+          <br>
+            <div class = "center">
+              <a style = "background: #3ece4b;" class="waves-effect waves-light btn-large" onclick = "shouldStrategy(true)">QESD</a>
+              <a style = "background: #f53135;" class="waves-effect waves-light btn-large" onclick = "shouldStrategy(false)">Non-QESD</a>
+            </div>
+            <div class = "col s12">
+              <br>
+              <div class="progress" style = "background: #bfc0c1;">
+                <div id = "bar" class="determinate" style= "width: 0%; background: #5faa00;"></div>
+              </div>
+              <p><font font size="2">Note: A question that elicits self-disclosure (QESD) is when people ask questions to which the responses are expected to be self-disclosures. Self-Disclosures reveal deep, personal, or enduring information about ourselves to other people that wouldn’t typically be publicly known. So, for example, "What is your biggest fear?” IS a question to elicit self-disclosure because it expects an intimate or personal answer in return. “Do you know what time it is?” is NOT a question to elicit self-disclosure because its answer will not reveal any deep, personal or enduring information about its author.<br />
+              </font>
+              <font font size="1.7">
+              <br>
+              Things that are NOT elicit self-disclosure:<br/>
+                - “Do you have a pencil?” - Just because it is a question does not mean it is a QESD. Here, the answer expected does not deliver any intimate or personal information about its author.<br/>
+                - “Do you think Tom has a girlfriend?” - Here, the answer to this question is an opinion, not a personal information.<br/>
+                - During the annotation phase, if the sentence is not finished and there isn’t enough to decide on, choose “none”.<br/>
+              </font></p>
+            </div>
+            <br>
+            <br>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="js/jquery.transit.min.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/4.1.2/firebase.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/default.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang = "eng">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dialogue Annotation</title>
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
+  <!-- Material Design Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="css/ionicons.min.css">
+  <!-- CSS custom stylesheet -->
+  <link rel="stylesheet" href="css/default.css">
+</head>
+
+<body class="body" style ="background: #f4f4f4">
+<div class="container">
+  <br>
+  <div class = "row">
+    <br>
+    <div class = "col s12 z-depth-2 card-panel">
+      <div class = "s12">
+        <br>
+        <h1 class = "center"><font style = "font-weight: 100;">Quiz</font></h1>
+      </div>
+      <div class = "col s12">
+        <br>
+        <h4 class = "center"><font color= '#ea546b'  style = "font-weight: 300;">Instructions</font></h4>
+        <hr color= '#f29fa4' width = "40%">
+        <!--  <h4>[[DIALOGUE 1]]</h4> -->
+        <div class = "col s10 push-s1">
+          <h5>Introduction</h5>
+          <p>In this HIT, you will label a set of sentences with a particular type of conversational move. We will first describe the conversation move and give you a set of examples. Before you begin labeling the actual sentences, you will take a quiz to ensure you understand how to recognize the particular conversation move described.  After passing this quiz, you will be redirected to the task. </p>
+          <br>
+          <h5>Definition</h5>
+          <p>In this task, you will be labeling for references to shared experience. Refer to shared experience (RSE) is applied to the verbal expressions by which a person refers to an event, activity, or experience that was shared by that person and the other person in the conversation. Shared experience must be something that was experienced together. <br>
+          <h5>Things that are NOT referring to shared experience:</h5>
+          <p>- “That's cool, I play volleyball too!” – just because they play the same game, does not mean they played the game together – it’s the togetherness that makes it shared experience.<br/>
+            - “This problem is so hard. I’m just going to skip it.” – This is not RSE because it is a current running event. <br/>
+            - If they don’t finish their sentence and there isn’t enough to decide on, choose “none”</p>
+          <br>
+          <h5>Examples (Refer to shared experience vs. Not refer to share experience)</h5>
+          <p><font color = '#3ece4b'>I remember you helped me with a problem like this before.</font><br />
+            <font color = '#f53135'>This problem is so hard.</font></p>
+          <p><font color = '#3ece4b'>That soccer game we saw last week was so lame.</font><br />
+            <font color = '#f53135'>My favorite soccer team is Manchester United.</font></p>
+          <p><font color = '#3ece4b'>I like those because we actually work together on them.</font><br />
+            <font color = '#f53135'>This is super awkward.</font></p>
+          <p><font color = '#3ece4b'>I didn't think we were gonna figure that one out!</font><br />
+            <font color = '#f53135'>This problem is so hard. I’m just going to skip it!</font></p>
+          <p><font color = '#3ece4b'>You brought your hat this time.</font><br />
+            <font color = '#f53135'>I always forget to take my hat.</font></p>
+          <br>
+        </div>
+      </div>
+
+      <div class = "col s12">
+        <br>
+        <h5 class = "center"><font color= '#ea546b'  style = "font-weight: 300;">The Quiz</font></h5>
+        <hr color= '#f29fa4'  width = "40%">
+        <div class = "col s10 push-s1">
+          <p>Choose whether the following sentences are Refer to shared experience or non-Refer to shared experience.</p>
+          <br>
+          <h5><font style = "font-weight: 500;">Our English teacher is so mean.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group1" type="radio" id="test1" />
+              <label for="test1">Refer to shared experience</label>
+            </p>
+            <p>
+              <input name="group1" type="radio" id="test2" />
+              <label for="test2">Non-Refer to shared experience</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">I am a wonderful player.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test3" />
+              <label for="test3">Refer to shared experience</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test4" />
+              <label for="test4">Non-Refer to shared experience</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">Do you remember when we went to the zoo?</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test5" />
+              <label for="test5">Refer to shared experience</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test6" />
+              <label for="test6">Non-Refer to shared experience</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">I went to the zoo yesterday.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test7" />
+              <label for="test7">Refer to shared experience</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test8" />
+              <label for="test8">Non-Refer to shared experience</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">I had so much fun with you last time!</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test9" />
+              <label for="test9">Refer to shared experience</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test10" />
+              <label for="test10">Non-Refer to shared experience</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">You helped me a lot on Monday.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test11" />
+              <label for="test11">Refer to shared experience</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test12" />
+              <label for="test12">Non-Refer to shared experience</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">I think we can do better.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test13" />
+              <label for="test13">Refer to shared experience</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test14" />
+              <label for="test14">Non-Refer to shared experience</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">Everytime we get something to drink we always gotta laugh.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test15" />
+              <label for="test15">Refer to shared experience</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test16" />
+              <label for="test16">Non-Refer to shared experience</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">I already know this guy.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test17" />
+              <label for="test17">Refer to shared experience</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test18" />
+              <label for="test18">Non-Refer to shared experience</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">Have you met Sarah before?</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test19" />
+              <label for="test19">Refer to shared experience</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test20" />
+              <label for="test20">Non-Refer to shared experience</label>
+            </p>
+          </form>
+          <br>
+          <br>
+          <a style = "background: #3ece4b;" class="waves-effect waves-light btn-large" onclick = "submit()">Submit</a>
+          <br>
+          <br>
+          <br>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<!--Import jQuery before materialize.js-->
+<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+<!-- Compiled and minified JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
+<!-- Minified D3.js -->
+<script src="https://www.gstatic.com/firebasejs/4.1.2/firebase.js"></script>
+<script src="js/config.js"></script>
+<script src="js/question.js"></script>
+</body>
+</html>

@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang = "eng">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dialogue Annotation</title>
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
+  <!-- Material Design Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="css/ionicons.min.css">
+  <!-- CSS custom stylesheet -->
+  <link rel="stylesheet" href="css/default.css">
+</head>
+
+<body class="body" style ="background: #f4f4f4">
+<div class="container">
+  <br>
+  <div class = "row">
+    <br>
+    <div class = "col s12 z-depth-2 card-panel">
+      <div class = "s12">
+        <br>
+        <h1 class = "center"><font style = "font-weight: 100;">Quiz</font></h1>
+      </div>
+      <div class = "col s12">
+        <br>
+        <h4 class = "center"><font color= '#ea546b'  style = "font-weight: 300;">Instructions</font></h4>
+        <hr color= '#f29fa4' width = "40%">
+        <!--  <h4>[[DIALOGUE 1]]</h4> -->
+        <div class = "col s10 push-s1">
+          <h5>Introduction</h5>
+          <p>In this HIT, you will label a set of sentences with a particular type of conversational move. We will first describe the conversation move and give you a set of examples. Before you begin labeling the actual sentences, you will take a quiz to ensure you understand how to recognize the particular conversation move described.  After passing this quiz, you will be redirected to the task. </p>
+          <br>
+          <h5>Definition</h5>
+          <p>In this task, you will be labeling for violations of social norm (VSN). Social norm violations are behaviors that go against culturally acceptable conventions or social rules. <p/>
+          <br>
+          <h5>Different sorts of social norm violations:</h5>
+          <p>- Breaking the conversational rules - This includes violation of general social norm, such as “I’m a Jew” or "Chill out bro!". It also includes inappropriate topics (e.g. violence and sex - "hanging dead bodies from the ceiling", “I’m gonna put my nut sack on your drumset” etc.) and things you are not expected to say to someone you are not already intimate with.<br />
+            - Face threatening acts - This includes criticizing, teasing, or insulting things such as personality (e.g.  “You’re  a  weirdo”),  personal  habits  (e.g.  “You  stink”),  work habits (“That’s not going to get you very far in life!”) or interests (“I can’t believe you like World of Warcraft!”) among other things. Sarcastic remarks still count. <br />
+            - Referring to specific violations of social norms - This includes referring by oneself, as in “I don’t burp in front of people” or by other people, as in “Come on! Don’t burp in front of me!”.
+          </p>
+          <p>During the annotation phase, if the sentence is not finished and there isn’t enough to decide on, choose “none”</p>
+          <br>
+          <h5>Examples (Violating social norm vs. Non-violating social norm)</h5>
+          <p><font color = '#3ece4b'>You’re a weirdo.</font><br />
+            <font color = '#f53135'>I did not expect that kind of behavior.</font></p>
+          <p><font color = '#3ece4b'>Man, you really suck at this.</font><br />
+            <font color = '#f53135'>You can do better.</font></p>
+          <p><font color = '#3ece4b'>I will kill you if you do that.</font><br />
+            <font color = '#f53135'>I don't think you can.</font></p>
+          <p><font color = '#3ece4b'>Shut up.</font><br />
+            <font color = '#f53135'>Please be quiet.</font></p>
+          <p><font color = '#3ece4b'>I really need to pee.</font><br />
+            <font color = '#f53135'>I think I have to go to the bathroom.</font></p>
+          <br>
+        </div>
+      </div>
+
+      <div class = "col s12">
+        <br>
+        <h5 class = "center"><font color= '#ea546b'  style = "font-weight: 300;">The Quiz</font></h5>
+        <hr color= '#f29fa4'  width = "40%">
+        <div class = "col s10 push-s1">
+          <p>Choose whether the following sentences are violating social norm or non-violating social norm.</p>
+          <br>
+          <h5><font style = "font-weight: 500;">My mom is driving me nuts.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group1" type="radio" id="test1" />
+              <label for="test1">Violating social norm</label>
+            </p>
+            <p>
+              <input name="group1" type="radio" id="test2" />
+              <label for="test2">Non-Violating social norm</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">I guess I'm fine.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test3" />
+              <label for="test3">Violating social norm</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test4" />
+              <label for="test4">Non-Violating social norm</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">I’m not sure where they went.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test5" />
+              <label for="test5">Violating social norm</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test6" />
+              <label for="test6">Non-Violating social norm</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">My friend Tom is ugly and he is bad at math.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test7" />
+              <label for="test7">Violating social norm</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test8" />
+              <label for="test8">Non-Violating social norm</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">This game is for losers.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test9" />
+              <label for="test9">Violating social norm</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test10" />
+              <label for="test10">Non-Violating social norm</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">I strongly disagree with what she said.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test11" />
+              <label for="test11">Violating social norm</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test12" />
+              <label for="test12">Non-Violating social norm</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">Don't be stupid.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test13" />
+              <label for="test13">Violating social norm</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test14" />
+              <label for="test14">Non-Violating social norm</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">Come on bro, it's just a prank.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test15" />
+              <label for="test15">Violating social norm</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test16" />
+              <label for="test16">Non-Violating social norm</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">Are you serious?</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test17" />
+              <label for="test17">Violating social norm</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test18" />
+              <label for="test18">Non-Violating social norm</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">This is getting even worse.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test19" />
+              <label for="test19">Violating social norm</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test20" />
+              <label for="test20">Non-Violating social norm</label>
+            </p>
+          </form>
+          <br>
+          <br>
+          <a style = "background: #3ece4b;" class="waves-effect waves-light btn-large" onclick = "submit()">Submit</a>
+          <br>
+          <br>
+          <br>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<!--Import jQuery before materialize.js-->
+<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+<!-- Compiled and minified JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
+<!-- Minified D3.js -->
+<script src="https://www.gstatic.com/firebasejs/4.1.2/firebase.js"></script>
+<script src="js/config.js"></script>
+<script src="js/question.js"></script>
+</body>
+</html>

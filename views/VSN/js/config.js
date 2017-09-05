@@ -10,7 +10,7 @@ var config = {
 //Host name
 var hostName = "104.197.197.3";
 //Strategy name
-var strategyName = "PR";
+var strategyName = "VSN";
 //Full length of dialogue v.s. only 5 sentences
 var shortVersion = true;
 //Dialogue file

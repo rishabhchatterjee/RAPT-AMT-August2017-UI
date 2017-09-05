@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang = "eng">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dialogue Annotation</title>
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
+  <!-- Material Design Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="css/ionicons.min.css">
+  <!-- CSS custom stylesheet -->
+  <link rel="stylesheet" href="css/default.css">
+</head>
+
+<body class="body" style ="background: #f4f4f4">
+  <div class="container">
+      <br>
+    <div class = "row">
+    <br>
+      <div class="z-depth-4 card-panel" style = "margin-left: 140px; margin-right: 140px;">
+        <div class = "row">
+          <div class = "s12"> 
+          <br>
+            <h2 class = "center"><font style = "font-weight: 100;">Dialogue Annotation</font></h2>
+            <br>
+          </div>
+          <div class="col s6 push-s3">
+            <div class="input-field" style = "text-align: center;">
+            <input placeholder="Enter mTurk ID" id="mTurkId" type="text" class="validate">
+            </div>
+          </div>
+          <div class = "col s12">
+            <div class = "center">
+              <a style = "background: #3ece4b;" class="waves-effect waves-light btn-large" onclick="beginSession()">Begin</a>
+            </div>
+            <br>
+            <br>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <!--Import jQuery before materialize.js-->
+  <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+  <!-- Compiled and minified JavaScript -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
+  <!-- Minified D3.js -->
+  <script src="https://www.gstatic.com/firebasejs/4.1.2/firebase.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/start.js"></script>
+</body>
+</html>

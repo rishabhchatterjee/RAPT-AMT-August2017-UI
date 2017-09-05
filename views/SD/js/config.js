@@ -8,7 +8,7 @@ var config = {
     messagingSenderId: "123683927174"
   };
 //Host name
-var hostName = "localhost";
+var hostName = "104.197.197.3";
 //Strategy name
 var strategyName = "SD";
 //Full length of dialogue v.s. only 5 sentences

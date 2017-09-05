@@ -1,0 +1,73 @@
+/* Scrolling Instructions and Transcript */
+div.scroll {
+    overflow: scroll;
+}
+
+div#instructions .scroll {
+    height: 100px;
+}
+
+div.transcript-container.scroll {
+    height: 300px;
+}
+
+/* Transcript Table */
+tr {
+    border: 1px solid #009688; /* border-width border-style border-color */
+}
+
+.P1 {
+    background-color: #e0f2f1;
+}
+
+.P2 {
+    background-color: #b2dfdb;
+}
+
+.Experimenter {
+    background-color: #80cbc4;
+}
+
+tr .current {
+    border: 3x solid #009688;
+}
+
+
+.players {
+    position: absolute;
+    box-sizing: border-box;
+   	width: 65%;
+    height: 300px;    
+    overflow: hidden;
+    list-style-type: none;
+}
+
+.players > li {
+	margin-top: 0px;
+    position:absolute;
+}
+
+
+.input-field input:focus + label {
+ color: #3ece4b !important;
+}
+/* label underline focus color */
+.row .input-field input:focus {
+ border-bottom: 1px solid #3ece4b !important;
+ box-shadow: 0 1px 0 0 #3ece4b !important
+}
+
+[type="radio"]:checked + label:before {
+border-radius: 50%;
+border: 2px solid #ea546b; }
+
+[type="radio"]:checked + label:after {
+border-radius: 50%;
+border: 2px solid #ea546b;
+background-color: #ea546b;
+z-index: 0;
+-webkit-transform: scale(.5);
+-moz-transform: scale(.5);
+-ms-transform: scale(.5);
+-o-transform: scale(.5);
+transform: scale(.5); }

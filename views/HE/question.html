@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang = "eng">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dialogue Annotation</title>
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
+  <!-- Material Design Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="css/ionicons.min.css">
+  <!-- CSS custom stylesheet -->
+  <link rel="stylesheet" href="css/default.css">
+</head>
+
+<body class="body" style ="background: #f4f4f4">
+<div class="container">
+  <br>
+  <div class = "row">
+    <br>
+    <div class = "col s12 z-depth-2 card-panel">
+      <div class = "s12">
+        <br>
+        <h1 class = "center"><font style = "font-weight: 100;">Quiz</font></h1>
+      </div>
+      <div class = "col s12">
+        <br>
+        <h4 class = "center"><font color= '#ea546b'  style = "font-weight: 300;">Instructions</font></h4>
+        <hr color= '#f29fa4' width = "40%">
+        <!--  <h4>[[DIALOGUE 1]]</h4> -->
+        <div class = "col s10 push-s1">
+          <h5>Introduction</h5>
+          <p>In this HIT, you will label a set of sentences with a particular type of conversational move. We will first describe the conversational move and give you a set of examples. Before you begin labeling the actual sentences, you will take a quiz to ensure you understand how to recognize the particular conversation move described.  After passing this quiz, you will be redirected to the task. </p>
+          <br>
+          <h5>Definition</h5>
+          <p>In this task, you will be labeling for <i>hedging</i>. Hedging is a rhetorical strategy used to lessen the impact of an utterance, as in “He’s sort of nice”, or the full force of a speech act, as in “I must ask you to stop doing that”<p/>
+          <br>
+          <h5>Different sorts of hedging:</h5>
+          <p>- Apologies - When used to soften the directness of an utterance, as in “Sorry, it’s not correct.”.<br />
+            - Extenders - Words used to indicate uncertainty by referring to vague categories, as in “You have to call her or something.” (also: “...and stuff”, “...and that”, “...and so forth”)<br />
+            - Qualifiers - Qualifying words used to reduce the intensity or certainty of an utterance, as in “You just have to run.” (also: “a little, maybe, just, actually, sort of, kind of, some, somewhat, pretty much, fairly”)<br/>
+            - Subjectivizer - Words that make an utterance seem more subjective to reduce the intensity or certainty, as in “I think you should do that.” (also: “I believe”, “I guess”, “I don’t know”)</p>
+          <br>
+          <p>During the annotation phase, if the sentence is not finished and there isn’t enough to decide on, choose “none”.</p>
+          <h5>Examples (Hedging vs. Non-Hedging)</h5>
+          <p><font color = '#3ece4b'>It's kinda cold here.</font><br />
+            <font color = '#f53135'>It is cold right now.</font></p>
+          <p><font color = '#3ece4b'>I think this movie fits your taste.</font><br />
+            <font color = '#f53135'>You will love this movie.</font></p>
+          <p><font color = '#3ece4b'>I haven't done this for years, sorry.</font><br />
+            <font color = '#f53135'>I'm bad at that.</font></p>
+          <p><font color = '#3ece4b'>They didn't actually write anything.</font><br />
+            <font color = '#f53135'>They didn't write anything.</font></p>
+          <p><font color = '#3ece4b'>I just figured it out in my head, yup.</font><br />
+            <font color = '#f53135'>I knew it!</font></p>
+          <br>
+        </div>
+      </div>
+
+      <div class = "col s12">
+        <br>
+        <h5 class = "center"><font color= '#ea546b'  style = "font-weight: 300;">The Quiz</font></h5>
+        <hr color= '#f29fa4'  width = "40%">
+        <div class = "col s10 push-s1">
+          <p>Choose whether the following sentences are hedging or non-hedging.</p>
+          <br>
+          <h5><font style = "font-weight: 500;">I suck at playing baseball.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group1" type="radio" id="test1" />
+              <label for="test1">Hedging</label>
+            </p>
+            <p>
+              <input name="group1" type="radio" id="test2" />
+              <label for="test2">Non-Hedging</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">So I guess you just have to.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test3" />
+              <label for="test3">Hedging</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test4" />
+              <label for="test4">Non-Hedging</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">I’m not sure where they went.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test5" />
+              <label for="test5">Hedging</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test6" />
+              <label for="test6">Non-Hedging</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">My friend Tom is ugly and he is bad at math.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test7" />
+              <label for="test7">Hedging</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test8" />
+              <label for="test8">Non-Hedging</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">Can I just do it?</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test9" />
+              <label for="test9">Hedging</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test10" />
+              <label for="test10">Non-Hedging</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">You should probably read this book or something.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test11" />
+              <label for="test11">Hedging</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test12" />
+              <label for="test12">Non-Hedging</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">I’m getting better at cooking.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test13" />
+              <label for="test13">Hedging</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test14" />
+              <label for="test14">Non-Hedging</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">Sorry, I did not hear you.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test15" />
+              <label for="test15">Hedging</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test16" />
+              <label for="test16">Non-Hedging</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">I’m just starting seventh grade.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test17" />
+              <label for="test17">Hedging</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test18" />
+              <label for="test18">Non-Hedging</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">You write your name there.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test19" />
+              <label for="test19">Hedging</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test20" />
+              <label for="test20">Non-Hedging</label>
+            </p>
+          </form>
+          <br>
+          <br>
+          <a style = "background: #3ece4b;" class="waves-effect waves-light btn-large" onclick = "submit()">Submit</a>
+          <br>
+          <br>
+          <br>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<!--Import jQuery before materialize.js-->
+<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+<!-- Compiled and minified JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
+<!-- Minified D3.js -->
+<script src="https://www.gstatic.com/firebasejs/4.1.2/firebase.js"></script>
+<script src="js/config.js"></script>
+<script src="js/question.js"></script>
+</body>
+</html>

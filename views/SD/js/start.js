@@ -23,7 +23,6 @@ function beginSession() {
 
     firebase.database().ref(strategyName + '/ids/' + id).once('value').then(function(snapshot) {
         var val = snapshot.val();
-        document.write(val);
         if (val == null) {
             //Haven't completed the quiz
             firebase.database().ref(strategyName + '/loggedIn').push(currId);

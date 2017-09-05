@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang = "eng">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WoZ Page</title>
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
+  <!-- Material Design Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="css/ionicons.min.css">
+  <!-- CSS custom stylesheet -->
+  <link rel="stylesheet" href="css/default.css">
+</head>
+
+<body class="body" style ="background: #f4f4f4">
+<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
+
+  <div class="container">
+    <div class = "row">
+      <br>
+      <div class = "col s12 z-depth-2 card-panel">
+        <div id="modal1" class="modal">
+            <div class="modal-content">
+              <h4>You have completed the task!</h4>
+              <p>Enter the following code on the mTurk website to confirm your completetion</p>
+              <blockquote id = "quote">
+                ABC123
+              </blockquote>
+            </div>
+          </div>
+        <div class = "col s12">
+          <br>
+          <h5 class = "center"><font color= '#ea546b'  style = "font-weight: 300;">Phrases</font></h5>
+          <hr color= '#f29fa4' >
+          <br>
+          <br>
+          <div class="players">
+            <li id = "1">Player 1</li>
+            <li id = "2">Player 2</li>
+            <li id = "3">Player 3</li>
+            <li id = "4">Player 4</li>
+            <li id = "5">Player 5</li>
+            <li id = "6">Player 6</li>
+          </div>
+          <br><br><br><br><br><br><br><br><br><br><br><br>
+        </div>
+
+        <div class = "col s12">
+          <br>
+          <br>
+          <br>
+            <div class = "center">
+              <a style = "background: #3ece4b;" class="waves-effect waves-light btn-large" onclick = "shouldStrategy(true)">VSN</a>
+              <a style = "background: #f53135;" class="waves-effect waves-light btn-large" onclick = "shouldStrategy(false)">Non-VSN</a>
+            </div>
+            <div class = "col s12">
+              <br>
+              <div class="progress" style = "background: #bfc0c1;">
+                <div id = "bar" class="determinate" style= "width: 0%; background: #5faa00;"></div>
+              </div>
+              <p><font font size="2">Note: Social norm violations are behaviors that go against culturally acceptable conventions or social rules.
+
+                <br />
+              </font>
+              <font font size="1.7">
+              <br>
+                Different sorts of social norm violations:<br/>
+                - Breaking the conversational rules - This includes violation of general social norm, such as “I’m a Jew” or "Chill out bro!". It also includes inappropriate topics (e.g. violence and sex - "hanging dead bodies from the ceiling", “I’m gonna put my nut sack on your drumset” etc.) and things you are not expected to say to someone you are not already intimate with.<br/>
+                - Face threatening acts - This includes criticizing, teasing, or insulting things such as personality (e.g. “You’re a weirdo”), personal habits (e.g. “You stink”), work habits (“That’s not going to get you very far in life!”) or interests (“I can’t believe you like World of Warcraft!”) among other things. Sarcastic remarks still count.<br/>
+                - Referring to specific violations of social norms - This includes referring by oneself, as in “I don’t burp in front of people” or by other people, as in “Come on! Don’t burp in front of me!”.<br/>
+
+                During the annotation phase, if the sentence is not finished and there isn’t enough to decide on, choose “none”
+              </font></p>
+            </div>
+            <br>
+            <br>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="js/jquery.transit.min.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/4.1.2/firebase.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/default.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang = "eng">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dialogue Annotation</title>
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
+  <!-- Material Design Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="css/ionicons.min.css">
+  <!-- CSS custom stylesheet -->
+  <link rel="stylesheet" href="css/default.css">
+</head>
+
+<body class="body" style ="background: #f4f4f4">
+<div class="container">
+  <br>
+  <div class = "row">
+    <br>
+    <div class = "col s12 z-depth-2 card-panel">
+      <div class = "s12">
+        <br>
+        <h1 class = "center"><font style = "font-weight: 100;">Quiz</font></h1>
+      </div>
+      <div class = "col s12">
+        <br>
+        <h4 class = "center"><font color= '#ea546b'  style = "font-weight: 300;">Instructions</font></h4>
+        <hr color= '#f29fa4' width = "40%">
+        <!--  <h4>[[DIALOGUE 1]]</h4> -->
+        <div class = "col s10 push-s1">
+          <h5>Introduction</h5>
+          <p>In this HIT, you will label a set of sentences with a particular type of conversational move. We will first describe the conversational move and give you a set of examples. Before you begin labeling the actual sentences, you will take a quiz to ensure you understand how to recognize the particular conversation move described.  After passing this quiz, you will be redirected to the task. </p>
+          <br>
+          <h5>Definition</h5>
+          <p>In this task, you will be labeling for questions that elicit self-disclosure. A question that elicits self-disclosure (QESD) is when people ask questions to which the responses are expected to be self-disclosures. Self-Disclosures reveal deep, personal, or enduring information about ourselves to other people that wouldn’t typically be publicly known. So, for example, "What is your biggest fear?” IS a question to elicit self-disclosure because it expects an intimate or personal answer in return. “Do you know what time it is?” is NOT a question to elicit self-disclosure because its answer will not reveal any deep, personal or enduring information about its author. </p>
+          <br>
+          <h5>Things that are NOT questions to elicit self-disclosure:</h5>
+          <p>- “Do you have a pencil?” - Just because it is a question does not mean it is a QESD. Here, the answer expected does not deliver any intimate or personal information about its author.<br />
+            - “Do you think Tom has a girlfriend?” - Here, the answer to this question is an opinion, not a personal information.<br />
+            - During the annotation phase, if the sentence is not finished and there isn’t enough to decide on, choose “none”.</p>
+          <br>
+          <h5>Examples (Question to elicit self-Disclosure vs. Not a question to elicit self-Disclosure)</h5>
+          <p><font color = '#3ece4b'>Have you ever been to Japan?</font><br />
+            <font color = '#f53135'>I'd love to go to Japan.</font></p>
+          <p><font color = '#3ece4b'>Do you have any pets?</font><br />
+            <font color = '#f53135'>What are you eating?</font></p>
+          <p><font color = '#3ece4b'>Do you play sports?</font><br />
+            <font color = '#f53135'>Are you ready?</font></p>
+          <p><font color = '#3ece4b'>What is your favorite movie?</font><br />
+            <font color = '#f53135'>Do you think it's gonna rain?</font></p>
+          <p><font color = '#3ece4b'>What did you do last week-end?</font><br />
+            <font color = '#f53135'>Where is Stockholm?</font></p>
+          <br/>
+        </div>
+      </div>
+
+      <div class = "col s12">
+        <br>
+        <h5 class = "center"><font color= '#ea546b'  style = "font-weight: 300;">The Quiz</font></h5>
+        <hr color= '#f29fa4'  width = "40%">
+        <div class = "col s10 push-s1">
+          <p>Choose whether the following sentences are questions to elicit self-disclosure or not questions to elicit self-disclosure.</p>
+          <br>
+          <h5><font style = "font-weight: 500;">Do you play basketball?</font></h5>
+          <form action="#">
+            <p>
+              <input name="group1" type="radio" id="test1" />
+              <label for="test1">Question to elicit self-disclosure</label>
+            </p>
+            <p>
+              <input name="group1" type="radio" id="test2" />
+              <label for="test2">Not a question to elicit self-disclosure</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">How often do you go back to your hometown?</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test3" />
+              <label for="test3">Question to elicit self-disclosure</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test4" />
+              <label for="test4">Not a question to elicit self-disclosure</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">Are you sure about that?</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test5" />
+              <label for="test5">Question to elicit self-disclosure</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test6" />
+              <label for="test6">Not a question to elicit self-disclosure</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">Do you know how to play the piano?</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test7" />
+              <label for="test7">Question to elicit self-disclosure</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test8" />
+              <label for="test8">Not a question to elicit self-disclosure</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">Do you think she will be late?</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test9" />
+              <label for="test9">Question to elicit self-disclosure</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test10" />
+              <label for="test10">Not a question to elicit self-disclosure</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">Have you ever done that before?</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test11" />
+              <label for="test11">Question to elicit self-disclosure</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test12" />
+              <label for="test12">Not a question to elicit self-disclosure</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">I’m getting better at cooking.</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test13" />
+              <label for="test13">Question to elicit self-disclosure</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test14" />
+              <label for="test14">Not a question to elicit self-disclosure</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">What grade are you in?</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test15" />
+              <label for="test15">Question to elicit self-disclosure</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test16" />
+              <label for="test16">Not a question to elicit self-disclosure</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">How big is this screen?</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test17" />
+              <label for="test17">Question to elicit self-disclosure</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test18" />
+              <label for="test18">Not a question to elicit self-disclosure</label>
+            </p>
+          </form>
+          <br>
+          <h5><font style = "font-weight: 500;">Would you like to visit Paris?</font></h5>
+          <form action="#">
+            <p>
+              <input name="group2" type="radio" id="test19" />
+              <label for="test19">Question to elicit self-disclosure</label>
+            </p>
+            <p>
+              <input name="group2" type="radio" id="test20" />
+              <label for="test20">Not a question to elicit self-disclosure</label>
+            </p>
+          </form>
+          <br>
+          <br>
+          <a style = "background: #3ece4b;" class="waves-effect waves-light btn-large" onclick = "submit()">Submit</a>
+          <br>
+          <br>
+          <br>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<!--Import jQuery before materialize.js-->
+<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+<!-- Compiled and minified JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
+<!-- Minified D3.js -->
+<script src="https://www.gstatic.com/firebasejs/4.1.2/firebase.js"></script>
+<script src="js/config.js"></script>
+<script src="js/question.js"></script>
+</body>
+</html>
