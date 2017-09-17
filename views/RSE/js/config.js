@@ -12,10 +12,12 @@ var hostName = "104.197.197.3";
 //Strategy name
 var strategyName = "RSE";
 //Full length of dialogue v.s. only 5 sentences
-var shortVersion = true;
+var shortVersion = false;
 //Dialogue file
 var dialogueFile = "../../../data/inmind_all.csv";
 //sentence line num per section
-var sectionSize = 125;
+var sectionSize = 130;
 //max hit num
-var numHit = 100;
+var numHit = 10;
+//max rater num (5 raters per session)
+var maxRaterNum = 3;

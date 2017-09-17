@@ -6,22 +6,21 @@ var wholeDatabase = firebase.database().ref(strategyName);
 
 var sectionCompleting;
 
-var sectionSize = 125;
-
 //Functions to log user out if window is closed or goes back
 window.onbeforeunload = function(){
 
+    ///////////////
     // wholeDatabase.once("value").then(function(snapshot) {
     //        var database = snapshot.val();
     //        // loggedVal = database.loggedIn;
-
+    //
     //        // Object.keys(loggedVal).forEach(function(key) {
     //        //     if (loggedVal[key] == currId) {
     //        //         isLoggedIn = true;
     //        //     }
     //        // });
-
-
+    //
+    //
     //        if (sectionCompleting != null) {
     //        	var currCount = database.completedNow[sectionCompleting]["count"];
     //        	if (currCount != 0) {
@@ -29,8 +28,9 @@ window.onbeforeunload = function(){
     //        	}
     // 		firebase.database().ref('completedNow/'+ sectionCompleting + '/' + currId).remove();
     //        }
-
+    //
     //    });
+    ///////////////
 
     loggedIn.once("value").then(function(snapshot) {
         snapshot.forEach(function(child) {
@@ -68,49 +68,53 @@ function checkLoggedIn() {
     //currId = a.substring(a.indexOf("?")+1);
 
     currId = a.substring(a.lastIndexOf("?")+1, a.lastIndexOf("~"));
-    tempSection = a.substring(a.lastIndexOf("~")+1)
+    tempSection = a.substring(a.lastIndexOf("~")+1);
+
+    ///////////////
     // wholeDatabase.once("value").then(function(snapshot) {
     //     var database = snapshot.val();
     //     loggedVal = database.loggedIn;
-
+    //
     //     console.log(loggedVal)
-
+    //
     //     Object.keys(loggedVal).forEach(function(key) {
     //         if (loggedVal[key] == currId) {
     //             isLoggedIn = true;
     //         }
     //     });
-
-
+    //
+    //
     //     if (isLoggedIn == false) {
     //         console.log("Not logged in");
-
+    //
     //         if (sectionCompleting != null) {
     //         	var currCount = database.completedNow[sectionCompleting]["count"];
     //         	if (currCount != 0) {
     //         		firebase.database().ref('completedNow/'+ sectionCompleting + '/count').set(currCount - 1);
     //         	}
-    // firebase.database().ref('completedNow/'+ sectionCompleting + '/' + currId).remove();
+    //             firebase.database().ref('completedNow/'+ sectionCompleting + '/' + currId).remove();
     //         }
-
-    //         window.open("http://localhost:8000", "_self");
+    //
+    //         window.open("http://localhost:8000/" + strategyName, "_self");
     //     }
-
+    //
     // });
-
+    //
     // loggedIn.once("value").then(function(snapshot) {
     //     snapshot.forEach(function(child) {
     //         if (child.val() == currId) {
     //             isLoggedIn = true;
     //         }
     //     });
-
+    //
     //     if (isLoggedIn == false) {
     //         console.log("Not logged in");
-
-    //         window.open("http://localhost:8000", "_self");
+    //
+    //         window.open("http://localhost:8000/" + strategyName, "_self");
     //     }
     // });
+    ///////////////
+
 }
 
 function processData(allText) {
@@ -146,10 +150,12 @@ function findNextSection(database, lookForUser) {
         Object.keys(fireCompletedList).forEach(function(key) {
             completedList.push(key);
         });
+    }else{
+
     }
 
     Object.keys(allSections).forEach(function(key) {
-        if (allSections[key]["count"] < 5) {
+        if (allSections[key]["count"] < maxRaterNum) {
             if (done == false) {
                 res = key;
                 done = true;
@@ -208,6 +214,7 @@ $(document).ready(function() {
                     sectionCompleting = findNextSection(database, false);
                 } else {
                     sectionCompleting = findNextSection(database, true);
+                    //document.write("sectionCompleting: " + sectionCompleting); //degug
                 }
 
                 sectionCompleting = tempSection;
@@ -215,7 +222,7 @@ $(document).ready(function() {
 
                 var sectionNum = parseInt(sectionCompleting.charAt(sectionCompleting.length - 1)) - 1;
 
-                //document.write("sectionNum: " + sectionNum); //degug
+                console.log(res);
 
                 var section = res[sectionNum];
                 if(shortVersion) var section = res[sectionNum].slice(0, 5);
@@ -243,7 +250,7 @@ var currElem = 4;
 var arrCurrNum = 2;
 
 var arr = ["", "", "", "1","2","3"];
-var isStrategy = false;
+var isSD = false;
 
 var arrLog = [];
 var firstTime = true;
@@ -275,15 +282,15 @@ function findSocial(data) {
     var expertAns = [];
 
     var tempArr = [];
-    var arrSD = [];
+    var arrStrategy = [];
     for (var i = indexs[0]["line"]; i < data.length; i++) {
 
         //(j == 150 || i == data.length - 1) Use if you want the last x number less than 150 sentences
 
         if (j == 125) {
             allLinesArr.push(tempArr);
-            expertAns.push(arrSD);
-            arrSD = [];
+            expertAns.push(arrStrategy);
+            arrStrategy = [];
             tempArr = [];
             j = 0;
         }
@@ -297,9 +304,9 @@ function findSocial(data) {
                 }
 
                 if (data[i][6] == strategyName || data[i][5] == strategyName) {
-                    arrSD.push("1");
+                    arrStrategy.push("1");
                 } else {
-                    arrSD.push("0");
+                    arrStrategy.push("0");
                 }
             }
             j++;
@@ -313,7 +320,7 @@ function findSocial(data) {
     // //Finds the sentences from the sections and displays if P1 or P2 is talking
     // for (var i = 0; i < indexs.length; i = i + 2) {
     // 	var tempArr = [];
-    // 	var arrSD = [];
+    // 	var arrStrategy = [];
     // 	for (var j = indexs[i]["line"]; j < indexs[i + 1]["line"]; j++) {
     // 		if (data[j][2] != "" || data[j][3] != "") {
     // 			if (data[j][2] != "") {
@@ -323,17 +330,17 @@ function findSocial(data) {
     //          }
 
     //          if (data[j][6] == "shouldStrategy" || data[j][5] == "shouldStrategy") {
-    //          	arrSD.push("1");
+    //          	arrStrategy.push("1");
     //          } else {
-    //          	arrSD.push("0");
+    //          	arrStrategy.push("0");
     //          }
     // 		}
     // 	}
     //     //console.log(tempArr)
     // 	//Used to output the expert log
     // 	var tempLog = firebase.database().ref('tempLog');
-    // 	if (arrSD[8] == "1") {
-    // 		tempLog.set(arrSD);
+    // 	if (arrStrategy[8] == "1") {
+    // 		tempLog.set(arrStrategy);
     // 	}
     // 	res.push(tempArr);
     // }
@@ -348,6 +355,10 @@ function getSentences(data) {
     for (var i = 0; i < data.length; i++) {
         if (j == sectionSize) {
             //push split section
+            allLinesArr.push(tempArr);
+            tempArr = [];
+            j = 0;
+        }else if(i == data.length - 1){
             allLinesArr.push(tempArr);
             tempArr = [];
             j = 0;
@@ -389,7 +400,7 @@ function call() {
 function shouldStrategy(val) {
     //Whenever should is set to true, the list will animate up
     should = true;
-    isStrategy = val;
+    isSD = val;
 }
 
 
@@ -452,7 +463,7 @@ window.players = function($elem) {
 
         //temp == -22 for this case;
         if(top < -22) {
-            top = $('.players').height()
+            top = $('.players').height();
             $elem.css("top", top);
         }
 
@@ -480,18 +491,18 @@ window.players = function($elem) {
 
 
             var sentence = arr[arrCurrNum];
-            var stringSD;
+            var stringStrategy;
 
-            if (isStrategy) {
-                stringSD = strategyName;
+            if (isSD) {
+                stringStrategy = strategyName;
             } else {
-                stringSD = "Non-" + strategyName;
+                stringStrategy = "Non-" + strategyName;
             }
 
             if (firstTime) {
                 firstTime = false;
             } else {
-                arrLog.push({sentence: sentence, strategy: stringSD});
+                arrLog.push({sentence: sentence, strategy: stringStrategy});
                 var bar = document.getElementById("bar");
                 bar.style.width = ((arrCurrNum - 2)/(arr.length - 3) * 100) + "%";
             }

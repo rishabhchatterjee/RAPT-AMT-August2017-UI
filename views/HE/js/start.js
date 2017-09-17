@@ -3,11 +3,10 @@ firebase.initializeApp(config);
 var currId;
 
 var a = location.href;
-//document.write(a);
 
 var section;
 if (a.indexOf("?") == -1) {
-    section = strategyName + "_1";
+    section = strategyName;
 } else {
     section = a.substring(a.indexOf("?")+1);
 }
@@ -26,6 +25,7 @@ function beginSession() {
         if (val == null) {
             //Haven't completed the quiz
             firebase.database().ref(strategyName + '/loggedIn').push(currId);
+            //document.write("http://" + hostName + ":8000/" + strategyName + "/question.html?" + currId + "~" + section);
             window.open("http://" + hostName + ":8000/" + strategyName + "/question.html?" + currId + "~" + section, "_self");
         } else {
             if (val.blackListed == true) {
@@ -34,8 +34,10 @@ function beginSession() {
             } else {
                 firebase.database().ref(strategyName + '/loggedIn').push(currId);
                 if (val.passed == true) {
+                    //document.write("http://" + hostName + ":8000/" + strategyName + "/start.html?" + currId + "~" + section, "_self");
                     window.open("http://" + hostName + ":8000/" + strategyName + "/start.html?" + currId + "~" + section, "_self");
                 } else {
+                    //document.write("http://" + hostName + ":8000/" + strategyName + "/question.html?" + currId + "~" + section, "_self");
                     window.open("http://" + hostName + ":8000/" + strategyName + "/question.html?" + currId + "~" + section, "_self");
                 }
             }

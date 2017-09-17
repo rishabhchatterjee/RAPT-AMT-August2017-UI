@@ -12,14 +12,18 @@ except ImportError:
 import json
 import csv
 
+
 def nominal_metric(a, b):
 	return a != b
+
 
 def interval_metric(a, b):
 	return (a-b)**2
 
+
 def ratio_metric(a, b):
 	return ((a-b)/(a+b))**2
+
 
 def krippendorff_alpha(data, metric=interval_metric, force_vecmath=False, convert_items=float, missing_items=None):
 	'''
@@ -67,6 +71,7 @@ def krippendorff_alpha(data, metric=interval_metric, force_vecmath=False, conver
 					units[it] = its
 				its.append(convert_items(g))
 
+
 	units = dict((it, d) for it, d in units.items() if len(d) > 1)  # units with pairable values
 	n = sum(len(pv) for pv in units.values())  # number of pairable values
 	
@@ -101,36 +106,39 @@ def krippendorff_alpha(data, metric=interval_metric, force_vecmath=False, conver
 
 
 if __name__ == '__main__': 
-	print("Example from http://en.wikipedia.org/wiki/Krippendorffs_Alpha")
+	print("Example from http://en.wikipedia.org/wiki/Krippendorff's_Alpha")
+
+
 	##########################################
 	#Parsing Data
 	##########################################
 
+
+
 	array = []
 
-	outputs = {}
 	allOutputs = {}
 	allOutputsScores = {}
-	strategy = 'VSN'
 
-	with open('results/amt_sep15.json') as data_file:
+	with open('SD1_sep5_0005_full.json') as data_file:
 		datas = json.load(data_file)
 
-		outputs = datas[strategy]['output']
+		outputs = datas['output']
+		#print(outputs)
 		should = False
 		allArrFirst = []
 		allArrSecond = []
-		for key in outputs:
-			log = outputs[key]['arrLog']
-			idss = outputs[key]['id']
-			score = datas[strategy]['ids'][idss]['score']
-			section = outputs[key]['sectionCompleting']
+		for key in outputs['session1']:
+			log = outputs['session1'][key]['arrLog']
+			idss = outputs['session1'][key]['id']
+			score = datas['ids'][idss]['score']
+			section = outputs['session1'][key]['sectionCompleting']
 
 			scores = []
 			arr = []
 
 			for strat in log:
-				if (strat['strategy'] == strategy):
+				if (strat['strategy'] == 'SD'):
 					arr += '1'
 				else:
 					arr += '0'
@@ -141,12 +149,13 @@ if __name__ == '__main__':
 				allOutputs[section] += [arr]
 				allOutputsScores[section] += [score]
 
+
 			# if (len(log) == 108):
 			#     allArrFirst += [arr]
 			#     scores += [score]
 			# else:
 			#     allArrSecond += [arr]
-			    #scores += [score]
+			#     #scores += [score]
 		#array = allArrSecond
 
 
@@ -154,31 +163,33 @@ if __name__ == '__main__':
 	#Finding Outlier
 	##########################################
 
-	# for key in allOutputs:
-	# 	allTotals = []
-	# 	print(key)
-	# 	for i in range(0, len(allOutputs[key])):
-	# 		total = 0
-	# 		for k in range(0, len(allOutputs[key][i])):
-	# 			if (allOutputs[key][i][k] == "1"):
-	# 				total = total + 1
-	# 		allTotals += [total]
-    #
-	# 	sumTotals = 0
-	# 	for i in range(len(allTotals)):
-	# 		sumTotals += allTotals[i]
-    #
-	# 	avgTotal = sumTotals/len(allTotals)
-    #
-	# 	farthestPos = 0
-	# 	farthestDist = 0
-    #
-	# 	for i in range(len(allTotals)):
-	# 		if (abs(allTotals[i] - avgTotal) > farthestDist):
-	# 			farthestDist = abs(allTotals[i] - avgTotal)
-	# 			farthestPos = i
-	# 	allOutputs[key].pop(farthestPos)
+	for key in allOutputs:
+		allTotals = []
+		print(key)
+		for i in range(0, len(allOutputs[key])):
+			total = 0
+			for k in range(0, len(allOutputs[key][i])):
+				if (allOutputs[key][i][k] == "1"):
+					total = total + 1
+			allTotals += [total]
 
+		sumTotals = 0
+		for i in range(len(allTotals)):
+			sumTotals += allTotals[i]
+
+		avgTotal = sumTotals/len(allTotals)
+
+		farthestPos = 0
+		farthestDist = 0
+
+
+
+		for i in range(len(allTotals)):
+			if (abs(allTotals[i] - avgTotal) > farthestDist):
+				farthestDist = abs(allTotals[i] - avgTotal)
+				farthestPos = i
+		allOutputs[key].pop(farthestPos)
+	
 
 	##########################################
 	#Handle Expert Data
@@ -187,7 +198,7 @@ if __name__ == '__main__':
 	# allExpert = {}
 	# tempLog = []
     #
-	# with open('SD1_sep5_0005.json') as data_file:
+	# with open('SD1_sep5_0005_full.json') as data_file:
 	#     expert = json.load(data_file)
 	#     tempLog = expert['tempLog']
     #
@@ -198,18 +209,21 @@ if __name__ == '__main__':
 	# 	        expertArr += '0'
 	# 	    else:
 	# 	        expertArr += '1'
-	# 	allExpert["SD_" + str(i + 1)] = expertArr
+	# 	allExpert["D5S1_" + str(i + 1)] = expertArr
+
+
 
 	##########################################
 	#No weighting
 	##########################################
+
 
 	allNoWeight = {}
 
 	for key in allOutputs:
 		arrayNoWeight = []
 
-		for i in range(0, len(allOutputs[key][0])):
+		for i in range(0, len(allOutputs[key][0])): 
 		    tempSum = 0
 		    for j in range(0, len(allOutputs[key])):
 		        if (allOutputs[key][j][i] == '1'):
@@ -227,21 +241,21 @@ if __name__ == '__main__':
 	# ##########################################
 
 
-	# timesTest2 = [417, 357, 400, 621, 597, 587]
-	# timesTest3 = [271, 686, 247, 309]
-	# timesTest4 = [190, 657, 561, 190, 490]
-	# times = [379, 911, 487, 630, 332]
-    #
+	timesTest2 = [417, 357, 400, 621, 597, 587]
+	timesTest3 = [271, 686, 247, 309]
+	timesTest4 = [190, 657, 561, 190, 490]
+	times = [379, 911, 487, 630, 332]
+
 	# a = np.array(times)
 	# std = np.std(a)
-    #
+
 	# sumTimes = 0
 	# for i in range(len(times)):
 	#     sumTimes += times[i]
-    #
+
 	# avgTime = sumTimes/len(times)
-    #
-    #
+
+
 	# sumStd = 0
 	# stdList = []
 	# for i in range(len(times)):
@@ -249,18 +263,18 @@ if __name__ == '__main__':
 	#     thisStd = temp * 10000 / std
 	#     stdList += [thisStd]
 	#     sumStd += thisStd
-    #
-    #
-    #
+
+
+
 	# timesStd = []
 	# for i in range(0, len(stdList)):
 	#     perc = (stdList[i] * 10000 / sumStd)
 	#     timesStd += [perc]
-    #
-    #
+
+
 	# timesAvgArr = []
-    #
-	# for i in range(0, len(array[0])):
+
+	# for i in range(0, len(array[0])): 
 	#     tempSum = 0
 	#     for j in range(0, len(timesStd)):
 	#         if (array[j][i] == '1'):
@@ -290,7 +304,7 @@ if __name__ == '__main__':
 
 	# timesMaxArr = []
 
-	# for i in range(0, len(array[0])): 
+	# for i in range(0, len(array[0])):
 	#     tempSum = 0
 	#     for j in range(0, len(sumTimesArr)):
 	#         if (array[j][i] == '1'):
@@ -305,34 +319,34 @@ if __name__ == '__main__':
 	#Handle weighting by quiz score
 	##########################################
 
-	# allAvgQuiz = {}
-    #
-	# for key in allOutputsScores:
-    #
-	# 	avgQuizArr = []
-	# 	weightsQuiz = []
-	# 	sumScoreQuiz = 0
-    #
-	# 	for i in range(0, len(allOutputsScores[key])):
-	# 	    sumScoreQuiz += allOutputsScores[key][i]
-    #
-	# 	for i in range(0, len(allOutputsScores[key])):
-	# 	    perc = (allOutputsScores[key][i] * 10000 /sumScoreQuiz)
-	# 	    weightsQuiz += [perc]
-    #
-	# 	#weightsQuiz.pop(3)
-    #
-	# 	for i in range(0, len(allOutputs[key][0])):
-	# 	    tempSum = 0
-	# 	    for j in range(0, len(weightsQuiz)):
-	# 	        if (allOutputs[key][j][i] == '1'):
-	# 	            tempSum += (weightsQuiz[j])
-	# 	    if (tempSum > 5000):
-	# 	        avgQuizArr += '1'
-	# 	    else:
-	# 	        avgQuizArr += '0'
-    #
-	# 	allAvgQuiz[key] = avgQuizArr
+	allAvgQuiz = {}
+
+	for key in allOutputsScores:
+
+		avgQuizArr = []
+		weightsQuiz = []
+		sumScoreQuiz = 0
+
+		for i in range(0, len(allOutputsScores[key])):
+		    sumScoreQuiz += allOutputsScores[key][i]
+
+		for i in range(0, len(allOutputsScores[key])):
+		    perc = (allOutputsScores[key][i] * 10000 /sumScoreQuiz)
+		    weightsQuiz += [perc]
+
+		#weightsQuiz.pop(3)
+
+		for i in range(0, len(allOutputs[key][0])): 
+		    tempSum = 0
+		    for j in range(0, len(weightsQuiz)-1):
+		        if (allOutputs[key][j][i] == '1'):
+		            tempSum += (weightsQuiz[j])
+		    if (tempSum > 5000):
+		        avgQuizArr += '1'
+		    else:
+		        avgQuizArr += '0'
+
+		allAvgQuiz[key] = avgQuizArr
 
 
 	##########################################
@@ -340,8 +354,8 @@ if __name__ == '__main__':
 	##########################################
 
 	# timeAndQuizArr = []
-    #
-	# for i in range(0, len(array[0])):
+
+	# for i in range(0, len(array[0])): 
 	#     tempSum = 0
 	#     for j in range(0, len(weightsQuiz)):
 	#         if (array[j][i] == '1'):
@@ -361,37 +375,8 @@ if __name__ == '__main__':
 
 	missing = '*' # indicator for missing values
 
-	# from itertools import combinations
-	# inArr = []
-	# c = list(combinations(outputs, 3))
-	# for nameArray in c:
-	# 	#[a][b][c]
-	# 	for key in outputs:
-	# 		if key in nameArray:
-	# 			log = outputs[key]['arrLog']
-    #
-	# 			scores = []
-	# 			arr = []
-    #
-	# 			for strat in log:
-	# 				if (strat['strategy'] == strategy):
-	# 					arr += '1'
-	# 				else:
-	# 					arr += '0'
-	# 			inArr.append(arr)
-    #
-	# 	print("IRR for " + str(nameArray) + ": %.3f" % krippendorff_alpha(inArr, nominal_metric, missing_items=missing))
-
-	#subset = itertools.combinations(allOutputs['SD_1'], 3)
-	#print(len(subset))
 	for key in allOutputs:
 		#nowArray = [allExpert[key], allAvgQuiz[key]]
-		nowArray = allOutputs[key]
+		nowArray = allAvgQuiz[key]
+		print(nowArray)
 		print("IRR for " + key + ": %.3f" % krippendorff_alpha(nowArray, nominal_metric, missing_items=missing))
-
-#print(nowArray)
-		#if(len(subset)>1):
-		#	print("IRR for " + key + ": %.3f" % krippendorff_alpha(subset, nominal_metric, missing_items=missing))
-		#array1 = [allOutputs[key][10], allOutputs[key][12], allOutputs[key][13], allOutputs[key][14], allOutputs[key][15]]
-		#print("IRR for " + key + ": %.3f" % krippendorff_alpha(array1, nominal_metric, missing_items=missing))
-
